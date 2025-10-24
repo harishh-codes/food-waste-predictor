@@ -1,0 +1,5236 @@
+Food type,methane gas level,humidity,temperature,spoiled or not spoiled,outcome
+Rice,356,69,25.07,not spoiled,0
+Rice,358,71,25.02,not spoiled,0
+Rice,365,74,25.17,not spoiled,0
+Rice,356,73,25.34,not spoiled,0
+Rice,364,70,25.11,not spoiled,0
+Rice,357,70,25.15,not spoiled,0
+Rice,366,67,25.46,not spoiled,0
+Rice,356,70,25.38,not spoiled,0
+Rice,357,69,25.23,not spoiled,0
+Rice,361,71,25.42,not spoiled,0
+Rice,366,68,25.3,not spoiled,0
+Rice,364,72,25.34,not spoiled,0
+Rice,363,75,25.48,not spoiled,0
+Rice,368,70,25.2,not spoiled,0
+Rice,371,71,25.26,not spoiled,0
+Rice,367,72,25.48,not spoiled,0
+Rice,364,69,25.45,not spoiled,0
+Rice,364,71,25.68,not spoiled,0
+Rice,362,70,25.54,not spoiled,0
+Rice,367,70,25.5,not spoiled,0
+Rice,362,68,25.97,not spoiled,0
+Rice,369,70,25.75,not spoiled,0
+Rice,373,71,25.83,not spoiled,0
+Rice,370,74,25.65,not spoiled,0
+Rice,367,73,25.81,not spoiled,0
+Rice,370,76,25.95,not spoiled,0
+Rice,374,68,25.8,not spoiled,0
+Rice,374,73,26.06,not spoiled,0
+Rice,366,71,25.96,not spoiled,0
+Rice,371,77,26.04,not spoiled,0
+Rice,370,68,26.03,not spoiled,0
+Rice,373,67,26.44,not spoiled,0
+Rice,372,68,26.19,not spoiled,0
+Rice,364,64,26.07,not spoiled,0
+Rice,370,68,26.39,not spoiled,0
+Rice,372,68,26.12,not spoiled,0
+Rice,368,70,26.38,not spoiled,0
+Rice,374,71,26.09,not spoiled,0
+Rice,368,76,26.22,not spoiled,0
+Rice,371,73,26.49,not spoiled,0
+Rice,377,68,26.61,not spoiled,0
+Rice,371,67,26.56,not spoiled,0
+Rice,376,71,26.55,not spoiled,0
+Rice,369,66,26.56,not spoiled,0
+Rice,381,75,26.42,not spoiled,0
+Rice,374,74,26.57,not spoiled,0
+Rice,376,69,26.65,not spoiled,0
+Rice,376,65,26.91,not spoiled,0
+Rice,378,74,26.84,not spoiled,0
+Rice,372,70,26.57,not spoiled,0
+Rice,377,74,26.92,not spoiled,0
+Rice,375,65,26.85,not spoiled,0
+Rice,372,68,26.84,not spoiled,0
+Rice,381,70,27.07,not spoiled,0
+Rice,377,70,27.17,not spoiled,0
+Rice,379,69,27.19,not spoiled,0
+Rice,379,72,26.97,not spoiled,0
+Rice,378,67,27.08,not spoiled,0
+Rice,385,70,27.22,not spoiled,0
+Rice,380,70,27.35,not spoiled,0
+Rice,376,72,27.17,not spoiled,0
+Rice,379,72,27.25,not spoiled,0
+Rice,382,67,27.15,not spoiled,0
+Rice,383,65,27.17,not spoiled,0
+Rice,378,74,27.51,not spoiled,0
+Rice,385,71,27.63,not spoiled,0
+Rice,377,68,27.45,not spoiled,0
+Rice,386,75,27.65,not spoiled,0
+Rice,379,70,27.59,not spoiled,0
+Rice,383,74,27.48,not spoiled,0
+Rice,387,70,27.67,not spoiled,0
+Rice,384,76,27.88,not spoiled,0
+Rice,387,75,27.68,not spoiled,0
+Rice,386,69,27.96,not spoiled,0
+Rice,389,73,27.37,not spoiled,0
+Rice,388,72,27.93,not spoiled,0
+Rice,384,74,27.85,not spoiled,0
+Rice,388,67,27.83,not spoiled,0
+Rice,382,72,27.93,not spoiled,0
+Rice,386,73,27.65,not spoiled,0
+Rice,389,65,27.96,not spoiled,0
+Rice,388,66,28.08,not spoiled,0
+Rice,389,64,28.28,not spoiled,0
+Rice,387,69,28.02,not spoiled,0
+Rice,392,72,28.02,not spoiled,0
+Rice,388,75,28.1,not spoiled,0
+Rice,388,70,28.35,not spoiled,0
+Rice,392,75,28.3,not spoiled,0
+Rice,385,66,28.21,not spoiled,0
+Rice,391,65,28.4,not spoiled,0
+Rice,387,70,28.38,not spoiled,0
+Rice,394,71,28.54,not spoiled,0
+Rice,390,70,28.33,not spoiled,0
+Rice,392,64,28.42,not spoiled,0
+Rice,393,70,28.45,not spoiled,0
+Rice,386,66,28.33,not spoiled,0
+Rice,390,72,28.63,not spoiled,0
+Rice,396,71,28.66,not spoiled,0
+Rice,396,67,28.66,not spoiled,0
+Rice,394,68,28.66,not spoiled,0
+Rice,390,67,28.52,not spoiled,0
+Rice,396,70,28.71,not spoiled,0
+Rice,396,73,28.76,not spoiled,0
+Rice,395,67,28.73,not spoiled,0
+Rice,399,72,28.86,not spoiled,0
+Rice,393,68,28.98,not spoiled,0
+Rice,394,68,29.24,not spoiled,0
+Rice,389,70,29.02,not spoiled,0
+Rice,399,67,29.07,not spoiled,0
+Rice,398,68,29.06,not spoiled,0
+Rice,392,66,28.82,not spoiled,0
+Rice,392,76,29.14,not spoiled,0
+Rice,395,70,29.19,not spoiled,0
+Rice,400,68,29.59,not spoiled,0
+Rice,397,71,29.23,not spoiled,0
+Rice,396,70,29.34,not spoiled,0
+Rice,396,69,29.33,not spoiled,0
+Rice,396,72,29.2,not spoiled,0
+Rice,394,72,29.58,not spoiled,0
+Rice,396,68,29.56,not spoiled,0
+Rice,397,68,29.6,not spoiled,0
+Rice,403,69,29.38,not spoiled,0
+Rice,401,63,29.77,not spoiled,0
+Rice,399,65,29.38,not spoiled,0
+Rice,409,74,29.72,not spoiled,0
+Rice,400,75,30.0,not spoiled,0
+Rice,406,69,29.56,not spoiled,0
+Rice,408,72,29.66,not spoiled,0
+Rice,398,71,29.8,not spoiled,0
+Rice,404,79,29.74,not spoiled,0
+Rice,402,73,29.62,not spoiled,0
+Rice,402,70,29.9,not spoiled,0
+Rice,406,67,29.77,not spoiled,0
+Rice,403,65,30.04,spoiled,1
+Rice,404,71,29.87,not spoiled,0
+Rice,405,68,30.28,spoiled,1
+Rice,405,66,29.96,not spoiled,0
+Rice,403,68,30.07,spoiled,1
+Rice,409,67,30.28,spoiled,1
+Rice,410,75,30.01,spoiled,1
+Rice,408,73,30.26,spoiled,1
+Rice,406,70,30.46,spoiled,1
+Rice,406,74,30.06,spoiled,1
+Rice,406,70,30.37,spoiled,1
+Rice,416,67,30.42,spoiled,1
+Rice,412,75,30.53,spoiled,1
+Rice,407,72,30.27,spoiled,1
+Rice,410,67,30.29,spoiled,1
+Rice,409,69,30.61,spoiled,1
+Rice,412,67,30.61,spoiled,1
+Rice,412,66,30.64,spoiled,1
+Rice,414,73,30.69,spoiled,1
+Rice,409,76,30.58,spoiled,1
+Rice,412,66,30.75,spoiled,1
+Rice,407,72,30.8,spoiled,1
+Rice,408,68,30.68,spoiled,1
+Rice,415,69,31.11,spoiled,1
+Rice,410,68,30.94,spoiled,1
+Rice,411,67,30.72,spoiled,1
+Rice,414,70,31.04,spoiled,1
+Rice,416,68,30.83,spoiled,1
+Rice,411,71,31.13,spoiled,1
+Rice,404,70,31.23,spoiled,1
+Rice,412,69,30.97,spoiled,1
+Rice,419,67,31.27,spoiled,1
+Rice,417,68,31.23,spoiled,1
+Rice,420,72,31.32,spoiled,1
+Rice,413,72,31.52,spoiled,1
+Rice,412,67,31.24,spoiled,1
+Rice,418,70,31.2,spoiled,1
+Rice,418,72,31.22,spoiled,1
+Rice,418,65,31.27,spoiled,1
+Rice,421,72,31.41,spoiled,1
+Rice,420,68,31.51,spoiled,1
+Rice,420,72,31.54,spoiled,1
+Rice,421,68,31.66,spoiled,1
+Rice,421,65,31.58,spoiled,1
+Rice,422,65,31.83,spoiled,1
+Rice,423,70,31.61,spoiled,1
+Rice,425,71,32.09,spoiled,1
+Rice,419,67,31.82,spoiled,1
+Rice,422,72,31.63,spoiled,1
+Rice,420,65,31.64,spoiled,1
+Rice,419,70,31.91,spoiled,1
+Rice,420,66,31.84,spoiled,1
+Rice,424,68,32.02,spoiled,1
+Rice,424,70,32.02,spoiled,1
+Rice,424,67,31.97,spoiled,1
+Rice,423,69,31.9,spoiled,1
+Rice,424,73,31.83,spoiled,1
+Rice,426,68,32.03,spoiled,1
+Rice,420,73,32.26,spoiled,1
+Rice,425,67,32.2,spoiled,1
+Rice,425,72,32.02,spoiled,1
+Rice,428,74,32.27,spoiled,1
+Rice,422,63,32.34,spoiled,1
+Rice,430,68,32.19,spoiled,1
+Rice,427,72,32.38,spoiled,1
+Rice,427,69,32.41,spoiled,1
+Rice,426,71,32.26,spoiled,1
+Rice,429,68,32.52,spoiled,1
+Rice,428,70,32.59,spoiled,1
+Rice,432,70,32.71,spoiled,1
+Rice,424,74,32.74,spoiled,1
+Rice,429,71,32.41,spoiled,1
+Rice,430,71,32.52,spoiled,1
+Rice,429,69,32.77,spoiled,1
+Rice,428,69,32.81,spoiled,1
+Rice,429,69,32.85,spoiled,1
+Rice,431,71,33.39,spoiled,1
+Rice,425,69,32.93,spoiled,1
+Rice,434,71,33.05,spoiled,1
+Rice,430,76,33.06,spoiled,1
+Rice,432,73,33.05,spoiled,1
+Rice,433,69,32.95,spoiled,1
+Rice,431,74,33.15,spoiled,1
+Rice,432,69,32.95,spoiled,1
+Rice,427,64,33.07,spoiled,1
+Rice,436,67,33.07,spoiled,1
+Rice,437,64,33.19,spoiled,1
+Rice,429,69,33.57,spoiled,1
+Rice,433,70,32.98,spoiled,1
+Rice,431,75,33.4,spoiled,1
+Rice,435,71,33.09,spoiled,1
+Rice,437,69,33.3,spoiled,1
+Rice,439,72,33.57,spoiled,1
+Rice,439,63,33.45,spoiled,1
+Rice,440,71,33.32,spoiled,1
+Rice,436,72,33.41,spoiled,1
+Rice,434,66,33.66,spoiled,1
+Rice,437,73,33.48,spoiled,1
+Rice,440,71,33.66,spoiled,1
+Rice,434,69,33.67,spoiled,1
+Rice,443,72,33.61,spoiled,1
+Rice,441,77,34.06,spoiled,1
+Rice,439,71,33.87,spoiled,1
+Rice,437,71,33.51,spoiled,1
+Rice,438,69,33.88,spoiled,1
+Rice,440,67,33.79,spoiled,1
+Rice,440,72,34.06,spoiled,1
+Rice,444,67,33.85,spoiled,1
+Rice,440,70,33.99,spoiled,1
+Rice,443,69,34.12,spoiled,1
+Rice,442,71,34.21,spoiled,1
+Rice,443,71,33.93,spoiled,1
+Rice,442,73,34.1,spoiled,1
+Rice,445,68,34.12,spoiled,1
+Rice,445,69,34.13,spoiled,1
+Rice,445,67,34.53,spoiled,1
+Rice,446,69,34.36,spoiled,1
+Rice,441,71,34.15,spoiled,1
+Rice,445,72,34.51,spoiled,1
+Rice,449,67,34.73,spoiled,1
+Rice,447,73,34.61,spoiled,1
+Rice,442,74,34.26,spoiled,1
+Rice,446,71,34.45,spoiled,1
+Rice,447,76,34.75,spoiled,1
+Rice,444,68,34.49,spoiled,1
+Rice,443,66,34.7,spoiled,1
+Rice,446,65,34.79,spoiled,1
+Rice,445,74,34.57,spoiled,1
+Rice,448,72,34.74,spoiled,1
+Rice,443,70,34.3,spoiled,1
+Rice,450,71,34.67,spoiled,1
+Rice,447,67,34.82,spoiled,1
+Rice,452,77,34.71,spoiled,1
+Rice,449,70,35.18,spoiled,1
+Rice,450,70,34.76,spoiled,1
+Rice,450,72,34.95,spoiled,1
+Rice,449,71,35.07,spoiled,1
+Rice,458,71,35.3,spoiled,1
+Rice,450,68,34.91,spoiled,1
+Rice,455,71,35.34,spoiled,1
+Rice,449,76,35.2,spoiled,1
+Rice,453,74,35.09,spoiled,1
+Rice,454,75,35.34,spoiled,1
+Rice,453,68,35.34,spoiled,1
+Rice,452,67,35.26,spoiled,1
+Rice,453,70,35.4,spoiled,1
+Rice,453,70,35.36,spoiled,1
+Rice,461,73,35.48,spoiled,1
+Rice,455,65,35.6,spoiled,1
+Rice,457,75,35.77,spoiled,1
+Rice,461,70,35.39,spoiled,1
+Rice,453,69,35.93,spoiled,1
+Rice,456,67,35.35,spoiled,1
+Rice,455,65,35.66,spoiled,1
+Rice,456,72,35.81,spoiled,1
+Rice,456,70,35.8,spoiled,1
+Rice,455,66,35.7,spoiled,1
+Rice,458,66,35.8,spoiled,1
+Rice,455,69,35.8,spoiled,1
+Rice,461,75,35.82,spoiled,1
+Rice,461,69,36.07,spoiled,1
+Rice,458,65,36.04,spoiled,1
+Rice,458,69,35.92,spoiled,1
+Rice,460,69,36.19,spoiled,1
+Rice,458,62,36.14,spoiled,1
+Rice,466,70,36.25,spoiled,1
+Rice,462,69,36.26,spoiled,1
+Rice,462,72,36.08,spoiled,1
+Rice,463,76,36.16,spoiled,1
+Rice,460,73,36.39,spoiled,1
+Rice,465,69,36.41,spoiled,1
+Rice,463,67,36.35,spoiled,1
+Rice,466,78,36.41,spoiled,1
+Rice,462,70,36.62,spoiled,1
+Rice,467,70,36.38,spoiled,1
+Rice,465,70,36.59,spoiled,1
+Rice,471,71,36.51,spoiled,1
+Rice,463,70,36.55,spoiled,1
+Rice,465,68,36.78,spoiled,1
+Rice,462,68,36.78,spoiled,1
+Rice,464,70,36.81,spoiled,1
+Rice,468,68,36.93,spoiled,1
+Rice,469,68,36.77,spoiled,1
+Rice,475,70,36.91,spoiled,1
+Rice,466,69,36.8,spoiled,1
+Rice,464,75,36.93,spoiled,1
+Rice,470,62,36.9,spoiled,1
+Rice,464,73,36.97,spoiled,1
+Rice,470,74,37.08,spoiled,1
+Rice,467,64,36.91,spoiled,1
+Rice,469,69,37.38,spoiled,1
+Rice,472,69,36.95,spoiled,1
+Rice,469,66,36.96,spoiled,1
+Rice,473,68,37.35,spoiled,1
+Rice,473,67,37.33,spoiled,1
+Rice,465,75,37.35,spoiled,1
+Rice,468,73,37.38,spoiled,1
+Rice,466,74,37.33,spoiled,1
+Rice,477,72,37.23,spoiled,1
+Rice,471,67,37.41,spoiled,1
+Rice,477,68,37.34,spoiled,1
+Rice,468,71,37.62,spoiled,1
+Rice,471,66,37.49,spoiled,1
+Rice,476,72,37.43,spoiled,1
+Rice,474,69,37.54,spoiled,1
+Rice,475,69,37.69,spoiled,1
+Rice,470,72,37.58,spoiled,1
+Rice,479,71,37.58,spoiled,1
+Rice,477,69,37.78,spoiled,1
+Rice,476,73,37.81,spoiled,1
+Rice,473,67,37.74,spoiled,1
+Rice,477,72,37.78,spoiled,1
+Rice,475,72,37.92,spoiled,1
+Rice,472,69,37.71,spoiled,1
+Rice,477,71,37.75,spoiled,1
+Rice,477,66,37.89,spoiled,1
+Roti/Chapati,331,58,20.16,not spoiled,0
+Roti/Chapati,330,63,19.71,not spoiled,0
+Roti/Chapati,330,62,20.12,not spoiled,0
+Roti/Chapati,331,64,19.95,not spoiled,0
+Roti/Chapati,335,56,20.21,not spoiled,0
+Roti/Chapati,329,58,20.26,not spoiled,0
+Roti/Chapati,333,61,20.23,not spoiled,0
+Roti/Chapati,335,57,20.4,not spoiled,0
+Roti/Chapati,334,62,20.13,not spoiled,0
+Roti/Chapati,333,64,20.53,not spoiled,0
+Roti/Chapati,336,58,20.3,not spoiled,0
+Roti/Chapati,325,60,20.21,not spoiled,0
+Roti/Chapati,336,64,20.44,not spoiled,0
+Roti/Chapati,332,65,20.21,not spoiled,0
+Roti/Chapati,329,62,20.6,not spoiled,0
+Roti/Chapati,336,62,20.56,not spoiled,0
+Roti/Chapati,339,57,20.83,not spoiled,0
+Roti/Chapati,335,61,20.78,not spoiled,0
+Roti/Chapati,338,62,20.52,not spoiled,0
+Roti/Chapati,341,59,20.64,not spoiled,0
+Roti/Chapati,340,58,20.88,not spoiled,0
+Roti/Chapati,341,56,20.97,not spoiled,0
+Roti/Chapati,339,55,21.07,not spoiled,0
+Roti/Chapati,337,54,21.11,not spoiled,0
+Roti/Chapati,333,62,20.95,not spoiled,0
+Roti/Chapati,337,60,21.06,not spoiled,0
+Roti/Chapati,336,59,21.24,not spoiled,0
+Roti/Chapati,345,59,21.04,not spoiled,0
+Roti/Chapati,338,61,21.18,not spoiled,0
+Roti/Chapati,339,60,21.12,not spoiled,0
+Roti/Chapati,341,56,21.12,not spoiled,0
+Roti/Chapati,340,63,21.25,not spoiled,0
+Roti/Chapati,345,61,21.18,not spoiled,0
+Roti/Chapati,338,61,21.31,not spoiled,0
+Roti/Chapati,341,63,21.21,not spoiled,0
+Roti/Chapati,339,58,21.38,not spoiled,0
+Roti/Chapati,337,64,21.52,not spoiled,0
+Roti/Chapati,340,60,21.4,not spoiled,0
+Roti/Chapati,342,63,21.53,not spoiled,0
+Roti/Chapati,341,62,21.59,not spoiled,0
+Roti/Chapati,340,57,21.68,not spoiled,0
+Roti/Chapati,339,62,21.63,not spoiled,0
+Roti/Chapati,343,61,21.85,not spoiled,0
+Roti/Chapati,339,60,21.41,not spoiled,0
+Roti/Chapati,346,60,22.21,not spoiled,0
+Roti/Chapati,344,60,21.68,not spoiled,0
+Roti/Chapati,340,62,21.91,not spoiled,0
+Roti/Chapati,344,62,21.75,not spoiled,0
+Roti/Chapati,343,60,22.03,not spoiled,0
+Roti/Chapati,346,56,22.01,not spoiled,0
+Roti/Chapati,350,61,21.91,not spoiled,0
+Roti/Chapati,340,62,22.21,not spoiled,0
+Roti/Chapati,347,67,22.07,not spoiled,0
+Roti/Chapati,346,63,22.21,not spoiled,0
+Roti/Chapati,349,54,22.03,not spoiled,0
+Roti/Chapati,348,60,22.21,not spoiled,0
+Roti/Chapati,345,65,22.55,not spoiled,0
+Roti/Chapati,347,62,22.44,not spoiled,0
+Roti/Chapati,346,61,22.38,not spoiled,0
+Roti/Chapati,352,63,22.31,not spoiled,0
+Roti/Chapati,349,58,22.42,not spoiled,0
+Roti/Chapati,355,61,22.48,not spoiled,0
+Roti/Chapati,349,59,22.56,not spoiled,0
+Roti/Chapati,348,60,22.37,not spoiled,0
+Roti/Chapati,345,62,22.67,not spoiled,0
+Roti/Chapati,345,57,22.45,not spoiled,0
+Roti/Chapati,346,64,22.9,not spoiled,0
+Roti/Chapati,352,59,22.58,not spoiled,0
+Roti/Chapati,353,61,22.78,not spoiled,0
+Roti/Chapati,347,56,22.93,not spoiled,0
+Roti/Chapati,355,62,22.78,not spoiled,0
+Roti/Chapati,351,64,22.91,not spoiled,0
+Roti/Chapati,353,58,23.11,not spoiled,0
+Roti/Chapati,358,57,23.02,not spoiled,0
+Roti/Chapati,356,61,23.03,not spoiled,0
+Roti/Chapati,353,64,22.76,not spoiled,0
+Roti/Chapati,351,56,22.92,not spoiled,0
+Roti/Chapati,348,57,23.25,not spoiled,0
+Roti/Chapati,352,59,23.22,not spoiled,0
+Roti/Chapati,354,58,23.29,not spoiled,0
+Roti/Chapati,352,58,23.31,not spoiled,0
+Roti/Chapati,355,54,23.45,not spoiled,0
+Roti/Chapati,356,62,23.26,not spoiled,0
+Roti/Chapati,355,61,23.36,not spoiled,0
+Roti/Chapati,354,55,23.23,not spoiled,0
+Roti/Chapati,357,64,23.23,not spoiled,0
+Roti/Chapati,358,65,23.21,not spoiled,0
+Roti/Chapati,354,58,23.37,not spoiled,0
+Roti/Chapati,362,63,23.77,not spoiled,0
+Roti/Chapati,357,58,23.35,not spoiled,0
+Roti/Chapati,358,61,23.58,not spoiled,0
+Roti/Chapati,361,57,23.47,not spoiled,0
+Roti/Chapati,359,67,23.61,not spoiled,0
+Roti/Chapati,362,59,23.77,not spoiled,0
+Roti/Chapati,360,60,23.68,not spoiled,0
+Roti/Chapati,358,58,23.99,not spoiled,0
+Roti/Chapati,361,66,24.09,not spoiled,0
+Roti/Chapati,357,66,23.56,not spoiled,0
+Roti/Chapati,361,65,23.84,not spoiled,0
+Roti/Chapati,361,63,23.99,not spoiled,0
+Roti/Chapati,361,58,24.19,not spoiled,0
+Roti/Chapati,361,62,24.0,not spoiled,0
+Roti/Chapati,356,60,24.1,not spoiled,0
+Roti/Chapati,361,64,23.97,not spoiled,0
+Roti/Chapati,363,63,23.95,not spoiled,0
+Roti/Chapati,363,58,24.44,not spoiled,0
+Roti/Chapati,360,63,23.99,not spoiled,0
+Roti/Chapati,367,62,24.65,not spoiled,0
+Roti/Chapati,361,52,24.45,not spoiled,0
+Roti/Chapati,367,62,24.49,not spoiled,0
+Roti/Chapati,366,59,24.51,not spoiled,0
+Roti/Chapati,363,57,24.43,not spoiled,0
+Roti/Chapati,370,57,24.56,not spoiled,0
+Roti/Chapati,362,60,24.52,not spoiled,0
+Roti/Chapati,368,61,24.67,not spoiled,0
+Roti/Chapati,369,56,24.62,not spoiled,0
+Roti/Chapati,364,61,24.52,not spoiled,0
+Roti/Chapati,371,62,24.58,not spoiled,0
+Roti/Chapati,366,66,24.6,not spoiled,0
+Roti/Chapati,368,57,24.93,not spoiled,0
+Roti/Chapati,368,59,24.73,not spoiled,0
+Roti/Chapati,367,61,24.58,not spoiled,0
+Roti/Chapati,371,63,24.97,not spoiled,0
+Roti/Chapati,371,59,25.18,not spoiled,0
+Roti/Chapati,363,64,25.1,not spoiled,0
+Roti/Chapati,373,54,24.94,not spoiled,0
+Roti/Chapati,364,56,24.83,not spoiled,0
+Roti/Chapati,373,61,25.09,not spoiled,0
+Roti/Chapati,373,56,25.13,not spoiled,0
+Roti/Chapati,367,56,25.04,not spoiled,0
+Roti/Chapati,369,58,25.31,not spoiled,0
+Roti/Chapati,368,62,25.55,not spoiled,0
+Roti/Chapati,371,54,25.34,not spoiled,0
+Roti/Chapati,371,61,25.37,not spoiled,0
+Roti/Chapati,374,63,25.25,not spoiled,0
+Roti/Chapati,376,59,25.64,not spoiled,0
+Roti/Chapati,377,59,25.46,not spoiled,0
+Roti/Chapati,371,61,25.42,not spoiled,0
+Roti/Chapati,372,59,25.56,not spoiled,0
+Roti/Chapati,368,64,25.66,not spoiled,0
+Roti/Chapati,371,57,25.65,not spoiled,0
+Roti/Chapati,377,60,25.85,not spoiled,0
+Roti/Chapati,379,61,25.77,not spoiled,0
+Roti/Chapati,371,59,25.71,not spoiled,0
+Roti/Chapati,373,51,25.85,not spoiled,0
+Roti/Chapati,375,60,25.91,not spoiled,0
+Roti/Chapati,376,63,25.68,not spoiled,0
+Roti/Chapati,373,62,26.09,not spoiled,0
+Roti/Chapati,377,61,25.91,not spoiled,0
+Roti/Chapati,375,57,25.95,not spoiled,0
+Roti/Chapati,377,61,26.15,not spoiled,0
+Roti/Chapati,379,58,26.19,not spoiled,0
+Roti/Chapati,377,61,26.01,not spoiled,0
+Roti/Chapati,376,60,26.28,not spoiled,0
+Roti/Chapati,378,57,26.11,not spoiled,0
+Roti/Chapati,378,57,26.51,not spoiled,0
+Roti/Chapati,378,61,26.15,not spoiled,0
+Roti/Chapati,378,59,26.35,not spoiled,0
+Roti/Chapati,384,57,26.24,not spoiled,0
+Roti/Chapati,381,57,26.73,not spoiled,0
+Roti/Chapati,379,59,26.25,not spoiled,0
+Roti/Chapati,382,65,26.56,not spoiled,0
+Roti/Chapati,380,58,26.41,not spoiled,0
+Roti/Chapati,384,60,26.5,not spoiled,0
+Roti/Chapati,382,60,26.67,not spoiled,0
+Roti/Chapati,381,57,26.82,not spoiled,0
+Roti/Chapati,383,55,26.92,not spoiled,0
+Roti/Chapati,377,57,26.49,not spoiled,0
+Roti/Chapati,379,61,26.8,not spoiled,0
+Roti/Chapati,379,60,27.02,not spoiled,0
+Roti/Chapati,384,62,26.59,not spoiled,0
+Roti/Chapati,389,60,26.93,not spoiled,0
+Roti/Chapati,390,60,26.92,not spoiled,0
+Roti/Chapati,386,58,27.02,not spoiled,0
+Roti/Chapati,386,63,26.88,not spoiled,0
+Roti/Chapati,379,57,26.82,not spoiled,0
+Roti/Chapati,383,57,26.79,not spoiled,0
+Roti/Chapati,383,62,27.27,not spoiled,0
+Roti/Chapati,384,56,27.33,not spoiled,0
+Roti/Chapati,385,67,27.25,not spoiled,0
+Roti/Chapati,385,60,27.16,not spoiled,0
+Roti/Chapati,381,61,27.04,not spoiled,0
+Roti/Chapati,389,58,27.41,not spoiled,0
+Roti/Chapati,384,59,27.2,not spoiled,0
+Roti/Chapati,388,59,27.3,not spoiled,0
+Roti/Chapati,394,58,27.35,not spoiled,0
+Roti/Chapati,385,62,27.45,not spoiled,0
+Roti/Chapati,381,59,27.41,not spoiled,0
+Roti/Chapati,388,63,27.57,not spoiled,0
+Roti/Chapati,392,68,27.51,not spoiled,0
+Roti/Chapati,395,59,27.75,not spoiled,0
+Roti/Chapati,386,60,27.84,not spoiled,0
+Roti/Chapati,391,61,27.74,not spoiled,0
+Roti/Chapati,389,65,27.83,not spoiled,0
+Roti/Chapati,390,60,28.12,not spoiled,0
+Roti/Chapati,399,58,27.67,not spoiled,0
+Roti/Chapati,387,56,27.7,not spoiled,0
+Roti/Chapati,392,60,28.03,not spoiled,0
+Roti/Chapati,393,59,28.26,not spoiled,0
+Roti/Chapati,395,66,27.97,not spoiled,0
+Roti/Chapati,393,65,28.31,not spoiled,0
+Roti/Chapati,394,57,28.1,not spoiled,0
+Roti/Chapati,392,58,28.02,not spoiled,0
+Roti/Chapati,394,60,28.02,not spoiled,0
+Roti/Chapati,393,64,28.3,not spoiled,0
+Roti/Chapati,396,60,28.11,not spoiled,0
+Roti/Chapati,393,58,28.3,not spoiled,0
+Roti/Chapati,396,60,28.57,not spoiled,0
+Roti/Chapati,395,58,28.32,not spoiled,0
+Roti/Chapati,399,62,28.61,not spoiled,0
+Roti/Chapati,395,58,28.27,not spoiled,0
+Roti/Chapati,391,58,28.41,not spoiled,0
+Roti/Chapati,400,63,28.32,not spoiled,0
+Roti/Chapati,394,58,28.58,not spoiled,0
+Roti/Chapati,395,56,28.73,not spoiled,0
+Roti/Chapati,395,60,28.66,not spoiled,0
+Roti/Chapati,402,59,28.87,not spoiled,0
+Roti/Chapati,391,62,28.62,not spoiled,0
+Roti/Chapati,407,61,28.8,not spoiled,0
+Roti/Chapati,402,60,28.73,not spoiled,0
+Roti/Chapati,399,60,28.9,not spoiled,0
+Roti/Chapati,399,58,28.97,not spoiled,0
+Roti/Chapati,400,60,29.02,not spoiled,0
+Roti/Chapati,401,63,28.81,not spoiled,0
+Roti/Chapati,402,57,28.88,not spoiled,0
+Roti/Chapati,402,60,28.95,not spoiled,0
+Roti/Chapati,401,63,29.06,not spoiled,0
+Roti/Chapati,400,62,29.15,not spoiled,0
+Roti/Chapati,401,64,29.28,not spoiled,0
+Roti/Chapati,401,58,29.09,not spoiled,0
+Roti/Chapati,405,55,29.01,not spoiled,0
+Roti/Chapati,404,61,29.62,not spoiled,0
+Roti/Chapati,394,61,29.16,not spoiled,0
+Roti/Chapati,405,64,29.5,not spoiled,0
+Roti/Chapati,404,64,29.42,not spoiled,0
+Roti/Chapati,403,62,29.49,not spoiled,0
+Roti/Chapati,403,62,29.49,not spoiled,0
+Roti/Chapati,407,59,29.48,not spoiled,0
+Roti/Chapati,407,56,29.64,not spoiled,0
+Roti/Chapati,402,60,29.55,not spoiled,0
+Roti/Chapati,406,63,29.83,not spoiled,0
+Roti/Chapati,402,62,29.78,not spoiled,0
+Roti/Chapati,401,63,29.83,not spoiled,0
+Roti/Chapati,404,59,29.7,not spoiled,0
+Roti/Chapati,409,59,29.78,not spoiled,0
+Roti/Chapati,409,61,29.68,not spoiled,0
+Roti/Chapati,408,58,29.84,not spoiled,0
+Roti/Chapati,409,58,29.78,not spoiled,0
+Roti/Chapati,409,61,30.17,not spoiled,0
+Roti/Chapati,406,62,30.02,not spoiled,0
+Roti/Chapati,409,59,30.08,not spoiled,0
+Roti/Chapati,411,57,30.06,not spoiled,0
+Roti/Chapati,411,58,30.17,not spoiled,0
+Roti/Chapati,413,61,30.55,not spoiled,0
+Roti/Chapati,411,61,30.17,not spoiled,0
+Roti/Chapati,411,61,30.16,not spoiled,0
+Roti/Chapati,413,62,30.38,not spoiled,0
+Roti/Chapati,410,60,29.96,not spoiled,0
+Roti/Chapati,408,61,30.39,not spoiled,0
+Roti/Chapati,410,60,30.36,not spoiled,0
+Roti/Chapati,409,63,30.31,not spoiled,0
+Roti/Chapati,409,64,30.58,not spoiled,0
+Roti/Chapati,411,56,30.55,not spoiled,0
+Roti/Chapati,410,59,30.31,not spoiled,0
+Roti/Chapati,412,60,30.52,not spoiled,0
+Roti/Chapati,407,59,30.23,not spoiled,0
+Roti/Chapati,414,65,30.75,not spoiled,0
+Roti/Chapati,413,61,30.78,not spoiled,0
+Roti/Chapati,411,58,30.66,not spoiled,0
+Roti/Chapati,416,62,30.9,not spoiled,0
+Roti/Chapati,417,61,30.67,not spoiled,0
+Roti/Chapati,410,61,30.76,not spoiled,0
+Roti/Chapati,413,65,31.01,not spoiled,0
+Roti/Chapati,413,61,30.88,not spoiled,0
+Roti/Chapati,413,59,31.01,not spoiled,0
+Roti/Chapati,418,54,30.98,not spoiled,0
+Roti/Chapati,416,60,31.04,not spoiled,0
+Roti/Chapati,416,64,31.09,not spoiled,0
+Roti/Chapati,411,60,31.08,not spoiled,0
+Roti/Chapati,419,53,31.27,not spoiled,0
+Roti/Chapati,414,59,31.17,not spoiled,0
+Roti/Chapati,418,63,31.31,not spoiled,0
+Roti/Chapati,419,62,31.24,not spoiled,0
+Roti/Chapati,422,57,31.15,not spoiled,0
+Roti/Chapati,415,58,31.56,not spoiled,0
+Roti/Chapati,410,59,31.54,not spoiled,0
+Roti/Chapati,420,58,31.85,not spoiled,0
+Roti/Chapati,425,54,31.39,not spoiled,0
+Roti/Chapati,424,62,31.55,not spoiled,0
+Roti/Chapati,421,64,31.61,not spoiled,0
+Roti/Chapati,419,55,31.82,not spoiled,0
+Roti/Chapati,423,64,31.63,not spoiled,0
+Roti/Chapati,418,60,31.57,not spoiled,0
+Roti/Chapati,423,64,31.97,not spoiled,0
+Roti/Chapati,423,60,31.78,not spoiled,0
+Roti/Chapati,425,60,32.0,not spoiled,0
+Roti/Chapati,431,61,32.02,not spoiled,0
+Roti/Chapati,424,58,31.94,not spoiled,0
+Roti/Chapati,422,64,31.96,not spoiled,0
+Roti/Chapati,423,57,31.97,not spoiled,0
+Roti/Chapati,418,59,32.07,not spoiled,0
+Roti/Chapati,422,62,32.24,not spoiled,0
+Roti/Chapati,423,58,32.03,not spoiled,0
+Roti/Chapati,423,62,32.21,not spoiled,0
+Roti/Chapati,425,64,32.06,not spoiled,0
+Roti/Chapati,423,63,32.12,not spoiled,0
+Roti/Chapati,429,54,32.31,not spoiled,0
+Roti/Chapati,426,60,32.06,not spoiled,0
+Roti/Chapati,426,63,32.7,not spoiled,0
+Roti/Chapati,426,56,32.25,not spoiled,0
+Roti/Chapati,427,62,32.47,not spoiled,0
+Roti/Chapati,430,62,32.69,not spoiled,0
+Roti/Chapati,425,56,32.42,not spoiled,0
+Roti/Chapati,426,63,32.25,not spoiled,0
+Roti/Chapati,427,61,32.57,not spoiled,0
+Roti/Chapati,424,62,32.54,not spoiled,0
+Roti/Chapati,426,57,32.37,not spoiled,0
+Roti/Chapati,428,60,32.8,not spoiled,0
+Roti/Chapati,432,55,32.82,not spoiled,0
+Roti/Chapati,430,53,33.0,not spoiled,0
+Roti/Chapati,431,60,32.71,not spoiled,0
+Roti/Chapati,433,63,32.67,not spoiled,0
+Roti/Chapati,430,61,32.89,not spoiled,0
+Roti/Chapati,432,60,32.98,not spoiled,0
+Roti/Chapati,431,59,33.17,not spoiled,0
+Roti/Chapati,432,57,33.29,not spoiled,0
+Roti/Chapati,430,59,33.3,not spoiled,0
+Roti/Chapati,425,61,33.2,not spoiled,0
+Roti/Chapati,432,59,33.32,not spoiled,0
+Roti/Chapati,437,62,33.14,not spoiled,0
+Roti/Chapati,436,61,33.3,not spoiled,0
+Roti/Chapati,436,61,33.14,not spoiled,0
+Roti/Chapati,437,63,33.37,not spoiled,0
+Roti/Chapati,434,58,33.41,not spoiled,0
+Roti/Chapati,435,62,33.7,not spoiled,0
+Roti/Chapati,433,59,33.44,not spoiled,0
+Roti/Chapati,434,61,33.53,not spoiled,0
+Roti/Chapati,437,58,33.59,not spoiled,0
+Roti/Chapati,439,57,33.53,not spoiled,0
+Roti/Chapati,435,60,33.52,not spoiled,0
+Roti/Chapati,435,54,33.87,not spoiled,0
+Roti/Chapati,436,59,33.57,not spoiled,0
+Roti/Chapati,439,55,33.56,not spoiled,0
+Roti/Chapati,433,62,33.9,not spoiled,0
+Roti/Chapati,431,63,34.01,not spoiled,0
+Roti/Chapati,436,57,33.81,not spoiled,0
+Roti/Chapati,434,61,33.85,not spoiled,0
+Roti/Chapati,437,63,34.0,not spoiled,0
+Roti/Chapati,438,63,33.89,not spoiled,0
+Paneer,344,77,19.93,not spoiled,0
+Paneer,337,74,20.27,not spoiled,0
+Paneer,340,70,20.15,not spoiled,0
+Paneer,342,80,20.2,not spoiled,0
+Paneer,344,79,20.3,not spoiled,0
+Paneer,340,71,20.09,not spoiled,0
+Paneer,336,77,20.47,not spoiled,0
+Paneer,342,73,20.35,not spoiled,0
+Paneer,347,76,20.51,not spoiled,0
+Paneer,344,76,20.3,not spoiled,0
+Paneer,344,74,20.28,not spoiled,0
+Paneer,340,73,20.69,not spoiled,0
+Paneer,340,73,20.68,not spoiled,0
+Paneer,344,72,20.54,not spoiled,0
+Paneer,340,73,20.59,not spoiled,0
+Paneer,347,75,20.94,not spoiled,0
+Paneer,343,73,20.65,not spoiled,0
+Paneer,345,77,21.13,not spoiled,0
+Paneer,340,79,20.8,not spoiled,0
+Paneer,345,73,21.08,not spoiled,0
+Paneer,343,76,20.99,not spoiled,0
+Paneer,340,76,21.18,not spoiled,0
+Paneer,349,76,21.06,not spoiled,0
+Paneer,352,75,21.17,not spoiled,0
+Paneer,351,77,21.25,not spoiled,0
+Paneer,350,76,21.14,not spoiled,0
+Paneer,347,71,21.46,not spoiled,0
+Paneer,351,78,21.32,not spoiled,0
+Paneer,353,78,21.41,not spoiled,0
+Paneer,350,73,21.35,not spoiled,0
+Paneer,346,75,21.17,not spoiled,0
+Paneer,348,77,21.57,not spoiled,0
+Paneer,355,74,22.02,not spoiled,0
+Paneer,350,78,21.82,not spoiled,0
+Paneer,341,82,21.76,not spoiled,0
+Paneer,347,73,21.77,not spoiled,0
+Paneer,350,71,21.87,not spoiled,0
+Paneer,355,76,22.0,not spoiled,0
+Paneer,351,77,21.79,not spoiled,0
+Paneer,356,74,22.18,not spoiled,0
+Paneer,351,79,22.18,not spoiled,0
+Paneer,347,71,22.23,not spoiled,0
+Paneer,352,77,22.24,not spoiled,0
+Paneer,355,73,22.23,not spoiled,0
+Paneer,355,80,22.38,not spoiled,0
+Paneer,351,81,22.42,not spoiled,0
+Paneer,354,73,22.33,not spoiled,0
+Paneer,363,73,22.34,not spoiled,0
+Paneer,352,78,22.5,not spoiled,0
+Paneer,358,74,22.77,not spoiled,0
+Paneer,350,75,22.4,not spoiled,0
+Paneer,359,75,22.42,not spoiled,0
+Paneer,354,69,22.71,not spoiled,0
+Paneer,358,75,22.75,spoiled,1
+Paneer,353,73,22.82,spoiled,1
+Paneer,358,74,22.88,spoiled,1
+Paneer,355,79,22.86,spoiled,1
+Paneer,356,71,23.17,spoiled,1
+Paneer,360,77,22.76,spoiled,1
+Paneer,358,74,22.93,spoiled,1
+Paneer,360,74,23.09,spoiled,1
+Paneer,359,77,22.91,spoiled,1
+Paneer,360,76,23.18,spoiled,1
+Paneer,361,77,23.51,spoiled,1
+Paneer,359,78,23.31,spoiled,1
+Paneer,358,74,23.4,spoiled,1
+Paneer,359,73,23.22,spoiled,1
+Paneer,365,72,23.37,spoiled,1
+Paneer,362,73,23.46,spoiled,1
+Paneer,360,84,23.52,spoiled,1
+Paneer,364,79,23.81,spoiled,1
+Paneer,364,71,23.76,spoiled,1
+Paneer,365,71,23.56,spoiled,1
+Paneer,360,76,23.81,spoiled,1
+Paneer,362,77,23.9,spoiled,1
+Paneer,362,77,24.05,spoiled,1
+Paneer,363,74,24.17,spoiled,1
+Paneer,366,75,23.83,spoiled,1
+Paneer,366,76,23.91,spoiled,1
+Paneer,366,75,23.9,spoiled,1
+Paneer,370,68,24.1,spoiled,1
+Paneer,368,74,24.26,spoiled,1
+Paneer,366,72,24.39,spoiled,1
+Paneer,363,76,24.28,spoiled,1
+Paneer,365,84,24.3,spoiled,1
+Paneer,366,76,24.42,spoiled,1
+Paneer,370,74,24.32,spoiled,1
+Paneer,368,78,24.81,spoiled,1
+Paneer,366,76,24.31,spoiled,1
+Paneer,366,76,24.63,spoiled,1
+Paneer,369,77,24.96,spoiled,1
+Paneer,372,81,24.71,spoiled,1
+Paneer,374,72,24.73,spoiled,1
+Paneer,369,76,24.76,spoiled,1
+Paneer,370,72,24.84,spoiled,1
+Paneer,367,77,25.12,spoiled,1
+Paneer,377,72,24.63,spoiled,1
+Paneer,367,74,25.25,spoiled,1
+Paneer,375,74,24.86,spoiled,1
+Paneer,371,78,25.08,spoiled,1
+Paneer,370,78,25.11,spoiled,1
+Paneer,369,71,25.31,spoiled,1
+Paneer,380,75,25.04,spoiled,1
+Paneer,374,73,25.4,spoiled,1
+Paneer,373,71,25.68,spoiled,1
+Paneer,376,74,25.23,spoiled,1
+Paneer,372,74,25.51,spoiled,1
+Paneer,374,82,25.44,spoiled,1
+Paneer,375,76,25.65,spoiled,1
+Paneer,373,71,25.64,spoiled,1
+Paneer,379,73,25.59,spoiled,1
+Paneer,375,78,25.81,spoiled,1
+Paneer,371,81,26.06,spoiled,1
+Paneer,375,70,25.82,spoiled,1
+Paneer,377,69,26.0,spoiled,1
+Paneer,374,81,25.75,spoiled,1
+Paneer,375,76,25.86,spoiled,1
+Paneer,376,72,26.12,spoiled,1
+Paneer,381,77,26.33,spoiled,1
+Paneer,377,67,26.21,spoiled,1
+Paneer,383,75,26.16,spoiled,1
+Paneer,377,76,26.26,spoiled,1
+Paneer,380,78,26.12,spoiled,1
+Paneer,378,72,26.45,spoiled,1
+Paneer,382,75,26.55,spoiled,1
+Paneer,377,72,26.4,spoiled,1
+Paneer,383,76,26.45,spoiled,1
+Paneer,381,72,26.61,spoiled,1
+Paneer,379,74,26.56,spoiled,1
+Paneer,381,72,26.66,spoiled,1
+Paneer,386,77,27.04,spoiled,1
+Paneer,382,78,26.74,spoiled,1
+Paneer,380,74,26.77,spoiled,1
+Paneer,379,75,26.78,spoiled,1
+Paneer,384,71,27.04,spoiled,1
+Paneer,384,74,26.96,spoiled,1
+Paneer,386,75,26.94,spoiled,1
+Paneer,379,83,27.28,spoiled,1
+Paneer,381,72,27.35,spoiled,1
+Paneer,388,79,27.1,spoiled,1
+Paneer,386,78,26.96,spoiled,1
+Paneer,387,76,27.44,spoiled,1
+Paneer,382,80,27.24,spoiled,1
+Paneer,383,76,27.52,spoiled,1
+Paneer,389,76,27.15,spoiled,1
+Paneer,389,75,27.63,spoiled,1
+Paneer,383,79,27.37,spoiled,1
+Paneer,383,78,27.71,spoiled,1
+Paneer,387,73,27.66,spoiled,1
+Paneer,385,71,27.56,spoiled,1
+Paneer,385,74,27.7,spoiled,1
+Paneer,385,73,27.91,spoiled,1
+Paneer,387,75,27.88,spoiled,1
+Paneer,385,79,28.0,spoiled,1
+Paneer,386,74,28.26,spoiled,1
+Paneer,390,75,27.78,spoiled,1
+Paneer,390,75,28.31,spoiled,1
+Paneer,392,78,28.14,spoiled,1
+Paneer,386,68,28.04,spoiled,1
+Paneer,391,73,28.02,spoiled,1
+Paneer,397,76,28.25,spoiled,1
+Paneer,390,79,28.47,spoiled,1
+Paneer,394,74,28.36,spoiled,1
+Paneer,395,69,28.66,spoiled,1
+Paneer,395,77,28.27,spoiled,1
+Paneer,393,73,28.53,spoiled,1
+Paneer,395,71,28.4,spoiled,1
+Paneer,395,73,28.69,spoiled,1
+Paneer,396,74,28.82,spoiled,1
+Paneer,391,73,28.68,spoiled,1
+Paneer,389,68,28.4,spoiled,1
+Paneer,390,78,28.87,spoiled,1
+Paneer,394,79,28.96,spoiled,1
+Paneer,397,77,29.01,spoiled,1
+Paneer,392,72,29.19,spoiled,1
+Paneer,399,74,28.89,spoiled,1
+Paneer,395,75,29.21,spoiled,1
+Paneer,395,77,29.33,spoiled,1
+Paneer,394,77,28.94,spoiled,1
+Paneer,392,73,29.31,spoiled,1
+Paneer,398,75,29.23,spoiled,1
+Paneer,403,76,29.35,spoiled,1
+Paneer,398,79,29.47,spoiled,1
+Paneer,393,77,29.39,spoiled,1
+Paneer,401,77,29.42,spoiled,1
+Paneer,394,75,29.57,spoiled,1
+Paneer,396,79,29.46,spoiled,1
+Paneer,399,76,29.51,spoiled,1
+Paneer,400,72,29.83,spoiled,1
+Paneer,397,79,29.6,spoiled,1
+Paneer,400,77,29.93,spoiled,1
+Paneer,403,74,29.95,spoiled,1
+Paneer,404,74,29.67,spoiled,1
+Paneer,405,76,29.88,spoiled,1
+Paneer,408,76,30.21,spoiled,1
+Paneer,405,76,29.94,spoiled,1
+Paneer,402,76,30.07,spoiled,1
+Paneer,406,80,30.26,spoiled,1
+Paneer,405,78,30.36,spoiled,1
+Paneer,405,76,30.26,spoiled,1
+Paneer,404,78,30.26,spoiled,1
+Paneer,402,72,30.61,spoiled,1
+Paneer,401,76,30.71,spoiled,1
+Paneer,405,80,30.65,spoiled,1
+Paneer,406,74,30.56,spoiled,1
+Paneer,403,72,30.48,spoiled,1
+Paneer,407,73,30.53,spoiled,1
+Paneer,412,72,30.79,spoiled,1
+Paneer,401,73,30.82,spoiled,1
+Paneer,409,74,31.02,spoiled,1
+Paneer,407,71,30.96,spoiled,1
+Paneer,409,75,30.69,spoiled,1
+Paneer,406,78,31.12,spoiled,1
+Paneer,408,72,30.87,spoiled,1
+Paneer,409,80,31.01,spoiled,1
+Paneer,408,77,31.16,spoiled,1
+Paneer,404,78,31.47,spoiled,1
+Paneer,409,73,31.69,spoiled,1
+Paneer,405,78,31.37,spoiled,1
+Paneer,412,72,31.3,spoiled,1
+Paneer,405,78,31.46,spoiled,1
+Paneer,414,76,31.56,spoiled,1
+Paneer,412,77,31.43,spoiled,1
+Paneer,413,71,31.8,spoiled,1
+Paneer,405,72,31.62,spoiled,1
+Paneer,411,77,31.71,spoiled,1
+Paneer,416,72,31.79,spoiled,1
+Paneer,411,76,31.8,spoiled,1
+Paneer,410,71,31.92,spoiled,1
+Paneer,411,78,31.75,spoiled,1
+Paneer,413,71,31.81,spoiled,1
+Paneer,411,77,31.78,spoiled,1
+Paneer,418,77,32.07,spoiled,1
+Paneer,414,73,32.17,spoiled,1
+Paneer,413,77,32.17,spoiled,1
+Paneer,411,76,32.41,spoiled,1
+Paneer,417,73,32.21,spoiled,1
+Paneer,417,72,32.36,spoiled,1
+Paneer,414,69,32.15,spoiled,1
+Paneer,410,76,32.3,spoiled,1
+Paneer,418,70,32.52,spoiled,1
+Paneer,416,75,32.59,spoiled,1
+Paneer,418,74,32.47,spoiled,1
+Paneer,424,77,32.56,spoiled,1
+Paneer,418,74,32.39,spoiled,1
+Paneer,417,74,32.62,spoiled,1
+Paneer,415,77,32.86,spoiled,1
+Paneer,418,76,32.86,spoiled,1
+Paneer,420,76,32.9,spoiled,1
+Paneer,420,76,32.89,spoiled,1
+Paneer,425,70,32.93,spoiled,1
+Paneer,422,77,32.88,spoiled,1
+Paneer,420,77,33.14,spoiled,1
+Paneer,419,72,33.15,spoiled,1
+Paneer,422,74,33.21,spoiled,1
+Paneer,419,75,33.11,spoiled,1
+Paneer,422,75,32.92,spoiled,1
+Paneer,424,76,33.46,spoiled,1
+Paneer,422,79,33.27,spoiled,1
+Paneer,421,78,33.27,spoiled,1
+Paneer,417,71,33.55,spoiled,1
+Paneer,427,77,33.44,spoiled,1
+Paneer,425,79,33.71,spoiled,1
+Paneer,425,76,33.7,spoiled,1
+Paneer,420,78,33.76,spoiled,1
+Paneer,429,81,33.5,spoiled,1
+Paneer,424,78,33.94,spoiled,1
+Paneer,424,76,33.85,spoiled,1
+Paneer,422,78,33.81,spoiled,1
+Paneer,421,75,33.94,spoiled,1
+Paneer,430,75,33.7,spoiled,1
+Paneer,430,74,34.08,spoiled,1
+Paneer,426,80,33.91,spoiled,1
+Paneer,425,73,33.92,spoiled,1
+Paneer,426,80,33.94,spoiled,1
+Paneer,427,76,34.39,spoiled,1
+Paneer,425,71,34.18,spoiled,1
+Paneer,428,76,34.56,spoiled,1
+Paneer,429,69,34.3,spoiled,1
+Paneer,432,77,34.17,spoiled,1
+Paneer,430,78,34.32,spoiled,1
+Paneer,425,73,34.72,spoiled,1
+Paneer,431,75,34.56,spoiled,1
+Paneer,430,81,34.56,spoiled,1
+Paneer,435,73,34.71,spoiled,1
+Paneer,435,72,34.82,spoiled,1
+Paneer,436,79,34.96,spoiled,1
+Paneer,430,81,35.06,spoiled,1
+Paneer,438,75,34.84,spoiled,1
+Paneer,433,78,34.75,spoiled,1
+Paneer,438,79,34.94,spoiled,1
+Paneer,432,73,35.09,spoiled,1
+Paneer,432,74,34.96,spoiled,1
+Paneer,434,79,35.01,spoiled,1
+Paneer,434,80,35.26,spoiled,1
+Paneer,438,77,35.25,spoiled,1
+Paneer,434,72,35.32,spoiled,1
+Paneer,438,81,35.25,spoiled,1
+Paneer,437,73,35.38,spoiled,1
+Paneer,435,74,35.33,spoiled,1
+Paneer,438,76,35.65,spoiled,1
+Paneer,435,80,35.72,spoiled,1
+Paneer,444,78,35.34,spoiled,1
+Paneer,429,76,35.53,spoiled,1
+Paneer,439,76,35.5,spoiled,1
+Paneer,432,75,35.68,spoiled,1
+Paneer,437,77,35.82,spoiled,1
+Paneer,438,67,35.66,spoiled,1
+Paneer,443,74,35.79,spoiled,1
+Paneer,437,76,35.83,spoiled,1
+Paneer,443,72,36.07,spoiled,1
+Paneer,436,76,36.1,spoiled,1
+Paneer,444,74,36.03,spoiled,1
+Paneer,439,80,36.22,spoiled,1
+Paneer,441,80,36.16,spoiled,1
+Paneer,440,74,36.25,spoiled,1
+Paneer,445,75,36.6,spoiled,1
+Paneer,445,75,36.6,spoiled,1
+Paneer,443,74,36.25,spoiled,1
+Paneer,439,76,36.62,spoiled,1
+Paneer,440,73,36.67,spoiled,1
+Paneer,440,72,36.43,spoiled,1
+Paneer,436,77,36.78,spoiled,1
+Paneer,447,77,36.94,spoiled,1
+Paneer,443,73,36.59,spoiled,1
+Paneer,443,78,36.67,spoiled,1
+Paneer,449,73,37.01,spoiled,1
+Paneer,443,76,36.95,spoiled,1
+Paneer,442,77,37.05,spoiled,1
+Paneer,444,75,37.07,spoiled,1
+Paneer,442,76,37.13,spoiled,1
+Paneer,447,73,36.92,spoiled,1
+Paneer,445,74,37.33,spoiled,1
+Paneer,445,74,37.4,spoiled,1
+Paneer,445,73,37.24,spoiled,1
+Paneer,447,74,37.32,spoiled,1
+Paneer,448,70,37.15,spoiled,1
+Paneer,446,74,37.51,spoiled,1
+Paneer,447,74,37.57,spoiled,1
+Paneer,448,74,37.53,spoiled,1
+Paneer,448,74,37.75,spoiled,1
+Paneer,449,75,37.59,spoiled,1
+Paneer,447,76,37.77,spoiled,1
+Paneer,453,78,37.59,spoiled,1
+Paneer,450,73,37.79,spoiled,1
+Paneer,449,71,37.82,spoiled,1
+Paneer,452,72,37.93,spoiled,1
+Paneer,451,74,37.89,spoiled,1
+Paneer,446,74,37.98,spoiled,1
+Biryani,363,68,25.05,not spoiled,0
+Biryani,360,70,24.88,not spoiled,0
+Biryani,359,67,25.21,not spoiled,0
+Biryani,364,75,25.08,not spoiled,0
+Biryani,357,62,25.27,not spoiled,0
+Biryani,359,69,25.09,not spoiled,0
+Biryani,361,70,25.23,not spoiled,0
+Biryani,366,72,25.44,not spoiled,0
+Biryani,364,67,25.26,not spoiled,0
+Biryani,360,73,25.25,not spoiled,0
+Biryani,363,66,25.47,not spoiled,0
+Biryani,362,68,25.51,not spoiled,0
+Biryani,362,72,25.37,not spoiled,0
+Biryani,368,73,25.19,not spoiled,0
+Biryani,361,66,25.43,not spoiled,0
+Biryani,370,78,25.66,not spoiled,0
+Biryani,369,67,25.48,not spoiled,0
+Biryani,370,66,25.63,not spoiled,0
+Biryani,365,72,25.57,not spoiled,0
+Biryani,367,69,25.42,not spoiled,0
+Biryani,363,69,25.65,not spoiled,0
+Biryani,366,72,25.89,not spoiled,0
+Biryani,370,65,25.47,not spoiled,0
+Biryani,373,65,25.9,not spoiled,0
+Biryani,366,68,25.72,not spoiled,0
+Biryani,368,73,26.03,not spoiled,0
+Biryani,369,68,26.08,not spoiled,0
+Biryani,366,75,25.98,not spoiled,0
+Biryani,372,74,26.02,not spoiled,0
+Biryani,369,71,25.96,not spoiled,0
+Biryani,371,71,25.92,not spoiled,0
+Biryani,370,71,26.41,not spoiled,0
+Biryani,370,70,26.07,not spoiled,0
+Biryani,372,69,26.47,not spoiled,0
+Biryani,372,69,26.14,not spoiled,0
+Biryani,372,67,26.39,not spoiled,0
+Biryani,371,63,26.17,not spoiled,0
+Biryani,375,73,26.46,not spoiled,0
+Biryani,379,70,26.37,not spoiled,0
+Biryani,375,70,26.41,not spoiled,0
+Biryani,378,71,26.59,not spoiled,0
+Biryani,371,68,26.46,not spoiled,0
+Biryani,376,67,26.35,not spoiled,0
+Biryani,373,69,26.72,not spoiled,0
+Biryani,372,74,26.47,not spoiled,0
+Biryani,375,66,26.76,not spoiled,0
+Biryani,381,62,26.86,not spoiled,0
+Biryani,381,68,26.7,not spoiled,0
+Biryani,379,73,26.97,not spoiled,0
+Biryani,374,65,26.9,not spoiled,0
+Biryani,378,66,26.76,not spoiled,0
+Biryani,380,71,27.12,not spoiled,0
+Biryani,380,78,26.77,not spoiled,0
+Biryani,374,66,26.92,not spoiled,0
+Biryani,378,66,26.99,not spoiled,0
+Biryani,381,71,27.15,not spoiled,0
+Biryani,383,74,27.26,not spoiled,0
+Biryani,375,68,27.29,not spoiled,0
+Biryani,381,65,27.2,not spoiled,0
+Biryani,383,71,27.16,not spoiled,0
+Biryani,385,72,26.97,not spoiled,0
+Biryani,385,75,27.08,not spoiled,0
+Biryani,385,72,27.58,not spoiled,0
+Biryani,381,72,27.08,not spoiled,0
+Biryani,378,69,27.27,not spoiled,0
+Biryani,383,77,27.6,not spoiled,0
+Biryani,388,69,27.5,not spoiled,0
+Biryani,389,68,27.64,not spoiled,0
+Biryani,388,75,27.62,not spoiled,0
+Biryani,387,66,27.8,not spoiled,0
+Biryani,388,64,27.66,not spoiled,0
+Biryani,385,70,27.75,not spoiled,0
+Biryani,387,70,27.58,not spoiled,0
+Biryani,393,69,27.81,not spoiled,0
+Biryani,385,73,27.7,not spoiled,0
+Biryani,393,67,27.73,not spoiled,0
+Biryani,388,70,27.97,not spoiled,0
+Biryani,393,69,28.01,not spoiled,0
+Biryani,385,67,28.17,not spoiled,0
+Biryani,392,70,28.19,not spoiled,0
+Biryani,388,73,28.13,not spoiled,0
+Biryani,386,76,27.77,not spoiled,0
+Biryani,392,72,28.34,not spoiled,0
+Biryani,394,62,28.24,not spoiled,0
+Biryani,389,70,28.02,not spoiled,0
+Biryani,388,70,28.28,not spoiled,0
+Biryani,392,73,28.06,not spoiled,0
+Biryani,393,71,28.34,not spoiled,0
+Biryani,395,74,28.09,not spoiled,0
+Biryani,396,71,28.2,not spoiled,0
+Biryani,394,75,28.47,not spoiled,0
+Biryani,400,69,28.56,not spoiled,0
+Biryani,395,70,28.49,not spoiled,0
+Biryani,394,72,28.43,not spoiled,0
+Biryani,391,68,28.19,not spoiled,0
+Biryani,395,68,28.52,not spoiled,0
+Biryani,395,68,28.67,not spoiled,0
+Biryani,399,68,28.58,not spoiled,0
+Biryani,398,72,28.66,not spoiled,0
+Biryani,394,64,28.67,not spoiled,0
+Biryani,398,65,28.69,not spoiled,0
+Biryani,400,76,28.78,not spoiled,0
+Biryani,403,68,28.77,not spoiled,0
+Biryani,401,71,29.06,not spoiled,0
+Biryani,401,66,28.55,not spoiled,0
+Biryani,400,70,28.84,not spoiled,0
+Biryani,401,68,28.83,not spoiled,0
+Biryani,404,65,29.03,not spoiled,0
+Biryani,397,74,29.05,not spoiled,0
+Biryani,400,74,29.32,not spoiled,0
+Biryani,399,70,29.4,not spoiled,0
+Biryani,403,73,29.03,not spoiled,0
+Biryani,406,76,29.18,not spoiled,0
+Biryani,401,72,29.25,not spoiled,0
+Biryani,396,71,29.14,not spoiled,0
+Biryani,402,71,29.39,not spoiled,0
+Biryani,406,72,29.3,not spoiled,0
+Biryani,406,69,29.21,not spoiled,0
+Biryani,406,69,29.37,not spoiled,0
+Biryani,404,71,29.3,not spoiled,0
+Biryani,401,69,29.64,not spoiled,0
+Biryani,407,69,29.81,not spoiled,0
+Biryani,403,70,29.59,not spoiled,0
+Biryani,413,73,29.61,spoiled,1
+Biryani,408,67,29.66,not spoiled,0
+Biryani,405,72,29.85,not spoiled,0
+Biryani,406,72,29.88,not spoiled,0
+Biryani,408,72,29.73,not spoiled,0
+Biryani,408,68,29.82,not spoiled,0
+Biryani,412,65,29.92,spoiled,1
+Biryani,410,72,29.69,not spoiled,0
+Biryani,407,71,30.08,spoiled,1
+Biryani,415,73,30.19,spoiled,1
+Biryani,410,68,30.14,spoiled,1
+Biryani,413,72,29.82,spoiled,1
+Biryani,409,73,29.75,not spoiled,0
+Biryani,412,70,30.19,spoiled,1
+Biryani,413,71,30.0,spoiled,1
+Biryani,406,71,30.2,spoiled,1
+Biryani,418,68,30.42,spoiled,1
+Biryani,417,72,30.13,spoiled,1
+Biryani,412,75,30.21,spoiled,1
+Biryani,410,70,30.35,spoiled,1
+Biryani,415,66,30.15,spoiled,1
+Biryani,415,68,30.27,spoiled,1
+Biryani,416,65,30.42,spoiled,1
+Biryani,416,74,30.41,spoiled,1
+Biryani,417,72,30.58,spoiled,1
+Biryani,420,68,30.94,spoiled,1
+Biryani,418,66,30.58,spoiled,1
+Biryani,413,68,30.48,spoiled,1
+Biryani,421,68,30.85,spoiled,1
+Biryani,422,70,30.44,spoiled,1
+Biryani,427,70,30.51,spoiled,1
+Biryani,415,74,30.66,spoiled,1
+Biryani,419,68,30.75,spoiled,1
+Biryani,413,65,30.73,spoiled,1
+Biryani,421,67,30.86,spoiled,1
+Biryani,418,70,30.94,spoiled,1
+Biryani,426,68,31.1,spoiled,1
+Biryani,418,69,30.99,spoiled,1
+Biryani,416,69,30.93,spoiled,1
+Biryani,420,73,31.2,spoiled,1
+Biryani,415,68,30.97,spoiled,1
+Biryani,424,69,30.88,spoiled,1
+Biryani,416,72,31.34,spoiled,1
+Biryani,423,68,31.37,spoiled,1
+Biryani,417,71,31.12,spoiled,1
+Biryani,422,71,31.22,spoiled,1
+Biryani,429,70,31.18,spoiled,1
+Biryani,425,67,31.4,spoiled,1
+Biryani,422,74,31.65,spoiled,1
+Biryani,425,77,31.53,spoiled,1
+Biryani,425,70,31.62,spoiled,1
+Biryani,427,67,31.62,spoiled,1
+Biryani,422,70,31.54,spoiled,1
+Biryani,428,73,31.74,spoiled,1
+Biryani,419,68,31.72,spoiled,1
+Biryani,425,70,31.87,spoiled,1
+Biryani,426,71,31.62,spoiled,1
+Biryani,430,74,31.46,spoiled,1
+Biryani,428,72,31.92,spoiled,1
+Biryani,424,72,31.85,spoiled,1
+Biryani,426,69,31.79,spoiled,1
+Biryani,430,71,31.84,spoiled,1
+Biryani,429,68,32.29,spoiled,1
+Biryani,428,73,31.85,spoiled,1
+Biryani,429,73,31.86,spoiled,1
+Biryani,433,72,32.04,spoiled,1
+Biryani,430,69,32.24,spoiled,1
+Biryani,431,69,32.44,spoiled,1
+Biryani,438,75,32.23,spoiled,1
+Biryani,428,69,31.98,spoiled,1
+Biryani,427,73,32.51,spoiled,1
+Biryani,435,71,32.24,spoiled,1
+Biryani,431,69,32.16,spoiled,1
+Biryani,433,66,32.16,spoiled,1
+Biryani,432,71,32.48,spoiled,1
+Biryani,434,70,32.43,spoiled,1
+Biryani,440,75,32.49,spoiled,1
+Biryani,438,67,32.66,spoiled,1
+Biryani,438,77,32.39,spoiled,1
+Biryani,432,71,32.75,spoiled,1
+Biryani,433,71,32.51,spoiled,1
+Biryani,428,68,32.95,spoiled,1
+Biryani,435,71,32.75,spoiled,1
+Biryani,440,71,32.56,spoiled,1
+Biryani,440,73,32.43,spoiled,1
+Biryani,438,67,32.89,spoiled,1
+Biryani,439,74,32.75,spoiled,1
+Biryani,437,71,32.82,spoiled,1
+Biryani,440,72,33.0,spoiled,1
+Biryani,442,69,33.07,spoiled,1
+Biryani,435,67,33.14,spoiled,1
+Biryani,442,70,32.82,spoiled,1
+Biryani,444,71,33.25,spoiled,1
+Biryani,440,66,32.98,spoiled,1
+Biryani,444,72,32.77,spoiled,1
+Biryani,451,73,32.97,spoiled,1
+Biryani,442,68,33.21,spoiled,1
+Biryani,444,67,33.07,spoiled,1
+Biryani,441,69,33.24,spoiled,1
+Biryani,444,70,33.34,spoiled,1
+Biryani,445,69,33.3,spoiled,1
+Biryani,445,70,33.29,spoiled,1
+Biryani,442,71,33.22,spoiled,1
+Biryani,446,66,33.45,spoiled,1
+Biryani,450,66,33.17,spoiled,1
+Biryani,447,62,33.41,spoiled,1
+Biryani,449,73,33.42,spoiled,1
+Biryani,446,70,33.56,spoiled,1
+Biryani,449,73,33.6,spoiled,1
+Biryani,448,67,33.81,spoiled,1
+Biryani,445,70,33.94,spoiled,1
+Biryani,449,71,33.57,spoiled,1
+Biryani,446,68,34.08,spoiled,1
+Biryani,447,65,33.7,spoiled,1
+Biryani,450,75,33.88,spoiled,1
+Biryani,451,74,33.97,spoiled,1
+Biryani,446,69,34.29,spoiled,1
+Biryani,454,72,33.88,spoiled,1
+Biryani,453,69,33.73,spoiled,1
+Biryani,449,67,34.26,spoiled,1
+Biryani,447,75,33.95,spoiled,1
+Biryani,451,65,34.06,spoiled,1
+Biryani,451,69,33.98,spoiled,1
+Biryani,453,70,34.14,spoiled,1
+Biryani,452,75,34.1,spoiled,1
+Biryani,447,73,34.37,spoiled,1
+Biryani,453,65,34.31,spoiled,1
+Biryani,453,70,34.24,spoiled,1
+Biryani,456,70,34.53,spoiled,1
+Biryani,453,69,34.45,spoiled,1
+Biryani,460,72,34.17,spoiled,1
+Biryani,450,66,34.63,spoiled,1
+Biryani,460,69,34.55,spoiled,1
+Biryani,456,71,34.77,spoiled,1
+Biryani,459,72,34.62,spoiled,1
+Biryani,457,70,34.52,spoiled,1
+Biryani,461,69,34.64,spoiled,1
+Biryani,457,70,34.83,spoiled,1
+Biryani,455,72,34.63,spoiled,1
+Biryani,463,70,34.72,spoiled,1
+Biryani,459,67,34.79,spoiled,1
+Biryani,460,66,34.69,spoiled,1
+Biryani,464,66,34.79,spoiled,1
+Biryani,457,74,34.96,spoiled,1
+Biryani,462,72,35.15,spoiled,1
+Biryani,459,70,35.06,spoiled,1
+Biryani,461,69,35.04,spoiled,1
+Biryani,462,68,34.96,spoiled,1
+Biryani,458,73,35.29,spoiled,1
+Biryani,460,76,35.23,spoiled,1
+Biryani,467,68,35.09,spoiled,1
+Biryani,466,73,35.37,spoiled,1
+Biryani,463,70,35.36,spoiled,1
+Biryani,465,69,35.19,spoiled,1
+Biryani,463,75,35.33,spoiled,1
+Biryani,469,70,35.31,spoiled,1
+Biryani,465,71,35.82,spoiled,1
+Biryani,466,71,35.54,spoiled,1
+Biryani,469,65,35.53,spoiled,1
+Biryani,464,71,35.61,spoiled,1
+Biryani,471,68,35.78,spoiled,1
+Biryani,462,66,35.6,spoiled,1
+Biryani,472,68,35.56,spoiled,1
+Biryani,467,68,35.81,spoiled,1
+Biryani,467,73,35.7,spoiled,1
+Biryani,463,67,35.6,spoiled,1
+Biryani,468,68,35.61,spoiled,1
+Biryani,466,71,36.06,spoiled,1
+Biryani,468,66,35.89,spoiled,1
+Biryani,470,68,35.82,spoiled,1
+Biryani,473,65,35.91,spoiled,1
+Biryani,471,73,36.1,spoiled,1
+Biryani,472,69,35.98,spoiled,1
+Biryani,468,70,35.84,spoiled,1
+Biryani,469,73,36.14,spoiled,1
+Biryani,478,68,36.31,spoiled,1
+Biryani,470,69,36.34,spoiled,1
+Biryani,478,67,36.12,spoiled,1
+Biryani,473,67,36.43,spoiled,1
+Biryani,474,67,36.31,spoiled,1
+Biryani,477,69,36.51,spoiled,1
+Biryani,478,69,36.44,spoiled,1
+Biryani,475,71,36.17,spoiled,1
+Biryani,474,67,36.69,spoiled,1
+Biryani,475,71,36.48,spoiled,1
+Biryani,477,71,36.59,spoiled,1
+Biryani,479,69,36.34,spoiled,1
+Biryani,477,68,36.66,spoiled,1
+Biryani,479,70,36.78,spoiled,1
+Biryani,482,69,36.95,spoiled,1
+Biryani,479,71,36.9,spoiled,1
+Biryani,479,75,36.81,spoiled,1
+Biryani,474,70,36.54,spoiled,1
+Biryani,471,68,36.82,spoiled,1
+Biryani,481,67,36.75,spoiled,1
+Biryani,480,67,36.91,spoiled,1
+Biryani,479,66,36.73,spoiled,1
+Biryani,481,73,36.92,spoiled,1
+Biryani,481,63,36.91,spoiled,1
+Biryani,485,71,36.95,spoiled,1
+Biryani,482,67,36.99,spoiled,1
+Biryani,480,68,37.08,spoiled,1
+Biryani,485,67,37.18,spoiled,1
+Biryani,482,74,36.8,spoiled,1
+Biryani,485,70,36.86,spoiled,1
+Biryani,482,72,37.2,spoiled,1
+Biryani,482,74,37.26,spoiled,1
+Biryani,485,70,37.36,spoiled,1
+Biryani,485,66,37.26,spoiled,1
+Biryani,487,69,37.4,spoiled,1
+Biryani,485,68,37.46,spoiled,1
+Biryani,480,68,37.37,spoiled,1
+Biryani,485,70,37.67,spoiled,1
+Biryani,489,70,37.58,spoiled,1
+Biryani,486,71,37.67,spoiled,1
+Biryani,487,72,37.64,spoiled,1
+Biryani,491,70,37.98,spoiled,1
+Biryani,486,71,37.79,spoiled,1
+Biryani,484,68,37.67,spoiled,1
+Biryani,488,74,37.9,spoiled,1
+Biryani,488,68,37.57,spoiled,1
+Biryani,487,74,37.87,spoiled,1
+Biryani,489,66,37.94,spoiled,1
+Biryani,492,69,37.94,spoiled,1
+Biryani,491,69,37.91,spoiled,1
+Biryani,492,71,37.85,spoiled,1
+Dal/Lentils,359,72,25.27,not spoiled,0
+Dal/Lentils,360,70,24.99,not spoiled,0
+Dal/Lentils,362,68,25.12,not spoiled,0
+Dal/Lentils,363,71,25.04,not spoiled,0
+Dal/Lentils,359,73,25.02,not spoiled,0
+Dal/Lentils,361,72,25.1,not spoiled,0
+Dal/Lentils,363,67,25.15,not spoiled,0
+Dal/Lentils,360,72,25.32,not spoiled,0
+Dal/Lentils,366,68,25.65,not spoiled,0
+Dal/Lentils,365,71,25.23,not spoiled,0
+Dal/Lentils,364,69,25.31,not spoiled,0
+Dal/Lentils,365,69,25.4,not spoiled,0
+Dal/Lentils,363,72,25.51,not spoiled,0
+Dal/Lentils,363,67,25.53,not spoiled,0
+Dal/Lentils,364,76,25.72,not spoiled,0
+Dal/Lentils,367,65,25.2,not spoiled,0
+Dal/Lentils,366,68,25.24,not spoiled,0
+Dal/Lentils,365,71,25.56,not spoiled,0
+Dal/Lentils,369,72,25.84,not spoiled,0
+Dal/Lentils,366,70,25.47,not spoiled,0
+Dal/Lentils,365,70,25.3,not spoiled,0
+Dal/Lentils,368,71,25.87,not spoiled,0
+Dal/Lentils,365,69,25.86,not spoiled,0
+Dal/Lentils,363,74,25.7,not spoiled,0
+Dal/Lentils,368,73,25.75,not spoiled,0
+Dal/Lentils,367,73,25.79,not spoiled,0
+Dal/Lentils,368,67,25.99,not spoiled,0
+Dal/Lentils,367,70,25.91,not spoiled,0
+Dal/Lentils,374,69,26.12,not spoiled,0
+Dal/Lentils,368,67,25.66,not spoiled,0
+Dal/Lentils,369,71,25.99,not spoiled,0
+Dal/Lentils,372,68,25.99,not spoiled,0
+Dal/Lentils,367,72,26.16,not spoiled,0
+Dal/Lentils,367,67,26.15,not spoiled,0
+Dal/Lentils,373,75,26.39,not spoiled,0
+Dal/Lentils,371,67,26.03,not spoiled,0
+Dal/Lentils,370,71,26.35,not spoiled,0
+Dal/Lentils,375,72,26.47,not spoiled,0
+Dal/Lentils,371,68,26.7,not spoiled,0
+Dal/Lentils,373,73,26.38,not spoiled,0
+Dal/Lentils,371,66,26.54,not spoiled,0
+Dal/Lentils,375,74,26.26,not spoiled,0
+Dal/Lentils,379,70,26.21,not spoiled,0
+Dal/Lentils,370,68,26.73,not spoiled,0
+Dal/Lentils,376,69,26.64,not spoiled,0
+Dal/Lentils,379,72,26.86,not spoiled,0
+Dal/Lentils,375,68,26.51,not spoiled,0
+Dal/Lentils,373,68,26.83,not spoiled,0
+Dal/Lentils,378,69,27.07,not spoiled,0
+Dal/Lentils,380,66,26.89,not spoiled,0
+Dal/Lentils,380,75,26.91,not spoiled,0
+Dal/Lentils,379,68,26.91,not spoiled,0
+Dal/Lentils,379,72,26.71,not spoiled,0
+Dal/Lentils,376,71,27.18,not spoiled,0
+Dal/Lentils,382,67,26.93,not spoiled,0
+Dal/Lentils,382,70,27.13,not spoiled,0
+Dal/Lentils,376,72,26.86,not spoiled,0
+Dal/Lentils,381,69,26.95,not spoiled,0
+Dal/Lentils,383,74,27.38,not spoiled,0
+Dal/Lentils,384,73,27.15,not spoiled,0
+Dal/Lentils,381,73,27.46,not spoiled,0
+Dal/Lentils,379,69,27.27,not spoiled,0
+Dal/Lentils,380,67,27.04,not spoiled,0
+Dal/Lentils,379,68,27.49,not spoiled,0
+Dal/Lentils,383,71,27.3,not spoiled,0
+Dal/Lentils,382,72,27.53,not spoiled,0
+Dal/Lentils,390,63,27.47,not spoiled,0
+Dal/Lentils,386,70,27.27,not spoiled,0
+Dal/Lentils,387,70,27.56,not spoiled,0
+Dal/Lentils,386,69,27.91,not spoiled,0
+Dal/Lentils,384,74,27.69,not spoiled,0
+Dal/Lentils,384,71,27.64,not spoiled,0
+Dal/Lentils,385,74,27.85,not spoiled,0
+Dal/Lentils,386,69,27.76,not spoiled,0
+Dal/Lentils,387,73,27.8,not spoiled,0
+Dal/Lentils,387,75,27.64,not spoiled,0
+Dal/Lentils,386,74,27.87,not spoiled,0
+Dal/Lentils,386,67,28.03,not spoiled,0
+Dal/Lentils,383,69,27.79,not spoiled,0
+Dal/Lentils,392,69,28.16,not spoiled,0
+Dal/Lentils,395,71,27.97,not spoiled,0
+Dal/Lentils,392,72,27.89,not spoiled,0
+Dal/Lentils,385,67,28.21,not spoiled,0
+Dal/Lentils,392,70,28.06,not spoiled,0
+Dal/Lentils,393,64,28.25,not spoiled,0
+Dal/Lentils,389,74,28.13,not spoiled,0
+Dal/Lentils,392,68,28.2,not spoiled,0
+Dal/Lentils,389,70,28.32,not spoiled,0
+Dal/Lentils,396,69,28.33,not spoiled,0
+Dal/Lentils,393,73,28.03,not spoiled,0
+Dal/Lentils,389,61,28.19,not spoiled,0
+Dal/Lentils,394,70,28.54,not spoiled,0
+Dal/Lentils,396,70,28.42,not spoiled,0
+Dal/Lentils,394,69,28.4,not spoiled,0
+Dal/Lentils,395,75,28.31,not spoiled,0
+Dal/Lentils,393,67,28.39,not spoiled,0
+Dal/Lentils,391,72,28.28,not spoiled,0
+Dal/Lentils,394,71,28.61,not spoiled,0
+Dal/Lentils,396,74,28.57,not spoiled,0
+Dal/Lentils,395,68,28.55,not spoiled,0
+Dal/Lentils,398,68,28.73,not spoiled,0
+Dal/Lentils,395,73,28.83,not spoiled,0
+Dal/Lentils,395,71,29.12,not spoiled,0
+Dal/Lentils,399,65,28.62,not spoiled,0
+Dal/Lentils,398,68,29.06,not spoiled,0
+Dal/Lentils,396,71,29.07,not spoiled,0
+Dal/Lentils,401,73,28.84,not spoiled,0
+Dal/Lentils,396,68,29.03,not spoiled,0
+Dal/Lentils,396,61,28.97,not spoiled,0
+Dal/Lentils,390,72,29.1,not spoiled,0
+Dal/Lentils,397,66,29.34,not spoiled,0
+Dal/Lentils,403,64,29.24,not spoiled,0
+Dal/Lentils,393,62,29.26,not spoiled,0
+Dal/Lentils,397,72,29.16,not spoiled,0
+Dal/Lentils,402,70,29.04,not spoiled,0
+Dal/Lentils,394,69,29.26,not spoiled,0
+Dal/Lentils,400,74,29.51,not spoiled,0
+Dal/Lentils,405,72,29.14,not spoiled,0
+Dal/Lentils,408,75,29.25,not spoiled,0
+Dal/Lentils,403,66,29.46,not spoiled,0
+Dal/Lentils,400,70,29.34,not spoiled,0
+Dal/Lentils,400,65,29.4,not spoiled,0
+Dal/Lentils,404,69,29.49,not spoiled,0
+Dal/Lentils,404,69,29.39,not spoiled,0
+Dal/Lentils,410,72,29.49,not spoiled,0
+Dal/Lentils,407,70,29.78,not spoiled,0
+Dal/Lentils,405,72,29.51,not spoiled,0
+Dal/Lentils,404,72,29.5,not spoiled,0
+Dal/Lentils,414,76,29.69,spoiled,1
+Dal/Lentils,408,69,29.93,not spoiled,0
+Dal/Lentils,404,67,29.83,not spoiled,0
+Dal/Lentils,406,71,29.82,not spoiled,0
+Dal/Lentils,404,68,29.94,not spoiled,0
+Dal/Lentils,400,74,29.71,not spoiled,0
+Dal/Lentils,408,69,30.08,spoiled,1
+Dal/Lentils,413,68,30.1,spoiled,1
+Dal/Lentils,403,69,30.02,spoiled,1
+Dal/Lentils,409,72,30.27,spoiled,1
+Dal/Lentils,407,70,29.99,not spoiled,0
+Dal/Lentils,411,68,30.36,spoiled,1
+Dal/Lentils,409,75,30.25,spoiled,1
+Dal/Lentils,406,67,30.22,spoiled,1
+Dal/Lentils,407,70,30.3,spoiled,1
+Dal/Lentils,408,72,30.33,spoiled,1
+Dal/Lentils,415,65,30.56,spoiled,1
+Dal/Lentils,415,71,30.26,spoiled,1
+Dal/Lentils,411,67,30.34,spoiled,1
+Dal/Lentils,416,72,30.65,spoiled,1
+Dal/Lentils,412,67,30.44,spoiled,1
+Dal/Lentils,412,72,30.7,spoiled,1
+Dal/Lentils,413,73,30.86,spoiled,1
+Dal/Lentils,414,73,30.58,spoiled,1
+Dal/Lentils,412,71,30.78,spoiled,1
+Dal/Lentils,414,69,30.54,spoiled,1
+Dal/Lentils,417,68,30.87,spoiled,1
+Dal/Lentils,415,74,30.82,spoiled,1
+Dal/Lentils,415,68,30.9,spoiled,1
+Dal/Lentils,417,67,30.77,spoiled,1
+Dal/Lentils,418,72,30.65,spoiled,1
+Dal/Lentils,416,68,31.02,spoiled,1
+Dal/Lentils,415,67,30.67,spoiled,1
+Dal/Lentils,418,66,30.97,spoiled,1
+Dal/Lentils,413,69,31.19,spoiled,1
+Dal/Lentils,417,70,31.12,spoiled,1
+Dal/Lentils,411,71,31.42,spoiled,1
+Dal/Lentils,413,73,31.32,spoiled,1
+Dal/Lentils,413,72,31.1,spoiled,1
+Dal/Lentils,422,69,31.24,spoiled,1
+Dal/Lentils,420,69,31.27,spoiled,1
+Dal/Lentils,416,72,31.08,spoiled,1
+Dal/Lentils,422,74,31.21,spoiled,1
+Dal/Lentils,424,70,31.3,spoiled,1
+Dal/Lentils,422,69,31.12,spoiled,1
+Dal/Lentils,421,67,31.47,spoiled,1
+Dal/Lentils,422,66,31.46,spoiled,1
+Dal/Lentils,425,72,31.29,spoiled,1
+Dal/Lentils,421,72,31.64,spoiled,1
+Dal/Lentils,423,72,31.72,spoiled,1
+Dal/Lentils,422,70,31.68,spoiled,1
+Dal/Lentils,419,74,31.64,spoiled,1
+Dal/Lentils,427,69,31.81,spoiled,1
+Dal/Lentils,430,73,31.86,spoiled,1
+Dal/Lentils,422,70,31.84,spoiled,1
+Dal/Lentils,428,68,31.71,spoiled,1
+Dal/Lentils,423,72,31.92,spoiled,1
+Dal/Lentils,426,71,32.09,spoiled,1
+Dal/Lentils,430,71,31.86,spoiled,1
+Dal/Lentils,425,70,32.3,spoiled,1
+Dal/Lentils,427,70,31.94,spoiled,1
+Dal/Lentils,422,77,32.07,spoiled,1
+Dal/Lentils,425,74,32.0,spoiled,1
+Dal/Lentils,422,72,32.17,spoiled,1
+Dal/Lentils,429,70,31.91,spoiled,1
+Dal/Lentils,431,73,32.13,spoiled,1
+Dal/Lentils,428,72,32.08,spoiled,1
+Dal/Lentils,430,70,32.3,spoiled,1
+Dal/Lentils,429,69,32.47,spoiled,1
+Dal/Lentils,432,70,32.46,spoiled,1
+Dal/Lentils,431,60,32.04,spoiled,1
+Dal/Lentils,425,71,32.74,spoiled,1
+Dal/Lentils,434,69,32.52,spoiled,1
+Dal/Lentils,430,75,32.39,spoiled,1
+Dal/Lentils,428,70,32.57,spoiled,1
+Dal/Lentils,431,66,32.61,spoiled,1
+Dal/Lentils,427,70,32.52,spoiled,1
+Dal/Lentils,429,67,32.69,spoiled,1
+Dal/Lentils,433,71,32.6,spoiled,1
+Dal/Lentils,434,71,32.67,spoiled,1
+Dal/Lentils,435,73,32.67,spoiled,1
+Dal/Lentils,434,68,32.59,spoiled,1
+Dal/Lentils,432,70,32.87,spoiled,1
+Dal/Lentils,435,66,32.97,spoiled,1
+Dal/Lentils,434,72,33.0,spoiled,1
+Dal/Lentils,431,72,33.08,spoiled,1
+Dal/Lentils,434,71,33.04,spoiled,1
+Dal/Lentils,439,70,32.95,spoiled,1
+Dal/Lentils,441,71,33.19,spoiled,1
+Dal/Lentils,439,75,32.9,spoiled,1
+Dal/Lentils,442,69,33.01,spoiled,1
+Dal/Lentils,438,70,33.04,spoiled,1
+Dal/Lentils,443,67,33.38,spoiled,1
+Dal/Lentils,445,67,33.4,spoiled,1
+Dal/Lentils,433,70,33.37,spoiled,1
+Dal/Lentils,440,73,33.49,spoiled,1
+Dal/Lentils,440,69,33.24,spoiled,1
+Dal/Lentils,438,69,33.46,spoiled,1
+Dal/Lentils,442,69,33.42,spoiled,1
+Dal/Lentils,441,68,33.61,spoiled,1
+Dal/Lentils,439,71,33.5,spoiled,1
+Dal/Lentils,441,66,33.5,spoiled,1
+Dal/Lentils,445,74,33.67,spoiled,1
+Dal/Lentils,442,68,33.76,spoiled,1
+Dal/Lentils,444,72,33.57,spoiled,1
+Dal/Lentils,442,66,33.69,spoiled,1
+Dal/Lentils,444,72,33.58,spoiled,1
+Dal/Lentils,440,72,33.4,spoiled,1
+Dal/Lentils,442,71,33.85,spoiled,1
+Dal/Lentils,444,67,33.94,spoiled,1
+Dal/Lentils,441,71,33.93,spoiled,1
+Dal/Lentils,442,66,33.64,spoiled,1
+Dal/Lentils,446,69,33.91,spoiled,1
+Dal/Lentils,446,73,33.67,spoiled,1
+Dal/Lentils,448,72,34.25,spoiled,1
+Dal/Lentils,444,70,33.91,spoiled,1
+Dal/Lentils,447,67,34.3,spoiled,1
+Dal/Lentils,445,72,34.29,spoiled,1
+Dal/Lentils,449,70,34.05,spoiled,1
+Dal/Lentils,451,63,34.06,spoiled,1
+Dal/Lentils,449,72,34.32,spoiled,1
+Dal/Lentils,451,70,34.18,spoiled,1
+Dal/Lentils,449,74,34.35,spoiled,1
+Dal/Lentils,451,67,34.3,spoiled,1
+Dal/Lentils,450,60,34.15,spoiled,1
+Dal/Lentils,447,71,34.12,spoiled,1
+Dal/Lentils,451,71,34.52,spoiled,1
+Dal/Lentils,447,65,34.44,spoiled,1
+Dal/Lentils,458,67,34.48,spoiled,1
+Dal/Lentils,450,78,34.7,spoiled,1
+Dal/Lentils,453,69,34.81,spoiled,1
+Dal/Lentils,452,72,34.63,spoiled,1
+Dal/Lentils,448,68,34.66,spoiled,1
+Dal/Lentils,447,64,34.83,spoiled,1
+Dal/Lentils,455,69,34.58,spoiled,1
+Dal/Lentils,458,69,34.86,spoiled,1
+Dal/Lentils,451,69,34.94,spoiled,1
+Dal/Lentils,449,70,35.0,spoiled,1
+Dal/Lentils,453,71,34.65,spoiled,1
+Dal/Lentils,452,70,34.86,spoiled,1
+Dal/Lentils,453,66,34.88,spoiled,1
+Dal/Lentils,457,71,35.06,spoiled,1
+Dal/Lentils,456,64,35.16,spoiled,1
+Dal/Lentils,454,64,35.35,spoiled,1
+Dal/Lentils,458,72,35.09,spoiled,1
+Dal/Lentils,459,72,35.12,spoiled,1
+Dal/Lentils,456,70,35.41,spoiled,1
+Dal/Lentils,458,66,35.32,spoiled,1
+Dal/Lentils,459,68,35.5,spoiled,1
+Dal/Lentils,459,69,35.39,spoiled,1
+Dal/Lentils,459,65,35.21,spoiled,1
+Dal/Lentils,463,68,35.22,spoiled,1
+Dal/Lentils,461,72,35.23,spoiled,1
+Dal/Lentils,458,74,35.6,spoiled,1
+Dal/Lentils,459,69,35.71,spoiled,1
+Dal/Lentils,459,72,35.85,spoiled,1
+Dal/Lentils,463,64,35.74,spoiled,1
+Dal/Lentils,459,72,35.82,spoiled,1
+Dal/Lentils,460,68,35.6,spoiled,1
+Dal/Lentils,465,71,35.55,spoiled,1
+Dal/Lentils,463,69,35.89,spoiled,1
+Dal/Lentils,466,74,35.86,spoiled,1
+Dal/Lentils,465,67,35.85,spoiled,1
+Dal/Lentils,460,72,35.93,spoiled,1
+Dal/Lentils,463,69,35.96,spoiled,1
+Dal/Lentils,467,70,36.14,spoiled,1
+Dal/Lentils,461,69,36.18,spoiled,1
+Dal/Lentils,466,67,36.1,spoiled,1
+Dal/Lentils,465,70,36.18,spoiled,1
+Dal/Lentils,460,70,36.17,spoiled,1
+Dal/Lentils,466,71,36.06,spoiled,1
+Dal/Lentils,463,70,36.28,spoiled,1
+Dal/Lentils,463,72,36.0,spoiled,1
+Dal/Lentils,467,73,36.4,spoiled,1
+Dal/Lentils,461,67,36.1,spoiled,1
+Dal/Lentils,465,73,36.36,spoiled,1
+Dal/Lentils,475,66,36.23,spoiled,1
+Dal/Lentils,470,72,36.48,spoiled,1
+Dal/Lentils,466,72,36.43,spoiled,1
+Dal/Lentils,473,64,36.23,spoiled,1
+Dal/Lentils,466,70,36.57,spoiled,1
+Dal/Lentils,468,69,36.46,spoiled,1
+Dal/Lentils,466,68,36.71,spoiled,1
+Dal/Lentils,471,74,36.62,spoiled,1
+Dal/Lentils,475,68,36.71,spoiled,1
+Dal/Lentils,468,68,36.55,spoiled,1
+Dal/Lentils,465,70,36.64,spoiled,1
+Dal/Lentils,475,72,36.7,spoiled,1
+Dal/Lentils,477,70,36.93,spoiled,1
+Dal/Lentils,466,73,37.09,spoiled,1
+Dal/Lentils,474,72,36.76,spoiled,1
+Dal/Lentils,474,63,37.08,spoiled,1
+Dal/Lentils,471,68,36.63,spoiled,1
+Dal/Lentils,470,68,36.81,spoiled,1
+Dal/Lentils,477,71,36.88,spoiled,1
+Dal/Lentils,475,62,36.86,spoiled,1
+Dal/Lentils,476,78,36.87,spoiled,1
+Dal/Lentils,473,72,37.2,spoiled,1
+Dal/Lentils,473,70,37.15,spoiled,1
+Dal/Lentils,469,74,37.27,spoiled,1
+Dal/Lentils,476,77,37.36,spoiled,1
+Dal/Lentils,481,73,37.33,spoiled,1
+Dal/Lentils,474,73,37.43,spoiled,1
+Dal/Lentils,473,70,37.35,spoiled,1
+Dal/Lentils,479,70,37.22,spoiled,1
+Dal/Lentils,480,69,37.6,spoiled,1
+Dal/Lentils,477,68,37.39,spoiled,1
+Dal/Lentils,478,68,37.37,spoiled,1
+Dal/Lentils,480,66,37.53,spoiled,1
+Dal/Lentils,479,70,37.45,spoiled,1
+Dal/Lentils,483,65,37.56,spoiled,1
+Dal/Lentils,487,71,37.72,spoiled,1
+Dal/Lentils,475,70,37.75,spoiled,1
+Dal/Lentils,485,70,37.6,spoiled,1
+Dal/Lentils,482,68,37.7,spoiled,1
+Dal/Lentils,486,79,37.97,spoiled,1
+Dal/Lentils,484,74,37.93,spoiled,1
+Dal/Lentils,482,66,38.2,spoiled,1
+Dal/Lentils,485,71,38.1,spoiled,1
+Dal/Lentils,482,68,38.13,spoiled,1
+Dal/Lentils,481,67,37.79,spoiled,1
+Vegetable Curry,301,86,18.12,not spoiled,0
+Vegetable Curry,304,81,17.93,not spoiled,0
+Vegetable Curry,301,79,18.2,not spoiled,0
+Vegetable Curry,303,81,18.16,not spoiled,0
+Vegetable Curry,302,79,17.86,not spoiled,0
+Vegetable Curry,297,80,18.17,not spoiled,0
+Vegetable Curry,300,76,18.36,not spoiled,0
+Vegetable Curry,305,80,18.3,not spoiled,0
+Vegetable Curry,303,79,18.03,not spoiled,0
+Vegetable Curry,307,77,18.66,not spoiled,0
+Vegetable Curry,305,86,18.54,not spoiled,0
+Vegetable Curry,301,77,18.64,not spoiled,0
+Vegetable Curry,302,80,18.55,not spoiled,0
+Vegetable Curry,305,78,18.75,not spoiled,0
+Vegetable Curry,298,81,19.0,not spoiled,0
+Vegetable Curry,310,76,18.67,not spoiled,0
+Vegetable Curry,307,83,19.08,not spoiled,0
+Vegetable Curry,310,86,18.94,not spoiled,0
+Vegetable Curry,302,77,18.8,not spoiled,0
+Vegetable Curry,311,84,19.31,not spoiled,0
+Vegetable Curry,314,79,19.09,not spoiled,0
+Vegetable Curry,304,85,19.19,not spoiled,0
+Vegetable Curry,310,87,19.1,not spoiled,0
+Vegetable Curry,308,79,19.07,not spoiled,0
+Vegetable Curry,304,75,19.27,not spoiled,0
+Vegetable Curry,311,83,19.53,not spoiled,0
+Vegetable Curry,312,81,19.3,not spoiled,0
+Vegetable Curry,308,82,19.39,not spoiled,0
+Vegetable Curry,314,79,19.67,not spoiled,0
+Vegetable Curry,306,77,19.45,not spoiled,0
+Vegetable Curry,306,83,19.63,not spoiled,0
+Vegetable Curry,312,81,19.74,not spoiled,0
+Vegetable Curry,312,76,19.63,not spoiled,0
+Vegetable Curry,310,82,19.75,not spoiled,0
+Vegetable Curry,315,81,19.86,not spoiled,0
+Vegetable Curry,314,79,19.75,not spoiled,0
+Vegetable Curry,316,85,19.98,not spoiled,0
+Vegetable Curry,313,78,19.83,not spoiled,0
+Vegetable Curry,316,79,19.86,not spoiled,0
+Vegetable Curry,313,82,19.79,not spoiled,0
+Vegetable Curry,321,80,19.99,not spoiled,0
+Vegetable Curry,312,76,20.0,not spoiled,0
+Vegetable Curry,322,81,20.11,not spoiled,0
+Vegetable Curry,316,79,20.32,not spoiled,0
+Vegetable Curry,312,83,20.02,not spoiled,0
+Vegetable Curry,320,80,20.03,not spoiled,0
+Vegetable Curry,317,80,20.27,not spoiled,0
+Vegetable Curry,320,77,20.5,not spoiled,0
+Vegetable Curry,321,79,20.53,not spoiled,0
+Vegetable Curry,319,83,20.42,not spoiled,0
+Vegetable Curry,316,78,20.76,not spoiled,0
+Vegetable Curry,321,80,20.54,not spoiled,0
+Vegetable Curry,319,77,20.76,not spoiled,0
+Vegetable Curry,321,76,20.69,not spoiled,0
+Vegetable Curry,313,80,20.66,not spoiled,0
+Vegetable Curry,321,81,20.75,not spoiled,0
+Vegetable Curry,318,86,21.01,not spoiled,0
+Vegetable Curry,326,79,21.0,not spoiled,0
+Vegetable Curry,323,80,21.15,not spoiled,0
+Vegetable Curry,322,76,21.11,not spoiled,0
+Vegetable Curry,323,82,20.86,not spoiled,0
+Vegetable Curry,319,81,21.47,not spoiled,0
+Vegetable Curry,327,84,21.26,not spoiled,0
+Vegetable Curry,329,83,21.34,not spoiled,0
+Vegetable Curry,324,81,21.25,not spoiled,0
+Vegetable Curry,328,79,21.53,not spoiled,0
+Vegetable Curry,322,81,21.25,not spoiled,0
+Vegetable Curry,322,80,21.56,not spoiled,0
+Vegetable Curry,325,83,21.21,not spoiled,0
+Vegetable Curry,326,82,21.67,not spoiled,0
+Vegetable Curry,324,79,21.46,not spoiled,0
+Vegetable Curry,327,76,21.71,not spoiled,0
+Vegetable Curry,327,84,21.93,not spoiled,0
+Vegetable Curry,323,82,21.9,not spoiled,0
+Vegetable Curry,328,79,22.01,not spoiled,0
+Vegetable Curry,330,82,22.05,not spoiled,0
+Vegetable Curry,328,80,21.85,not spoiled,0
+Vegetable Curry,331,84,22.07,not spoiled,0
+Vegetable Curry,325,74,21.78,not spoiled,0
+Vegetable Curry,330,79,21.98,not spoiled,0
+Vegetable Curry,325,85,22.35,not spoiled,0
+Vegetable Curry,326,82,22.13,not spoiled,0
+Vegetable Curry,328,85,21.96,not spoiled,0
+Vegetable Curry,327,76,22.6,not spoiled,0
+Vegetable Curry,329,83,22.43,not spoiled,0
+Vegetable Curry,330,83,22.51,not spoiled,0
+Vegetable Curry,334,75,22.3,not spoiled,0
+Vegetable Curry,331,79,22.54,not spoiled,0
+Vegetable Curry,327,80,22.59,not spoiled,0
+Vegetable Curry,336,75,22.48,not spoiled,0
+Vegetable Curry,330,79,22.63,not spoiled,0
+Vegetable Curry,333,83,22.48,not spoiled,0
+Vegetable Curry,335,79,22.71,not spoiled,0
+Vegetable Curry,334,81,22.96,not spoiled,0
+Vegetable Curry,337,81,22.75,not spoiled,0
+Vegetable Curry,336,80,23.2,not spoiled,0
+Vegetable Curry,332,78,22.75,not spoiled,0
+Vegetable Curry,342,82,22.98,not spoiled,0
+Vegetable Curry,336,75,22.97,not spoiled,0
+Vegetable Curry,335,80,23.09,not spoiled,0
+Vegetable Curry,339,84,23.38,not spoiled,0
+Vegetable Curry,337,79,23.08,not spoiled,0
+Vegetable Curry,338,78,23.21,not spoiled,0
+Vegetable Curry,345,82,23.43,not spoiled,0
+Vegetable Curry,337,80,23.39,not spoiled,0
+Vegetable Curry,337,82,23.46,not spoiled,0
+Vegetable Curry,339,80,23.34,not spoiled,0
+Vegetable Curry,342,73,23.52,not spoiled,0
+Vegetable Curry,335,84,23.76,not spoiled,0
+Vegetable Curry,334,86,23.4,not spoiled,0
+Vegetable Curry,338,84,23.59,not spoiled,0
+Vegetable Curry,335,69,23.47,not spoiled,0
+Vegetable Curry,339,81,23.87,not spoiled,0
+Vegetable Curry,342,79,24.03,not spoiled,0
+Vegetable Curry,339,77,23.87,not spoiled,0
+Vegetable Curry,337,80,23.8,not spoiled,0
+Vegetable Curry,342,80,23.85,not spoiled,0
+Vegetable Curry,345,82,24.01,not spoiled,0
+Vegetable Curry,338,80,24.06,not spoiled,0
+Vegetable Curry,346,77,24.29,not spoiled,0
+Vegetable Curry,346,78,24.11,not spoiled,0
+Vegetable Curry,347,78,24.32,not spoiled,0
+Vegetable Curry,348,75,24.26,not spoiled,0
+Vegetable Curry,351,76,24.25,not spoiled,0
+Vegetable Curry,344,79,24.36,not spoiled,0
+Vegetable Curry,346,84,24.52,not spoiled,0
+Vegetable Curry,344,78,24.65,not spoiled,0
+Vegetable Curry,346,78,24.53,not spoiled,0
+Vegetable Curry,351,76,24.44,not spoiled,0
+Vegetable Curry,343,80,24.82,not spoiled,0
+Vegetable Curry,345,84,24.59,not spoiled,0
+Vegetable Curry,352,86,24.81,not spoiled,0
+Vegetable Curry,351,81,24.82,not spoiled,0
+Vegetable Curry,347,80,24.86,not spoiled,0
+Vegetable Curry,351,78,24.86,not spoiled,0
+Vegetable Curry,350,79,25.08,spoiled,1
+Vegetable Curry,354,82,24.5,not spoiled,0
+Vegetable Curry,350,79,25.26,spoiled,1
+Vegetable Curry,353,80,25.0,spoiled,1
+Vegetable Curry,358,80,25.25,spoiled,1
+Vegetable Curry,353,78,25.29,spoiled,1
+Vegetable Curry,351,80,25.48,spoiled,1
+Vegetable Curry,354,74,25.37,spoiled,1
+Vegetable Curry,351,82,25.27,spoiled,1
+Vegetable Curry,359,87,25.21,spoiled,1
+Vegetable Curry,353,78,25.45,spoiled,1
+Vegetable Curry,352,81,25.26,spoiled,1
+Vegetable Curry,351,83,25.51,spoiled,1
+Vegetable Curry,357,84,25.61,spoiled,1
+Vegetable Curry,357,79,25.6,spoiled,1
+Vegetable Curry,353,75,25.76,spoiled,1
+Vegetable Curry,356,81,25.77,spoiled,1
+Vegetable Curry,351,80,25.81,spoiled,1
+Vegetable Curry,356,79,25.55,spoiled,1
+Vegetable Curry,357,80,25.77,spoiled,1
+Vegetable Curry,361,80,26.11,spoiled,1
+Vegetable Curry,354,81,26.19,spoiled,1
+Vegetable Curry,353,81,25.84,spoiled,1
+Vegetable Curry,355,79,26.05,spoiled,1
+Vegetable Curry,354,81,26.38,spoiled,1
+Vegetable Curry,362,79,26.17,spoiled,1
+Vegetable Curry,363,82,26.31,spoiled,1
+Vegetable Curry,360,78,26.6,spoiled,1
+Vegetable Curry,363,80,26.38,spoiled,1
+Vegetable Curry,360,75,26.41,spoiled,1
+Vegetable Curry,359,79,26.51,spoiled,1
+Vegetable Curry,359,82,26.86,spoiled,1
+Vegetable Curry,360,77,26.7,spoiled,1
+Vegetable Curry,356,79,26.69,spoiled,1
+Vegetable Curry,362,73,26.66,spoiled,1
+Vegetable Curry,361,76,26.87,spoiled,1
+Vegetable Curry,364,77,26.94,spoiled,1
+Vegetable Curry,363,80,26.74,spoiled,1
+Vegetable Curry,362,81,27.05,spoiled,1
+Vegetable Curry,360,80,26.98,spoiled,1
+Vegetable Curry,364,79,27.06,spoiled,1
+Vegetable Curry,366,79,26.97,spoiled,1
+Vegetable Curry,361,82,27.1,spoiled,1
+Vegetable Curry,365,81,27.05,spoiled,1
+Vegetable Curry,366,79,27.1,spoiled,1
+Vegetable Curry,363,84,27.37,spoiled,1
+Vegetable Curry,364,86,27.31,spoiled,1
+Vegetable Curry,367,76,27.22,spoiled,1
+Vegetable Curry,363,82,27.79,spoiled,1
+Vegetable Curry,368,89,27.35,spoiled,1
+Vegetable Curry,364,81,27.73,spoiled,1
+Vegetable Curry,371,80,27.4,spoiled,1
+Vegetable Curry,375,80,27.74,spoiled,1
+Vegetable Curry,366,81,27.69,spoiled,1
+Vegetable Curry,370,82,27.68,spoiled,1
+Vegetable Curry,367,76,27.86,spoiled,1
+Vegetable Curry,372,80,27.89,spoiled,1
+Vegetable Curry,366,73,27.81,spoiled,1
+Vegetable Curry,371,79,27.85,spoiled,1
+Vegetable Curry,368,77,27.8,spoiled,1
+Vegetable Curry,370,81,28.13,spoiled,1
+Vegetable Curry,368,75,27.95,spoiled,1
+Vegetable Curry,374,78,28.19,spoiled,1
+Vegetable Curry,369,83,28.33,spoiled,1
+Vegetable Curry,374,78,28.32,spoiled,1
+Vegetable Curry,371,74,28.24,spoiled,1
+Vegetable Curry,372,81,28.53,spoiled,1
+Vegetable Curry,374,78,28.39,spoiled,1
+Vegetable Curry,371,79,28.3,spoiled,1
+Vegetable Curry,375,78,28.51,spoiled,1
+Vegetable Curry,379,86,28.69,spoiled,1
+Vegetable Curry,372,75,28.55,spoiled,1
+Vegetable Curry,379,89,28.84,spoiled,1
+Vegetable Curry,380,79,28.64,spoiled,1
+Vegetable Curry,373,81,28.72,spoiled,1
+Vegetable Curry,372,78,28.71,spoiled,1
+Vegetable Curry,377,78,29.02,spoiled,1
+Vegetable Curry,375,78,28.96,spoiled,1
+Vegetable Curry,383,82,28.87,spoiled,1
+Vegetable Curry,378,76,29.01,spoiled,1
+Vegetable Curry,375,81,28.66,spoiled,1
+Vegetable Curry,375,73,29.29,spoiled,1
+Vegetable Curry,382,81,29.2,spoiled,1
+Vegetable Curry,377,83,28.91,spoiled,1
+Vegetable Curry,379,76,29.11,spoiled,1
+Vegetable Curry,383,82,29.32,spoiled,1
+Vegetable Curry,379,80,29.23,spoiled,1
+Vegetable Curry,380,85,29.6,spoiled,1
+Vegetable Curry,381,77,29.6,spoiled,1
+Vegetable Curry,383,88,29.64,spoiled,1
+Vegetable Curry,383,73,29.25,spoiled,1
+Vegetable Curry,381,79,29.61,spoiled,1
+Vegetable Curry,382,75,29.64,spoiled,1
+Vegetable Curry,381,86,29.65,spoiled,1
+Vegetable Curry,379,79,29.78,spoiled,1
+Vegetable Curry,384,79,29.73,spoiled,1
+Vegetable Curry,389,81,29.98,spoiled,1
+Vegetable Curry,381,80,30.11,spoiled,1
+Vegetable Curry,382,78,30.15,spoiled,1
+Vegetable Curry,382,76,30.08,spoiled,1
+Vegetable Curry,387,81,30.46,spoiled,1
+Vegetable Curry,387,81,30.38,spoiled,1
+Vegetable Curry,385,82,30.24,spoiled,1
+Vegetable Curry,383,86,30.24,spoiled,1
+Vegetable Curry,387,73,30.56,spoiled,1
+Vegetable Curry,382,80,30.56,spoiled,1
+Vegetable Curry,388,84,30.25,spoiled,1
+Vegetable Curry,390,80,30.68,spoiled,1
+Vegetable Curry,384,73,30.55,spoiled,1
+Vegetable Curry,384,76,30.49,spoiled,1
+Vegetable Curry,393,81,30.38,spoiled,1
+Vegetable Curry,387,81,30.68,spoiled,1
+Vegetable Curry,393,82,30.77,spoiled,1
+Vegetable Curry,389,78,31.07,spoiled,1
+Vegetable Curry,390,81,31.02,spoiled,1
+Vegetable Curry,392,77,30.84,spoiled,1
+Vegetable Curry,388,81,31.04,spoiled,1
+Vegetable Curry,392,80,31.16,spoiled,1
+Vegetable Curry,391,78,31.1,spoiled,1
+Vegetable Curry,388,85,31.05,spoiled,1
+Vegetable Curry,393,75,31.11,spoiled,1
+Vegetable Curry,392,80,31.3,spoiled,1
+Vegetable Curry,393,77,31.36,spoiled,1
+Vegetable Curry,390,86,31.3,spoiled,1
+Vegetable Curry,399,82,31.0,spoiled,1
+Vegetable Curry,397,78,31.25,spoiled,1
+Vegetable Curry,397,79,31.59,spoiled,1
+Vegetable Curry,394,86,31.23,spoiled,1
+Vegetable Curry,390,77,31.78,spoiled,1
+Vegetable Curry,402,75,31.81,spoiled,1
+Vegetable Curry,396,81,31.71,spoiled,1
+Vegetable Curry,394,81,31.85,spoiled,1
+Vegetable Curry,398,82,31.89,spoiled,1
+Vegetable Curry,401,82,31.84,spoiled,1
+Vegetable Curry,397,85,31.71,spoiled,1
+Vegetable Curry,402,75,32.11,spoiled,1
+Vegetable Curry,401,76,32.23,spoiled,1
+Vegetable Curry,395,82,31.89,spoiled,1
+Vegetable Curry,397,77,31.91,spoiled,1
+Vegetable Curry,402,76,32.15,spoiled,1
+Vegetable Curry,391,86,32.13,spoiled,1
+Vegetable Curry,400,75,32.3,spoiled,1
+Vegetable Curry,396,79,32.51,spoiled,1
+Vegetable Curry,399,80,32.04,spoiled,1
+Vegetable Curry,400,84,32.67,spoiled,1
+Vegetable Curry,400,74,32.42,spoiled,1
+Vegetable Curry,400,81,32.61,spoiled,1
+Vegetable Curry,399,77,32.68,spoiled,1
+Vegetable Curry,409,82,32.75,spoiled,1
+Vegetable Curry,408,77,32.7,spoiled,1
+Vegetable Curry,400,85,32.79,spoiled,1
+Vegetable Curry,408,77,32.84,spoiled,1
+Vegetable Curry,403,73,32.75,spoiled,1
+Vegetable Curry,405,78,32.63,spoiled,1
+Vegetable Curry,405,79,32.77,spoiled,1
+Vegetable Curry,403,83,32.98,spoiled,1
+Vegetable Curry,408,76,32.93,spoiled,1
+Vegetable Curry,406,76,32.99,spoiled,1
+Vegetable Curry,405,83,33.43,spoiled,1
+Vegetable Curry,403,76,33.34,spoiled,1
+Vegetable Curry,404,79,33.22,spoiled,1
+Vegetable Curry,402,80,33.41,spoiled,1
+Vegetable Curry,408,81,33.3,spoiled,1
+Vegetable Curry,404,78,33.43,spoiled,1
+Vegetable Curry,408,77,33.53,spoiled,1
+Vegetable Curry,413,81,33.45,spoiled,1
+Vegetable Curry,413,77,33.47,spoiled,1
+Vegetable Curry,409,76,33.8,spoiled,1
+Vegetable Curry,410,84,33.76,spoiled,1
+Vegetable Curry,416,81,33.39,spoiled,1
+Vegetable Curry,412,85,33.68,spoiled,1
+Vegetable Curry,410,82,33.71,spoiled,1
+Vegetable Curry,407,76,33.79,spoiled,1
+Vegetable Curry,413,80,34.06,spoiled,1
+Vegetable Curry,414,77,33.99,spoiled,1
+Vegetable Curry,410,75,33.83,spoiled,1
+Vegetable Curry,414,79,34.03,spoiled,1
+Vegetable Curry,412,83,34.22,spoiled,1
+Vegetable Curry,413,81,34.16,spoiled,1
+Vegetable Curry,406,76,34.14,spoiled,1
+Vegetable Curry,413,79,34.34,spoiled,1
+Vegetable Curry,417,80,34.59,spoiled,1
+Vegetable Curry,413,75,34.47,spoiled,1
+Vegetable Curry,415,82,34.64,spoiled,1
+Vegetable Curry,413,79,34.41,spoiled,1
+Vegetable Curry,417,76,34.55,spoiled,1
+Vegetable Curry,416,76,34.6,spoiled,1
+Vegetable Curry,414,83,34.67,spoiled,1
+Vegetable Curry,421,79,34.77,spoiled,1
+Vegetable Curry,420,84,34.62,spoiled,1
+Vegetable Curry,416,85,34.91,spoiled,1
+Vegetable Curry,420,83,34.62,spoiled,1
+Vegetable Curry,420,78,34.71,spoiled,1
+Vegetable Curry,421,73,35.29,spoiled,1
+Vegetable Curry,414,81,34.94,spoiled,1
+Vegetable Curry,423,86,35.18,spoiled,1
+Vegetable Curry,418,80,35.38,spoiled,1
+Vegetable Curry,419,74,34.83,spoiled,1
+Vegetable Curry,429,78,35.39,spoiled,1
+Vegetable Curry,422,79,35.37,spoiled,1
+Vegetable Curry,420,77,35.57,spoiled,1
+Vegetable Curry,415,72,35.2,spoiled,1
+Vegetable Curry,426,80,35.65,spoiled,1
+Vegetable Curry,418,78,35.37,spoiled,1
+Vegetable Curry,420,85,35.69,spoiled,1
+Vegetable Curry,422,80,35.58,spoiled,1
+Vegetable Curry,428,81,35.75,spoiled,1
+Vegetable Curry,426,80,35.7,spoiled,1
+Vegetable Curry,424,80,35.47,spoiled,1
+Vegetable Curry,426,75,35.33,spoiled,1
+Vegetable Curry,423,77,35.88,spoiled,1
+Vegetable Curry,426,83,35.86,spoiled,1
+Vegetable Curry,426,81,36.01,spoiled,1
+Vegetable Curry,429,79,35.96,spoiled,1
+Pizza,339,82,20.15,not spoiled,0
+Pizza,340,71,20.13,not spoiled,0
+Pizza,340,74,20.05,not spoiled,0
+Pizza,347,68,20.27,not spoiled,0
+Pizza,340,76,20.19,not spoiled,0
+Pizza,341,76,20.1,not spoiled,0
+Pizza,342,75,20.25,not spoiled,0
+Pizza,340,73,20.37,not spoiled,0
+Pizza,343,69,20.55,not spoiled,0
+Pizza,350,76,20.44,not spoiled,0
+Pizza,344,79,20.34,not spoiled,0
+Pizza,345,73,20.58,not spoiled,0
+Pizza,342,76,20.64,not spoiled,0
+Pizza,350,70,20.7,not spoiled,0
+Pizza,351,76,20.86,not spoiled,0
+Pizza,348,74,20.93,not spoiled,0
+Pizza,347,73,20.74,not spoiled,0
+Pizza,345,73,20.79,not spoiled,0
+Pizza,347,74,20.78,not spoiled,0
+Pizza,344,76,21.09,not spoiled,0
+Pizza,343,71,21.25,not spoiled,0
+Pizza,343,74,21.04,not spoiled,0
+Pizza,349,75,21.1,not spoiled,0
+Pizza,344,72,21.41,not spoiled,0
+Pizza,347,80,21.32,not spoiled,0
+Pizza,348,72,21.36,not spoiled,0
+Pizza,352,73,21.17,not spoiled,0
+Pizza,347,72,21.5,not spoiled,0
+Pizza,353,80,21.31,not spoiled,0
+Pizza,353,77,21.33,not spoiled,0
+Pizza,347,72,21.5,not spoiled,0
+Pizza,354,78,21.52,not spoiled,0
+Pizza,350,76,21.62,not spoiled,0
+Pizza,350,76,21.49,not spoiled,0
+Pizza,351,74,21.9,not spoiled,0
+Pizza,352,73,21.98,not spoiled,0
+Pizza,351,76,21.57,not spoiled,0
+Pizza,350,73,22.06,not spoiled,0
+Pizza,351,80,21.84,not spoiled,0
+Pizza,354,71,22.15,not spoiled,0
+Pizza,353,80,22.06,not spoiled,0
+Pizza,355,75,22.13,not spoiled,0
+Pizza,354,76,22.14,not spoiled,0
+Pizza,355,77,22.41,not spoiled,0
+Pizza,357,73,22.09,not spoiled,0
+Pizza,359,78,22.42,not spoiled,0
+Pizza,360,67,22.54,not spoiled,0
+Pizza,360,73,22.54,not spoiled,0
+Pizza,359,72,22.83,not spoiled,0
+Pizza,363,71,22.46,not spoiled,0
+Pizza,358,74,22.73,not spoiled,0
+Pizza,358,76,22.62,not spoiled,0
+Pizza,364,77,22.87,not spoiled,0
+Pizza,350,76,22.74,not spoiled,0
+Pizza,358,73,22.73,not spoiled,0
+Pizza,362,76,23.04,not spoiled,0
+Pizza,362,75,22.82,not spoiled,0
+Pizza,367,78,22.74,not spoiled,0
+Pizza,360,77,22.92,not spoiled,0
+Pizza,359,75,23.14,not spoiled,0
+Pizza,359,72,23.31,not spoiled,0
+Pizza,362,73,23.17,not spoiled,0
+Pizza,366,73,23.4,not spoiled,0
+Pizza,366,74,23.05,not spoiled,0
+Pizza,361,76,23.24,not spoiled,0
+Pizza,363,77,23.32,not spoiled,0
+Pizza,361,75,23.4,not spoiled,0
+Pizza,361,75,23.48,not spoiled,0
+Pizza,366,75,23.62,not spoiled,0
+Pizza,368,73,23.5,not spoiled,0
+Pizza,362,72,23.64,not spoiled,0
+Pizza,365,70,23.67,not spoiled,0
+Pizza,364,73,23.59,not spoiled,0
+Pizza,367,76,23.76,not spoiled,0
+Pizza,364,73,23.81,not spoiled,0
+Pizza,360,74,23.85,not spoiled,0
+Pizza,369,76,23.94,not spoiled,0
+Pizza,365,77,23.99,not spoiled,0
+Pizza,366,72,23.97,not spoiled,0
+Pizza,368,78,24.28,not spoiled,0
+Pizza,368,78,23.96,not spoiled,0
+Pizza,369,72,24.08,not spoiled,0
+Pizza,363,73,24.66,not spoiled,0
+Pizza,370,79,24.14,not spoiled,0
+Pizza,363,75,24.14,not spoiled,0
+Pizza,371,68,24.51,not spoiled,0
+Pizza,372,71,24.14,not spoiled,0
+Pizza,365,74,24.46,not spoiled,0
+Pizza,371,72,24.87,not spoiled,0
+Pizza,373,74,24.37,not spoiled,0
+Pizza,369,75,24.36,not spoiled,0
+Pizza,373,79,24.48,not spoiled,0
+Pizza,363,74,24.89,not spoiled,0
+Pizza,375,78,24.98,not spoiled,0
+Pizza,372,79,24.79,not spoiled,0
+Pizza,371,79,25.02,not spoiled,0
+Pizza,375,76,25.17,not spoiled,0
+Pizza,378,69,25.29,not spoiled,0
+Pizza,375,76,25.03,not spoiled,0
+Pizza,378,78,24.78,not spoiled,0
+Pizza,369,75,25.05,not spoiled,0
+Pizza,376,80,25.16,not spoiled,0
+Pizza,374,78,25.24,not spoiled,0
+Pizza,373,77,25.3,not spoiled,0
+Pizza,369,78,25.55,not spoiled,0
+Pizza,377,76,25.62,not spoiled,0
+Pizza,379,68,25.46,not spoiled,0
+Pizza,380,74,25.7,not spoiled,0
+Pizza,380,79,25.64,not spoiled,0
+Pizza,375,73,25.65,not spoiled,0
+Pizza,381,74,25.83,not spoiled,0
+Pizza,382,72,25.75,not spoiled,0
+Pizza,377,80,26.1,not spoiled,0
+Pizza,378,80,25.63,not spoiled,0
+Pizza,376,72,25.82,not spoiled,0
+Pizza,383,75,25.93,not spoiled,0
+Pizza,375,73,26.07,not spoiled,0
+Pizza,381,77,26.24,not spoiled,0
+Pizza,378,77,26.1,not spoiled,0
+Pizza,377,77,25.94,not spoiled,0
+Pizza,375,76,26.33,not spoiled,0
+Pizza,380,84,26.37,not spoiled,0
+Pizza,378,72,26.02,not spoiled,0
+Pizza,382,70,26.36,not spoiled,0
+Pizza,387,74,26.18,not spoiled,0
+Pizza,383,70,26.37,not spoiled,0
+Pizza,389,71,26.38,not spoiled,0
+Pizza,380,72,26.69,not spoiled,0
+Pizza,379,72,26.64,not spoiled,0
+Pizza,381,72,26.48,not spoiled,0
+Pizza,384,77,26.86,not spoiled,0
+Pizza,393,73,26.56,not spoiled,0
+Pizza,380,74,26.88,not spoiled,0
+Pizza,387,78,26.76,not spoiled,0
+Pizza,383,73,26.88,not spoiled,0
+Pizza,385,74,27.06,not spoiled,0
+Pizza,382,76,27.11,not spoiled,0
+Pizza,389,69,27.29,not spoiled,0
+Pizza,387,68,27.13,not spoiled,0
+Pizza,390,76,27.24,not spoiled,0
+Pizza,388,76,27.18,not spoiled,0
+Pizza,382,81,27.32,not spoiled,0
+Pizza,391,75,27.41,not spoiled,0
+Pizza,382,77,27.38,not spoiled,0
+Pizza,383,74,27.18,not spoiled,0
+Pizza,386,76,27.55,not spoiled,0
+Pizza,387,80,27.61,not spoiled,0
+Pizza,394,69,27.5,not spoiled,0
+Pizza,390,76,27.46,not spoiled,0
+Pizza,394,81,27.93,not spoiled,0
+Pizza,389,76,27.83,not spoiled,0
+Pizza,392,80,27.78,not spoiled,0
+Pizza,393,73,27.69,not spoiled,0
+Pizza,394,75,27.79,not spoiled,0
+Pizza,391,75,28.16,spoiled,1
+Pizza,391,68,28.04,spoiled,1
+Pizza,392,71,27.99,not spoiled,0
+Pizza,388,72,28.2,spoiled,1
+Pizza,393,77,28.05,spoiled,1
+Pizza,393,78,28.45,spoiled,1
+Pizza,396,76,28.48,spoiled,1
+Pizza,395,77,28.26,spoiled,1
+Pizza,399,75,28.29,spoiled,1
+Pizza,395,79,28.04,spoiled,1
+Pizza,394,75,28.26,spoiled,1
+Pizza,396,75,28.33,spoiled,1
+Pizza,398,74,28.61,spoiled,1
+Pizza,391,77,28.59,spoiled,1
+Pizza,395,74,28.49,spoiled,1
+Pizza,395,78,28.7,spoiled,1
+Pizza,399,72,28.87,spoiled,1
+Pizza,399,72,28.92,spoiled,1
+Pizza,399,77,28.61,spoiled,1
+Pizza,391,75,28.93,spoiled,1
+Pizza,394,74,28.79,spoiled,1
+Pizza,399,78,29.19,spoiled,1
+Pizza,398,73,29.22,spoiled,1
+Pizza,400,74,29.02,spoiled,1
+Pizza,399,79,29.09,spoiled,1
+Pizza,405,80,29.19,spoiled,1
+Pizza,394,80,28.97,spoiled,1
+Pizza,402,74,29.41,spoiled,1
+Pizza,404,79,29.37,spoiled,1
+Pizza,404,72,29.61,spoiled,1
+Pizza,405,72,29.35,spoiled,1
+Pizza,405,68,29.48,spoiled,1
+Pizza,401,80,29.39,spoiled,1
+Pizza,400,72,29.52,spoiled,1
+Pizza,398,75,29.55,spoiled,1
+Pizza,403,72,29.93,spoiled,1
+Pizza,402,77,29.72,spoiled,1
+Pizza,408,74,29.9,spoiled,1
+Pizza,404,71,29.87,spoiled,1
+Pizza,402,76,29.79,spoiled,1
+Pizza,402,71,30.01,spoiled,1
+Pizza,412,72,30.18,spoiled,1
+Pizza,406,69,29.96,spoiled,1
+Pizza,404,71,30.31,spoiled,1
+Pizza,407,76,30.11,spoiled,1
+Pizza,413,69,30.22,spoiled,1
+Pizza,407,71,30.42,spoiled,1
+Pizza,410,75,30.3,spoiled,1
+Pizza,412,73,30.45,spoiled,1
+Pizza,403,81,30.45,spoiled,1
+Pizza,407,81,30.57,spoiled,1
+Pizza,413,72,30.25,spoiled,1
+Pizza,408,77,30.38,spoiled,1
+Pizza,411,77,30.8,spoiled,1
+Pizza,408,73,30.91,spoiled,1
+Pizza,409,71,30.67,spoiled,1
+Pizza,409,75,30.83,spoiled,1
+Pizza,413,74,30.96,spoiled,1
+Pizza,412,74,31.07,spoiled,1
+Pizza,412,76,30.71,spoiled,1
+Pizza,420,73,30.94,spoiled,1
+Pizza,418,72,31.07,spoiled,1
+Pizza,407,75,31.28,spoiled,1
+Pizza,412,76,31.6,spoiled,1
+Pizza,421,71,31.24,spoiled,1
+Pizza,412,78,31.12,spoiled,1
+Pizza,421,70,31.44,spoiled,1
+Pizza,414,73,31.63,spoiled,1
+Pizza,414,74,31.5,spoiled,1
+Pizza,418,73,31.4,spoiled,1
+Pizza,416,73,31.73,spoiled,1
+Pizza,418,81,31.74,spoiled,1
+Pizza,421,72,31.54,spoiled,1
+Pizza,419,82,31.8,spoiled,1
+Pizza,418,76,31.94,spoiled,1
+Pizza,423,75,32.02,spoiled,1
+Pizza,420,76,31.89,spoiled,1
+Pizza,416,83,31.89,spoiled,1
+Pizza,424,72,32.18,spoiled,1
+Pizza,421,72,31.87,spoiled,1
+Pizza,419,73,32.17,spoiled,1
+Pizza,413,75,31.95,spoiled,1
+Pizza,416,70,32.37,spoiled,1
+Pizza,425,75,32.22,spoiled,1
+Pizza,426,80,32.5,spoiled,1
+Pizza,421,75,32.44,spoiled,1
+Pizza,416,74,32.23,spoiled,1
+Pizza,418,73,32.68,spoiled,1
+Pizza,417,78,32.75,spoiled,1
+Pizza,417,73,32.7,spoiled,1
+Pizza,429,81,32.51,spoiled,1
+Pizza,429,81,32.63,spoiled,1
+Pizza,420,76,32.75,spoiled,1
+Pizza,424,75,32.67,spoiled,1
+Pizza,420,78,33.08,spoiled,1
+Pizza,424,78,32.9,spoiled,1
+Pizza,430,73,32.53,spoiled,1
+Pizza,428,73,33.03,spoiled,1
+Pizza,428,71,32.98,spoiled,1
+Pizza,425,76,33.07,spoiled,1
+Pizza,430,77,33.08,spoiled,1
+Pizza,428,71,33.31,spoiled,1
+Pizza,428,74,33.41,spoiled,1
+Pizza,427,71,33.34,spoiled,1
+Pizza,428,72,33.29,spoiled,1
+Pizza,429,77,33.39,spoiled,1
+Pizza,426,73,33.45,spoiled,1
+Pizza,426,74,33.38,spoiled,1
+Pizza,426,70,33.64,spoiled,1
+Pizza,426,76,33.67,spoiled,1
+Pizza,429,75,33.89,spoiled,1
+Pizza,429,73,33.9,spoiled,1
+Pizza,428,74,33.66,spoiled,1
+Pizza,428,76,33.93,spoiled,1
+Pizza,432,73,33.72,spoiled,1
+Pizza,435,71,34.02,spoiled,1
+Pizza,431,80,33.89,spoiled,1
+Pizza,432,73,33.86,spoiled,1
+Pizza,429,75,34.11,spoiled,1
+Pizza,432,78,33.72,spoiled,1
+Pizza,436,86,33.91,spoiled,1
+Pizza,436,71,34.2,spoiled,1
+Pizza,436,76,34.29,spoiled,1
+Pizza,437,73,34.27,spoiled,1
+Pizza,435,73,34.14,spoiled,1
+Pizza,436,73,34.31,spoiled,1
+Pizza,436,72,34.54,spoiled,1
+Pizza,434,75,34.62,spoiled,1
+Pizza,436,71,34.58,spoiled,1
+Pizza,436,78,34.81,spoiled,1
+Pizza,438,75,34.75,spoiled,1
+Pizza,437,76,34.63,spoiled,1
+Pizza,443,74,34.75,spoiled,1
+Pizza,434,74,34.63,spoiled,1
+Pizza,440,76,34.88,spoiled,1
+Pizza,438,72,35.12,spoiled,1
+Pizza,438,74,35.1,spoiled,1
+Pizza,436,72,35.26,spoiled,1
+Pizza,442,72,35.06,spoiled,1
+Pizza,441,69,35.36,spoiled,1
+Pizza,442,79,35.18,spoiled,1
+Pizza,440,73,35.48,spoiled,1
+Pizza,439,78,35.31,spoiled,1
+Pizza,440,78,35.47,spoiled,1
+Pizza,442,71,35.64,spoiled,1
+Pizza,435,72,35.44,spoiled,1
+Pizza,444,83,35.55,spoiled,1
+Pizza,449,80,35.76,spoiled,1
+Pizza,444,75,35.6,spoiled,1
+Pizza,442,76,35.47,spoiled,1
+Pizza,442,73,36.05,spoiled,1
+Pizza,445,76,35.71,spoiled,1
+Pizza,443,73,35.85,spoiled,1
+Pizza,447,69,36.05,spoiled,1
+Pizza,444,71,35.84,spoiled,1
+Pizza,450,75,35.83,spoiled,1
+Pizza,450,72,36.07,spoiled,1
+Pizza,444,75,35.82,spoiled,1
+Pizza,445,72,36.09,spoiled,1
+Pizza,446,73,36.23,spoiled,1
+Pizza,446,78,36.2,spoiled,1
+Pizza,444,76,36.06,spoiled,1
+Pizza,444,75,36.58,spoiled,1
+Pizza,451,78,36.41,spoiled,1
+Pizza,451,76,36.66,spoiled,1
+Pizza,451,79,36.46,spoiled,1
+Pizza,448,74,36.42,spoiled,1
+Pizza,454,74,36.64,spoiled,1
+Pizza,449,71,36.62,spoiled,1
+Pizza,452,74,36.53,spoiled,1
+Pizza,446,78,36.98,spoiled,1
+Pizza,449,79,36.72,spoiled,1
+Pizza,450,78,36.59,spoiled,1
+Pizza,450,70,37.11,spoiled,1
+Pizza,447,78,36.89,spoiled,1
+Pizza,453,69,36.93,spoiled,1
+Pizza,455,78,36.8,spoiled,1
+Pizza,450,74,37.38,spoiled,1
+Pizza,449,77,36.98,spoiled,1
+Pizza,450,71,37.23,spoiled,1
+Pizza,455,79,37.41,spoiled,1
+Pizza,452,71,37.39,spoiled,1
+Pizza,453,73,37.37,spoiled,1
+Pizza,451,72,37.18,spoiled,1
+Pizza,460,70,37.36,spoiled,1
+Pizza,455,75,37.56,spoiled,1
+Pizza,459,80,37.47,spoiled,1
+Pizza,457,83,37.67,spoiled,1
+Pizza,456,75,37.79,spoiled,1
+Pizza,456,78,37.89,spoiled,1
+Pizza,454,76,37.61,spoiled,1
+Pizza,455,76,38.17,spoiled,1
+Pizza,454,74,38.01,spoiled,1
+Pizza,454,76,37.95,spoiled,1
+Pizza,464,77,38.16,spoiled,1
+Sandwiches,336,74,20.04,not spoiled,0
+Sandwiches,340,77,20.27,not spoiled,0
+Sandwiches,340,75,19.98,not spoiled,0
+Sandwiches,337,70,19.97,not spoiled,0
+Sandwiches,344,71,20.06,not spoiled,0
+Sandwiches,345,75,20.2,not spoiled,0
+Sandwiches,344,73,20.32,not spoiled,0
+Sandwiches,341,73,20.34,not spoiled,0
+Sandwiches,341,78,20.3,not spoiled,0
+Sandwiches,339,77,20.48,not spoiled,0
+Sandwiches,344,80,20.54,not spoiled,0
+Sandwiches,341,74,20.67,not spoiled,0
+Sandwiches,341,73,20.84,not spoiled,0
+Sandwiches,343,76,20.62,not spoiled,0
+Sandwiches,343,73,20.91,not spoiled,0
+Sandwiches,344,73,20.79,not spoiled,0
+Sandwiches,347,74,20.6,not spoiled,0
+Sandwiches,346,80,21.15,not spoiled,0
+Sandwiches,345,77,21.27,not spoiled,0
+Sandwiches,347,77,21.08,not spoiled,0
+Sandwiches,344,80,21.05,not spoiled,0
+Sandwiches,348,78,21.05,not spoiled,0
+Sandwiches,348,72,21.07,not spoiled,0
+Sandwiches,343,78,21.37,not spoiled,0
+Sandwiches,351,78,21.24,not spoiled,0
+Sandwiches,346,77,21.54,not spoiled,0
+Sandwiches,349,74,21.35,not spoiled,0
+Sandwiches,353,77,21.33,not spoiled,0
+Sandwiches,352,75,21.36,not spoiled,0
+Sandwiches,350,72,21.39,not spoiled,0
+Sandwiches,349,73,21.63,not spoiled,0
+Sandwiches,354,77,21.41,not spoiled,0
+Sandwiches,353,72,21.53,not spoiled,0
+Sandwiches,350,73,21.91,not spoiled,0
+Sandwiches,349,77,21.62,not spoiled,0
+Sandwiches,346,75,21.94,not spoiled,0
+Sandwiches,353,77,21.55,not spoiled,0
+Sandwiches,352,71,22.13,not spoiled,0
+Sandwiches,356,77,21.77,not spoiled,0
+Sandwiches,355,73,21.89,not spoiled,0
+Sandwiches,358,72,22.17,not spoiled,0
+Sandwiches,352,73,22.16,not spoiled,0
+Sandwiches,358,79,22.31,not spoiled,0
+Sandwiches,353,74,22.03,not spoiled,0
+Sandwiches,357,82,22.23,not spoiled,0
+Sandwiches,351,69,22.24,not spoiled,0
+Sandwiches,357,70,22.21,not spoiled,0
+Sandwiches,350,79,22.52,not spoiled,0
+Sandwiches,356,80,22.62,not spoiled,0
+Sandwiches,358,72,22.48,not spoiled,0
+Sandwiches,356,75,22.81,not spoiled,0
+Sandwiches,354,77,22.52,not spoiled,0
+Sandwiches,360,74,22.91,not spoiled,0
+Sandwiches,358,75,22.83,not spoiled,0
+Sandwiches,357,75,22.61,not spoiled,0
+Sandwiches,359,71,23.14,not spoiled,0
+Sandwiches,367,74,22.83,not spoiled,0
+Sandwiches,363,75,23.13,not spoiled,0
+Sandwiches,363,75,23.02,not spoiled,0
+Sandwiches,362,70,23.11,not spoiled,0
+Sandwiches,361,77,23.24,not spoiled,0
+Sandwiches,354,75,23.28,not spoiled,0
+Sandwiches,359,72,23.16,not spoiled,0
+Sandwiches,360,80,23.34,not spoiled,0
+Sandwiches,356,74,23.38,not spoiled,0
+Sandwiches,359,74,23.39,not spoiled,0
+Sandwiches,357,77,23.38,not spoiled,0
+Sandwiches,363,81,23.5,not spoiled,0
+Sandwiches,366,77,23.81,not spoiled,0
+Sandwiches,367,77,23.52,not spoiled,0
+Sandwiches,365,72,23.8,not spoiled,0
+Sandwiches,362,75,23.58,not spoiled,0
+Sandwiches,359,73,23.59,not spoiled,0
+Sandwiches,360,77,24.27,not spoiled,0
+Sandwiches,362,77,23.91,not spoiled,0
+Sandwiches,363,80,23.96,not spoiled,0
+Sandwiches,366,69,24.02,not spoiled,0
+Sandwiches,363,73,24.19,not spoiled,0
+Sandwiches,368,79,24.1,not spoiled,0
+Sandwiches,367,71,24.21,not spoiled,0
+Sandwiches,368,77,23.98,not spoiled,0
+Sandwiches,371,78,24.34,not spoiled,0
+Sandwiches,365,75,24.21,not spoiled,0
+Sandwiches,370,71,24.39,not spoiled,0
+Sandwiches,369,75,24.09,not spoiled,0
+Sandwiches,368,79,24.49,not spoiled,0
+Sandwiches,372,80,24.11,not spoiled,0
+Sandwiches,373,76,24.46,not spoiled,0
+Sandwiches,367,72,24.3,not spoiled,0
+Sandwiches,370,80,24.7,not spoiled,0
+Sandwiches,372,77,24.67,not spoiled,0
+Sandwiches,371,72,24.59,not spoiled,0
+Sandwiches,373,76,24.97,not spoiled,0
+Sandwiches,373,76,24.68,not spoiled,0
+Sandwiches,378,73,24.41,not spoiled,0
+Sandwiches,368,76,24.99,not spoiled,0
+Sandwiches,373,78,24.7,not spoiled,0
+Sandwiches,371,74,24.89,not spoiled,0
+Sandwiches,376,79,24.99,not spoiled,0
+Sandwiches,369,70,24.91,not spoiled,0
+Sandwiches,375,82,25.1,not spoiled,0
+Sandwiches,373,75,25.01,not spoiled,0
+Sandwiches,373,78,25.3,not spoiled,0
+Sandwiches,371,76,25.14,not spoiled,0
+Sandwiches,374,73,25.38,not spoiled,0
+Sandwiches,379,75,25.61,not spoiled,0
+Sandwiches,376,69,25.6,not spoiled,0
+Sandwiches,379,77,25.52,not spoiled,0
+Sandwiches,382,76,25.44,not spoiled,0
+Sandwiches,378,74,25.66,not spoiled,0
+Sandwiches,376,77,25.59,not spoiled,0
+Sandwiches,380,75,25.77,not spoiled,0
+Sandwiches,377,77,25.54,not spoiled,0
+Sandwiches,377,78,25.97,not spoiled,0
+Sandwiches,375,73,25.9,not spoiled,0
+Sandwiches,382,72,26.28,not spoiled,0
+Sandwiches,379,70,26.2,not spoiled,0
+Sandwiches,381,75,26.14,not spoiled,0
+Sandwiches,378,76,26.08,not spoiled,0
+Sandwiches,382,71,26.05,not spoiled,0
+Sandwiches,379,79,26.35,not spoiled,0
+Sandwiches,381,73,26.22,not spoiled,0
+Sandwiches,385,69,26.49,not spoiled,0
+Sandwiches,385,79,26.42,not spoiled,0
+Sandwiches,383,69,26.47,not spoiled,0
+Sandwiches,378,78,26.55,not spoiled,0
+Sandwiches,392,77,26.38,not spoiled,0
+Sandwiches,389,76,26.42,not spoiled,0
+Sandwiches,386,73,26.46,not spoiled,0
+Sandwiches,382,77,26.83,not spoiled,0
+Sandwiches,384,78,26.58,not spoiled,0
+Sandwiches,383,72,26.65,not spoiled,0
+Sandwiches,389,78,26.91,not spoiled,0
+Sandwiches,387,78,26.84,not spoiled,0
+Sandwiches,384,76,26.87,not spoiled,0
+Sandwiches,385,73,26.91,not spoiled,0
+Sandwiches,390,78,26.69,not spoiled,0
+Sandwiches,392,77,26.94,not spoiled,0
+Sandwiches,392,72,27.32,not spoiled,0
+Sandwiches,390,74,27.11,not spoiled,0
+Sandwiches,387,77,26.96,not spoiled,0
+Sandwiches,379,75,27.14,not spoiled,0
+Sandwiches,390,78,27.4,not spoiled,0
+Sandwiches,389,74,27.45,not spoiled,0
+Sandwiches,390,72,27.4,not spoiled,0
+Sandwiches,390,82,27.4,not spoiled,0
+Sandwiches,386,70,27.34,not spoiled,0
+Sandwiches,392,74,27.66,not spoiled,0
+Sandwiches,393,76,27.78,not spoiled,0
+Sandwiches,393,78,27.9,not spoiled,0
+Sandwiches,394,77,27.59,not spoiled,0
+Sandwiches,394,82,28.02,spoiled,1
+Sandwiches,391,75,27.85,not spoiled,0
+Sandwiches,392,72,27.92,not spoiled,0
+Sandwiches,393,74,28.1,spoiled,1
+Sandwiches,394,74,27.94,not spoiled,0
+Sandwiches,397,75,27.74,not spoiled,0
+Sandwiches,396,72,28.23,spoiled,1
+Sandwiches,401,77,28.22,spoiled,1
+Sandwiches,401,76,28.17,spoiled,1
+Sandwiches,395,71,28.37,spoiled,1
+Sandwiches,384,78,28.45,spoiled,1
+Sandwiches,399,73,28.15,spoiled,1
+Sandwiches,394,71,28.43,spoiled,1
+Sandwiches,394,75,28.14,spoiled,1
+Sandwiches,396,70,28.52,spoiled,1
+Sandwiches,396,77,28.53,spoiled,1
+Sandwiches,399,66,28.71,spoiled,1
+Sandwiches,393,72,28.53,spoiled,1
+Sandwiches,395,80,28.68,spoiled,1
+Sandwiches,400,73,28.31,spoiled,1
+Sandwiches,401,73,28.93,spoiled,1
+Sandwiches,401,79,28.88,spoiled,1
+Sandwiches,397,73,28.96,spoiled,1
+Sandwiches,397,77,28.78,spoiled,1
+Sandwiches,399,79,29.11,spoiled,1
+Sandwiches,401,76,29.35,spoiled,1
+Sandwiches,405,71,29.13,spoiled,1
+Sandwiches,395,73,29.3,spoiled,1
+Sandwiches,401,83,29.13,spoiled,1
+Sandwiches,398,74,29.3,spoiled,1
+Sandwiches,397,84,29.13,spoiled,1
+Sandwiches,406,80,29.53,spoiled,1
+Sandwiches,405,77,29.49,spoiled,1
+Sandwiches,405,76,29.33,spoiled,1
+Sandwiches,406,74,29.45,spoiled,1
+Sandwiches,403,75,29.63,spoiled,1
+Sandwiches,403,73,29.81,spoiled,1
+Sandwiches,411,75,29.95,spoiled,1
+Sandwiches,404,71,29.76,spoiled,1
+Sandwiches,408,71,29.62,spoiled,1
+Sandwiches,406,79,29.92,spoiled,1
+Sandwiches,401,70,30.2,spoiled,1
+Sandwiches,400,78,29.74,spoiled,1
+Sandwiches,405,69,29.89,spoiled,1
+Sandwiches,410,77,30.18,spoiled,1
+Sandwiches,410,74,30.16,spoiled,1
+Sandwiches,411,79,30.11,spoiled,1
+Sandwiches,405,74,30.27,spoiled,1
+Sandwiches,413,69,30.44,spoiled,1
+Sandwiches,406,74,30.33,spoiled,1
+Sandwiches,410,75,30.37,spoiled,1
+Sandwiches,410,75,30.54,spoiled,1
+Sandwiches,409,77,30.46,spoiled,1
+Sandwiches,414,73,30.72,spoiled,1
+Sandwiches,408,71,30.91,spoiled,1
+Sandwiches,407,72,30.52,spoiled,1
+Sandwiches,411,73,30.52,spoiled,1
+Sandwiches,410,73,30.81,spoiled,1
+Sandwiches,422,82,30.62,spoiled,1
+Sandwiches,414,79,30.67,spoiled,1
+Sandwiches,411,77,30.61,spoiled,1
+Sandwiches,410,76,30.91,spoiled,1
+Sandwiches,408,76,31.01,spoiled,1
+Sandwiches,411,76,30.99,spoiled,1
+Sandwiches,414,75,31.33,spoiled,1
+Sandwiches,419,75,31.37,spoiled,1
+Sandwiches,418,69,31.51,spoiled,1
+Sandwiches,416,74,31.28,spoiled,1
+Sandwiches,414,74,31.51,spoiled,1
+Sandwiches,417,73,31.43,spoiled,1
+Sandwiches,415,73,31.46,spoiled,1
+Sandwiches,422,76,31.41,spoiled,1
+Sandwiches,416,77,31.2,spoiled,1
+Sandwiches,417,76,31.68,spoiled,1
+Sandwiches,411,77,31.81,spoiled,1
+Sandwiches,417,77,31.46,spoiled,1
+Sandwiches,421,74,31.74,spoiled,1
+Sandwiches,415,77,31.94,spoiled,1
+Sandwiches,417,70,31.79,spoiled,1
+Sandwiches,422,74,32.08,spoiled,1
+Sandwiches,415,73,31.93,spoiled,1
+Sandwiches,423,80,31.92,spoiled,1
+Sandwiches,419,76,32.24,spoiled,1
+Sandwiches,419,71,31.96,spoiled,1
+Sandwiches,418,77,32.05,spoiled,1
+Sandwiches,422,78,32.07,spoiled,1
+Sandwiches,429,75,32.09,spoiled,1
+Sandwiches,424,77,32.33,spoiled,1
+Sandwiches,420,68,32.29,spoiled,1
+Sandwiches,426,67,32.49,spoiled,1
+Sandwiches,422,71,32.21,spoiled,1
+Sandwiches,427,75,32.35,spoiled,1
+Sandwiches,426,80,32.58,spoiled,1
+Sandwiches,415,72,32.84,spoiled,1
+Sandwiches,421,72,32.73,spoiled,1
+Sandwiches,428,75,32.64,spoiled,1
+Sandwiches,425,74,32.55,spoiled,1
+Sandwiches,422,73,32.73,spoiled,1
+Sandwiches,424,74,32.87,spoiled,1
+Sandwiches,420,79,32.58,spoiled,1
+Sandwiches,426,78,32.8,spoiled,1
+Sandwiches,433,75,32.92,spoiled,1
+Sandwiches,430,80,33.05,spoiled,1
+Sandwiches,434,77,33.13,spoiled,1
+Sandwiches,430,78,33.1,spoiled,1
+Sandwiches,431,72,33.32,spoiled,1
+Sandwiches,434,73,33.31,spoiled,1
+Sandwiches,430,73,33.29,spoiled,1
+Sandwiches,429,75,33.49,spoiled,1
+Sandwiches,433,75,33.53,spoiled,1
+Sandwiches,434,76,33.28,spoiled,1
+Sandwiches,429,81,33.55,spoiled,1
+Sandwiches,428,77,33.74,spoiled,1
+Sandwiches,431,73,33.81,spoiled,1
+Sandwiches,434,75,33.76,spoiled,1
+Sandwiches,434,80,33.72,spoiled,1
+Sandwiches,428,77,33.87,spoiled,1
+Sandwiches,438,79,33.98,spoiled,1
+Sandwiches,431,74,33.93,spoiled,1
+Sandwiches,432,73,34.0,spoiled,1
+Sandwiches,431,73,33.98,spoiled,1
+Sandwiches,442,74,33.87,spoiled,1
+Sandwiches,435,72,34.09,spoiled,1
+Sandwiches,432,76,34.07,spoiled,1
+Sandwiches,437,76,34.12,spoiled,1
+Sandwiches,437,79,34.49,spoiled,1
+Sandwiches,435,70,34.47,spoiled,1
+Sandwiches,438,72,34.13,spoiled,1
+Sandwiches,434,77,34.27,spoiled,1
+Sandwiches,435,76,34.43,spoiled,1
+Sandwiches,431,75,34.44,spoiled,1
+Sandwiches,433,79,34.63,spoiled,1
+Sandwiches,443,72,34.45,spoiled,1
+Sandwiches,443,73,34.83,spoiled,1
+Sandwiches,438,72,34.73,spoiled,1
+Sandwiches,443,69,34.74,spoiled,1
+Sandwiches,438,75,34.84,spoiled,1
+Sandwiches,438,73,34.83,spoiled,1
+Sandwiches,440,73,34.64,spoiled,1
+Sandwiches,439,72,35.0,spoiled,1
+Sandwiches,440,75,35.0,spoiled,1
+Sandwiches,444,73,34.96,spoiled,1
+Sandwiches,441,76,35.32,spoiled,1
+Sandwiches,443,76,35.31,spoiled,1
+Sandwiches,445,74,35.62,spoiled,1
+Sandwiches,443,74,35.44,spoiled,1
+Sandwiches,439,76,35.27,spoiled,1
+Sandwiches,439,75,35.28,spoiled,1
+Sandwiches,443,79,35.39,spoiled,1
+Sandwiches,443,76,35.42,spoiled,1
+Sandwiches,444,78,35.59,spoiled,1
+Sandwiches,444,77,35.39,spoiled,1
+Sandwiches,452,71,35.77,spoiled,1
+Sandwiches,441,73,35.74,spoiled,1
+Sandwiches,439,75,35.86,spoiled,1
+Sandwiches,446,78,35.66,spoiled,1
+Sandwiches,445,81,35.92,spoiled,1
+Sandwiches,447,74,36.13,spoiled,1
+Sandwiches,448,75,35.85,spoiled,1
+Sandwiches,451,77,35.9,spoiled,1
+Sandwiches,443,75,36.19,spoiled,1
+Sandwiches,446,80,35.99,spoiled,1
+Sandwiches,449,71,36.15,spoiled,1
+Sandwiches,450,77,36.46,spoiled,1
+Sandwiches,455,77,36.16,spoiled,1
+Sandwiches,452,78,36.58,spoiled,1
+Sandwiches,449,75,36.35,spoiled,1
+Sandwiches,447,78,36.28,spoiled,1
+Sandwiches,448,74,36.59,spoiled,1
+Sandwiches,448,73,36.57,spoiled,1
+Sandwiches,452,72,36.61,spoiled,1
+Sandwiches,452,71,36.54,spoiled,1
+Sandwiches,447,74,36.72,spoiled,1
+Sandwiches,450,76,36.45,spoiled,1
+Sandwiches,455,74,36.84,spoiled,1
+Sandwiches,453,76,37.06,spoiled,1
+Sandwiches,454,79,36.65,spoiled,1
+Sandwiches,454,73,36.9,spoiled,1
+Sandwiches,458,82,36.89,spoiled,1
+Sandwiches,454,77,36.84,spoiled,1
+Sandwiches,453,74,36.81,spoiled,1
+Sandwiches,452,74,37.0,spoiled,1
+Sandwiches,455,72,37.19,spoiled,1
+Sandwiches,448,75,37.45,spoiled,1
+Sandwiches,455,69,37.1,spoiled,1
+Sandwiches,455,79,37.42,spoiled,1
+Sandwiches,452,67,37.46,spoiled,1
+Sandwiches,454,75,37.73,spoiled,1
+Sandwiches,459,72,37.62,spoiled,1
+Sandwiches,458,73,37.68,spoiled,1
+Sandwiches,458,73,37.74,spoiled,1
+Sandwiches,459,81,37.55,spoiled,1
+Sandwiches,458,72,37.66,spoiled,1
+Sandwiches,462,78,37.96,spoiled,1
+Sandwiches,459,78,37.54,spoiled,1
+Sandwiches,455,68,37.79,spoiled,1
+Sandwiches,464,73,37.75,spoiled,1
+Sandwiches,461,79,38.04,spoiled,1
+Pasta,358,69,24.91,not spoiled,0
+Pasta,361,74,24.85,not spoiled,0
+Pasta,356,66,25.13,not spoiled,0
+Pasta,359,68,25.09,not spoiled,0
+Pasta,362,75,25.39,not spoiled,0
+Pasta,364,70,25.13,not spoiled,0
+Pasta,364,73,25.1,not spoiled,0
+Pasta,356,76,25.4,not spoiled,0
+Pasta,361,68,25.44,not spoiled,0
+Pasta,360,70,25.36,not spoiled,0
+Pasta,363,69,25.48,not spoiled,0
+Pasta,364,64,25.41,not spoiled,0
+Pasta,367,69,25.48,not spoiled,0
+Pasta,365,73,25.66,not spoiled,0
+Pasta,369,72,25.62,not spoiled,0
+Pasta,363,72,25.53,not spoiled,0
+Pasta,361,69,25.8,not spoiled,0
+Pasta,370,68,25.28,not spoiled,0
+Pasta,368,74,25.98,not spoiled,0
+Pasta,364,69,25.45,not spoiled,0
+Pasta,368,71,25.65,not spoiled,0
+Pasta,370,70,25.78,not spoiled,0
+Pasta,368,74,25.8,not spoiled,0
+Pasta,366,73,26.01,not spoiled,0
+Pasta,367,66,25.74,not spoiled,0
+Pasta,370,66,25.97,not spoiled,0
+Pasta,370,72,25.88,not spoiled,0
+Pasta,373,70,26.05,not spoiled,0
+Pasta,369,69,26.04,not spoiled,0
+Pasta,367,73,26.1,not spoiled,0
+Pasta,378,71,26.04,not spoiled,0
+Pasta,371,70,26.08,not spoiled,0
+Pasta,374,72,26.24,not spoiled,0
+Pasta,373,69,26.37,not spoiled,0
+Pasta,372,75,26.18,not spoiled,0
+Pasta,372,68,26.18,not spoiled,0
+Pasta,364,72,26.44,not spoiled,0
+Pasta,370,74,26.38,not spoiled,0
+Pasta,374,66,26.54,not spoiled,0
+Pasta,365,69,26.32,not spoiled,0
+Pasta,374,73,26.23,not spoiled,0
+Pasta,376,73,26.45,not spoiled,0
+Pasta,377,69,26.45,not spoiled,0
+Pasta,377,68,26.59,not spoiled,0
+Pasta,378,73,26.55,not spoiled,0
+Pasta,381,74,26.79,not spoiled,0
+Pasta,379,67,26.68,not spoiled,0
+Pasta,377,66,26.78,not spoiled,0
+Pasta,376,71,26.82,not spoiled,0
+Pasta,377,72,26.86,not spoiled,0
+Pasta,377,69,26.86,not spoiled,0
+Pasta,381,72,26.98,not spoiled,0
+Pasta,380,68,26.82,not spoiled,0
+Pasta,377,64,27.19,not spoiled,0
+Pasta,383,69,26.98,not spoiled,0
+Pasta,378,70,26.86,not spoiled,0
+Pasta,377,69,27.12,not spoiled,0
+Pasta,380,67,27.0,not spoiled,0
+Pasta,378,65,27.27,not spoiled,0
+Pasta,383,68,27.54,not spoiled,0
+Pasta,378,73,27.12,not spoiled,0
+Pasta,381,74,27.33,not spoiled,0
+Pasta,384,74,27.05,not spoiled,0
+Pasta,380,68,27.42,not spoiled,0
+Pasta,384,67,27.26,not spoiled,0
+Pasta,380,71,27.33,not spoiled,0
+Pasta,384,72,27.3,not spoiled,0
+Pasta,385,71,27.61,not spoiled,0
+Pasta,384,64,27.69,not spoiled,0
+Pasta,384,67,27.58,not spoiled,0
+Pasta,386,70,27.49,not spoiled,0
+Pasta,384,71,27.89,not spoiled,0
+Pasta,388,72,27.58,not spoiled,0
+Pasta,390,70,27.4,not spoiled,0
+Pasta,383,71,27.83,not spoiled,0
+Pasta,392,70,27.64,not spoiled,0
+Pasta,386,72,27.99,not spoiled,0
+Pasta,393,71,27.82,not spoiled,0
+Pasta,386,70,28.0,not spoiled,0
+Pasta,390,69,28.16,not spoiled,0
+Pasta,390,70,27.81,not spoiled,0
+Pasta,387,71,27.94,not spoiled,0
+Pasta,389,71,28.05,not spoiled,0
+Pasta,393,71,28.33,not spoiled,0
+Pasta,388,74,28.04,not spoiled,0
+Pasta,388,71,28.09,not spoiled,0
+Pasta,387,68,28.28,not spoiled,0
+Pasta,395,73,28.16,not spoiled,0
+Pasta,389,66,28.31,not spoiled,0
+Pasta,395,67,28.09,not spoiled,0
+Pasta,390,71,28.69,not spoiled,0
+Pasta,395,72,28.2,not spoiled,0
+Pasta,395,66,28.39,not spoiled,0
+Pasta,392,69,28.47,not spoiled,0
+Pasta,391,68,28.8,not spoiled,0
+Pasta,391,69,28.35,not spoiled,0
+Pasta,392,73,28.88,not spoiled,0
+Pasta,397,72,28.74,not spoiled,0
+Pasta,395,70,28.72,not spoiled,0
+Pasta,391,68,28.55,not spoiled,0
+Pasta,394,66,28.82,not spoiled,0
+Pasta,395,74,28.66,not spoiled,0
+Pasta,389,72,29.0,not spoiled,0
+Pasta,395,68,28.7,not spoiled,0
+Pasta,399,72,28.87,not spoiled,0
+Pasta,396,70,28.84,not spoiled,0
+Pasta,398,69,28.81,not spoiled,0
+Pasta,399,71,29.11,not spoiled,0
+Pasta,397,68,29.11,not spoiled,0
+Pasta,400,69,29.25,not spoiled,0
+Pasta,403,70,28.84,not spoiled,0
+Pasta,394,69,29.31,not spoiled,0
+Pasta,398,72,29.56,not spoiled,0
+Pasta,406,76,29.15,not spoiled,0
+Pasta,400,68,29.54,not spoiled,0
+Pasta,400,65,29.26,not spoiled,0
+Pasta,400,64,29.13,not spoiled,0
+Pasta,405,70,29.32,not spoiled,0
+Pasta,398,68,29.57,not spoiled,0
+Pasta,404,71,29.32,not spoiled,0
+Pasta,401,70,29.39,not spoiled,0
+Pasta,400,65,29.61,not spoiled,0
+Pasta,402,65,29.56,not spoiled,0
+Pasta,403,71,29.68,not spoiled,0
+Pasta,402,70,29.67,not spoiled,0
+Pasta,407,69,29.74,not spoiled,0
+Pasta,402,65,29.64,not spoiled,0
+Pasta,405,71,29.78,not spoiled,0
+Pasta,406,74,29.64,not spoiled,0
+Pasta,405,71,30.01,spoiled,1
+Pasta,408,67,29.76,not spoiled,0
+Pasta,404,70,30.06,spoiled,1
+Pasta,408,66,29.9,not spoiled,0
+Pasta,408,73,30.0,not spoiled,0
+Pasta,410,70,29.93,not spoiled,0
+Pasta,402,65,29.89,not spoiled,0
+Pasta,409,69,29.82,not spoiled,0
+Pasta,411,71,29.96,spoiled,1
+Pasta,407,69,30.11,spoiled,1
+Pasta,407,69,30.22,spoiled,1
+Pasta,407,66,30.38,spoiled,1
+Pasta,406,72,30.2,spoiled,1
+Pasta,412,68,30.17,spoiled,1
+Pasta,417,64,30.13,spoiled,1
+Pasta,409,69,30.45,spoiled,1
+Pasta,409,73,30.62,spoiled,1
+Pasta,411,69,30.64,spoiled,1
+Pasta,407,75,30.6,spoiled,1
+Pasta,410,71,30.62,spoiled,1
+Pasta,412,71,30.82,spoiled,1
+Pasta,410,70,30.65,spoiled,1
+Pasta,416,70,30.74,spoiled,1
+Pasta,409,69,30.63,spoiled,1
+Pasta,416,69,30.51,spoiled,1
+Pasta,418,72,30.65,spoiled,1
+Pasta,415,67,30.79,spoiled,1
+Pasta,414,67,30.84,spoiled,1
+Pasta,416,67,31.15,spoiled,1
+Pasta,414,76,30.91,spoiled,1
+Pasta,409,72,31.12,spoiled,1
+Pasta,413,71,30.91,spoiled,1
+Pasta,416,67,30.97,spoiled,1
+Pasta,414,72,30.85,spoiled,1
+Pasta,416,70,30.98,spoiled,1
+Pasta,419,71,31.21,spoiled,1
+Pasta,418,67,31.16,spoiled,1
+Pasta,421,70,31.34,spoiled,1
+Pasta,419,69,31.27,spoiled,1
+Pasta,420,68,31.22,spoiled,1
+Pasta,417,72,31.64,spoiled,1
+Pasta,415,65,31.34,spoiled,1
+Pasta,419,72,31.56,spoiled,1
+Pasta,418,72,31.37,spoiled,1
+Pasta,420,67,31.57,spoiled,1
+Pasta,418,68,31.64,spoiled,1
+Pasta,424,69,31.57,spoiled,1
+Pasta,419,71,31.22,spoiled,1
+Pasta,421,70,31.61,spoiled,1
+Pasta,422,71,31.83,spoiled,1
+Pasta,426,75,31.77,spoiled,1
+Pasta,428,68,31.79,spoiled,1
+Pasta,429,65,31.5,spoiled,1
+Pasta,420,72,31.69,spoiled,1
+Pasta,423,75,31.9,spoiled,1
+Pasta,423,71,31.94,spoiled,1
+Pasta,426,67,32.09,spoiled,1
+Pasta,426,70,31.93,spoiled,1
+Pasta,424,67,32.05,spoiled,1
+Pasta,424,72,32.03,spoiled,1
+Pasta,423,66,31.91,spoiled,1
+Pasta,418,69,31.76,spoiled,1
+Pasta,423,67,32.2,spoiled,1
+Pasta,430,70,32.2,spoiled,1
+Pasta,432,69,32.12,spoiled,1
+Pasta,432,71,32.0,spoiled,1
+Pasta,431,70,32.38,spoiled,1
+Pasta,425,67,32.28,spoiled,1
+Pasta,425,72,32.44,spoiled,1
+Pasta,424,70,32.68,spoiled,1
+Pasta,428,67,32.11,spoiled,1
+Pasta,430,77,32.37,spoiled,1
+Pasta,427,71,32.48,spoiled,1
+Pasta,432,70,32.76,spoiled,1
+Pasta,433,74,32.34,spoiled,1
+Pasta,430,76,32.91,spoiled,1
+Pasta,428,70,32.68,spoiled,1
+Pasta,436,71,32.68,spoiled,1
+Pasta,432,67,32.7,spoiled,1
+Pasta,439,70,32.7,spoiled,1
+Pasta,433,69,32.96,spoiled,1
+Pasta,434,71,32.68,spoiled,1
+Pasta,431,71,32.93,spoiled,1
+Pasta,433,72,32.86,spoiled,1
+Pasta,430,71,32.84,spoiled,1
+Pasta,431,66,33.38,spoiled,1
+Pasta,437,67,33.09,spoiled,1
+Pasta,435,68,33.16,spoiled,1
+Pasta,435,69,33.28,spoiled,1
+Pasta,434,73,32.93,spoiled,1
+Pasta,435,67,33.44,spoiled,1
+Pasta,440,69,32.84,spoiled,1
+Pasta,438,73,33.14,spoiled,1
+Pasta,434,69,33.22,spoiled,1
+Pasta,441,71,33.42,spoiled,1
+Pasta,443,70,33.4,spoiled,1
+Pasta,440,71,33.38,spoiled,1
+Pasta,442,69,33.44,spoiled,1
+Pasta,443,72,33.33,spoiled,1
+Pasta,435,65,33.29,spoiled,1
+Pasta,446,69,33.66,spoiled,1
+Pasta,444,71,33.7,spoiled,1
+Pasta,442,72,33.87,spoiled,1
+Pasta,441,74,33.55,spoiled,1
+Pasta,437,69,33.81,spoiled,1
+Pasta,441,74,33.7,spoiled,1
+Pasta,443,68,33.96,spoiled,1
+Pasta,439,74,33.97,spoiled,1
+Pasta,443,72,33.89,spoiled,1
+Pasta,440,67,33.84,spoiled,1
+Pasta,442,71,34.07,spoiled,1
+Pasta,440,70,34.06,spoiled,1
+Pasta,440,72,33.9,spoiled,1
+Pasta,446,69,33.84,spoiled,1
+Pasta,443,69,34.03,spoiled,1
+Pasta,444,74,34.34,spoiled,1
+Pasta,444,70,34.32,spoiled,1
+Pasta,454,72,34.02,spoiled,1
+Pasta,448,69,34.05,spoiled,1
+Pasta,449,75,34.46,spoiled,1
+Pasta,445,68,34.13,spoiled,1
+Pasta,449,68,34.42,spoiled,1
+Pasta,447,75,34.28,spoiled,1
+Pasta,446,69,34.66,spoiled,1
+Pasta,454,75,34.34,spoiled,1
+Pasta,451,73,34.66,spoiled,1
+Pasta,451,70,34.55,spoiled,1
+Pasta,447,65,34.6,spoiled,1
+Pasta,446,70,34.31,spoiled,1
+Pasta,450,70,34.31,spoiled,1
+Pasta,449,74,34.64,spoiled,1
+Pasta,453,75,34.75,spoiled,1
+Pasta,453,68,34.58,spoiled,1
+Pasta,452,72,34.62,spoiled,1
+Pasta,454,72,34.91,spoiled,1
+Pasta,453,73,34.95,spoiled,1
+Pasta,450,71,34.88,spoiled,1
+Pasta,452,64,35.05,spoiled,1
+Pasta,454,70,34.8,spoiled,1
+Pasta,456,67,34.96,spoiled,1
+Pasta,455,69,35.3,spoiled,1
+Pasta,453,73,35.1,spoiled,1
+Pasta,458,71,35.14,spoiled,1
+Pasta,456,73,35.51,spoiled,1
+Pasta,460,71,34.99,spoiled,1
+Pasta,456,66,35.36,spoiled,1
+Pasta,453,62,35.52,spoiled,1
+Pasta,460,70,35.26,spoiled,1
+Pasta,455,69,35.48,spoiled,1
+Pasta,458,67,35.24,spoiled,1
+Pasta,458,65,35.32,spoiled,1
+Pasta,458,68,35.52,spoiled,1
+Pasta,458,69,35.62,spoiled,1
+Pasta,454,72,35.7,spoiled,1
+Pasta,456,71,35.81,spoiled,1
+Pasta,463,75,35.6,spoiled,1
+Pasta,461,67,35.83,spoiled,1
+Pasta,466,73,35.63,spoiled,1
+Pasta,457,70,35.86,spoiled,1
+Pasta,461,72,35.79,spoiled,1
+Pasta,465,69,35.86,spoiled,1
+Pasta,460,73,35.9,spoiled,1
+Pasta,460,71,35.63,spoiled,1
+Pasta,461,68,35.74,spoiled,1
+Pasta,461,70,35.96,spoiled,1
+Pasta,464,69,35.73,spoiled,1
+Pasta,458,71,36.14,spoiled,1
+Pasta,468,66,36.19,spoiled,1
+Pasta,461,70,36.14,spoiled,1
+Pasta,458,71,35.96,spoiled,1
+Pasta,464,70,36.38,spoiled,1
+Pasta,464,74,36.51,spoiled,1
+Pasta,465,72,36.27,spoiled,1
+Pasta,467,70,36.36,spoiled,1
+Pasta,468,71,36.35,spoiled,1
+Pasta,471,71,36.44,spoiled,1
+Pasta,465,71,36.38,spoiled,1
+Pasta,469,65,36.43,spoiled,1
+Pasta,469,69,36.6,spoiled,1
+Pasta,460,66,36.86,spoiled,1
+Pasta,466,74,36.33,spoiled,1
+Pasta,465,70,36.56,spoiled,1
+Pasta,470,69,36.44,spoiled,1
+Pasta,470,73,36.89,spoiled,1
+Pasta,470,71,36.6,spoiled,1
+Pasta,469,67,36.51,spoiled,1
+Pasta,470,70,36.86,spoiled,1
+Pasta,470,69,37.07,spoiled,1
+Pasta,470,65,36.94,spoiled,1
+Pasta,474,68,36.91,spoiled,1
+Pasta,468,69,36.98,spoiled,1
+Pasta,470,70,37.17,spoiled,1
+Pasta,473,66,36.86,spoiled,1
+Pasta,471,73,37.01,spoiled,1
+Pasta,470,70,37.0,spoiled,1
+Pasta,475,70,36.93,spoiled,1
+Pasta,472,71,37.09,spoiled,1
+Pasta,471,68,37.34,spoiled,1
+Pasta,474,71,37.3,spoiled,1
+Pasta,472,69,37.35,spoiled,1
+Pasta,475,67,37.31,spoiled,1
+Pasta,474,72,37.41,spoiled,1
+Pasta,474,74,37.24,spoiled,1
+Pasta,475,72,37.36,spoiled,1
+Pasta,479,73,37.47,spoiled,1
+Pasta,478,68,37.52,spoiled,1
+Pasta,472,65,37.56,spoiled,1
+Pasta,480,74,37.53,spoiled,1
+Pasta,479,76,37.53,spoiled,1
+Pasta,480,75,38.1,spoiled,1
+Pasta,481,69,37.8,spoiled,1
+Pasta,479,67,37.76,spoiled,1
+Pasta,481,67,37.7,spoiled,1
+Pasta,478,65,37.71,spoiled,1
+Pasta,482,70,37.79,spoiled,1
+Pasta,481,75,37.89,spoiled,1
+Pasta,476,70,37.61,spoiled,1
+Pasta,484,71,37.69,spoiled,1
+Pasta,481,74,37.87,spoiled,1
+Pasta,481,69,38.03,spoiled,1
+Soup,358,63,24.93,not spoiled,0
+Soup,360,72,24.98,not spoiled,0
+Soup,363,69,25.11,not spoiled,0
+Soup,359,71,24.96,not spoiled,0
+Soup,359,74,24.91,not spoiled,0
+Soup,362,71,25.03,not spoiled,0
+Soup,366,71,25.28,not spoiled,0
+Soup,359,70,25.24,not spoiled,0
+Soup,362,67,25.47,not spoiled,0
+Soup,358,69,25.33,not spoiled,0
+Soup,362,76,25.5,not spoiled,0
+Soup,364,69,25.31,not spoiled,0
+Soup,362,70,25.38,not spoiled,0
+Soup,363,74,25.49,not spoiled,0
+Soup,361,65,25.5,not spoiled,0
+Soup,366,72,25.52,not spoiled,0
+Soup,369,65,25.47,not spoiled,0
+Soup,363,71,25.4,not spoiled,0
+Soup,365,70,25.77,not spoiled,0
+Soup,368,72,25.79,not spoiled,0
+Soup,371,67,25.66,not spoiled,0
+Soup,363,68,25.84,not spoiled,0
+Soup,367,72,25.8,not spoiled,0
+Soup,369,68,26.03,not spoiled,0
+Soup,368,72,25.7,not spoiled,0
+Soup,362,71,25.91,not spoiled,0
+Soup,371,69,25.94,not spoiled,0
+Soup,374,69,26.03,not spoiled,0
+Soup,370,70,26.28,not spoiled,0
+Soup,367,69,26.06,not spoiled,0
+Soup,369,72,26.23,not spoiled,0
+Soup,377,69,26.14,not spoiled,0
+Soup,374,68,26.36,not spoiled,0
+Soup,374,73,26.35,not spoiled,0
+Soup,373,69,26.22,not spoiled,0
+Soup,371,68,26.25,not spoiled,0
+Soup,372,63,26.42,not spoiled,0
+Soup,373,67,26.28,not spoiled,0
+Soup,375,67,26.45,not spoiled,0
+Soup,379,68,26.4,not spoiled,0
+Soup,378,68,26.55,not spoiled,0
+Soup,371,73,26.51,not spoiled,0
+Soup,376,68,26.47,not spoiled,0
+Soup,378,68,26.77,not spoiled,0
+Soup,378,70,26.68,not spoiled,0
+Soup,374,67,26.67,not spoiled,0
+Soup,385,75,26.78,not spoiled,0
+Soup,373,72,26.51,not spoiled,0
+Soup,374,66,27.11,not spoiled,0
+Soup,378,73,26.83,not spoiled,0
+Soup,384,74,26.57,not spoiled,0
+Soup,376,67,27.08,not spoiled,0
+Soup,378,67,26.83,not spoiled,0
+Soup,382,68,27.14,not spoiled,0
+Soup,379,66,27.04,not spoiled,0
+Soup,379,68,26.82,not spoiled,0
+Soup,382,69,27.13,not spoiled,0
+Soup,381,72,27.16,not spoiled,0
+Soup,384,70,27.34,not spoiled,0
+Soup,385,70,27.28,not spoiled,0
+Soup,383,69,27.06,not spoiled,0
+Soup,383,66,27.43,not spoiled,0
+Soup,383,72,27.25,not spoiled,0
+Soup,384,72,27.61,not spoiled,0
+Soup,383,68,27.34,not spoiled,0
+Soup,383,67,27.4,not spoiled,0
+Soup,387,75,27.34,not spoiled,0
+Soup,389,71,27.43,not spoiled,0
+Soup,380,71,27.43,not spoiled,0
+Soup,385,71,27.75,not spoiled,0
+Soup,383,66,27.42,not spoiled,0
+Soup,385,74,27.77,not spoiled,0
+Soup,387,69,27.81,not spoiled,0
+Soup,388,72,27.93,not spoiled,0
+Soup,386,74,27.77,not spoiled,0
+Soup,381,70,27.65,not spoiled,0
+Soup,385,66,27.81,not spoiled,0
+Soup,390,63,27.97,not spoiled,0
+Soup,380,70,27.93,not spoiled,0
+Soup,392,71,28.01,not spoiled,0
+Soup,390,68,28.19,not spoiled,0
+Soup,393,70,28.11,not spoiled,0
+Soup,389,71,28.09,not spoiled,0
+Soup,384,73,27.82,not spoiled,0
+Soup,392,69,28.02,not spoiled,0
+Soup,395,70,28.11,not spoiled,0
+Soup,394,69,27.92,not spoiled,0
+Soup,389,70,28.08,not spoiled,0
+Soup,392,68,28.25,not spoiled,0
+Soup,391,68,28.31,not spoiled,0
+Soup,390,69,28.44,not spoiled,0
+Soup,396,70,28.37,not spoiled,0
+Soup,390,67,28.47,not spoiled,0
+Soup,391,69,28.41,not spoiled,0
+Soup,391,75,28.52,not spoiled,0
+Soup,390,73,28.62,not spoiled,0
+Soup,395,67,28.81,not spoiled,0
+Soup,399,73,28.55,not spoiled,0
+Soup,395,72,28.68,not spoiled,0
+Soup,391,70,28.83,not spoiled,0
+Soup,399,68,28.52,not spoiled,0
+Soup,402,68,29.07,not spoiled,0
+Soup,395,71,28.99,not spoiled,0
+Soup,396,67,28.59,not spoiled,0
+Soup,399,73,28.94,not spoiled,0
+Soup,403,74,28.84,not spoiled,0
+Soup,397,70,28.9,not spoiled,0
+Soup,395,73,29.05,not spoiled,0
+Soup,401,69,29.19,not spoiled,0
+Soup,402,68,29.0,not spoiled,0
+Soup,400,73,29.04,not spoiled,0
+Soup,398,75,29.2,not spoiled,0
+Soup,403,76,29.27,not spoiled,0
+Soup,402,71,29.07,not spoiled,0
+Soup,399,73,29.52,not spoiled,0
+Soup,402,71,29.2,not spoiled,0
+Soup,398,74,29.48,not spoiled,0
+Soup,404,71,29.44,not spoiled,0
+Soup,402,72,29.5,not spoiled,0
+Soup,402,67,29.35,not spoiled,0
+Soup,403,69,29.22,not spoiled,0
+Soup,404,72,29.52,not spoiled,0
+Soup,407,72,29.55,not spoiled,0
+Soup,406,73,29.45,not spoiled,0
+Soup,404,70,29.77,not spoiled,0
+Soup,407,68,29.66,not spoiled,0
+Soup,407,70,29.59,not spoiled,0
+Soup,405,70,29.83,not spoiled,0
+Soup,406,71,29.87,not spoiled,0
+Soup,406,67,29.71,not spoiled,0
+Soup,408,69,30.04,spoiled,1
+Soup,406,70,30.23,spoiled,1
+Soup,406,63,29.77,not spoiled,0
+Soup,414,72,29.94,spoiled,1
+Soup,411,70,30.06,spoiled,1
+Soup,406,71,30.39,spoiled,1
+Soup,411,68,29.97,spoiled,1
+Soup,410,72,29.98,not spoiled,0
+Soup,411,68,30.01,spoiled,1
+Soup,411,68,30.38,spoiled,1
+Soup,414,72,30.12,spoiled,1
+Soup,412,71,30.14,spoiled,1
+Soup,411,66,30.34,spoiled,1
+Soup,415,75,30.39,spoiled,1
+Soup,413,68,30.54,spoiled,1
+Soup,413,70,30.43,spoiled,1
+Soup,414,75,30.49,spoiled,1
+Soup,413,64,30.48,spoiled,1
+Soup,413,65,30.33,spoiled,1
+Soup,412,71,30.54,spoiled,1
+Soup,412,63,30.61,spoiled,1
+Soup,412,64,30.57,spoiled,1
+Soup,411,74,30.44,spoiled,1
+Soup,413,69,30.55,spoiled,1
+Soup,415,77,30.75,spoiled,1
+Soup,416,67,30.93,spoiled,1
+Soup,416,69,31.08,spoiled,1
+Soup,410,72,30.84,spoiled,1
+Soup,422,71,30.79,spoiled,1
+Soup,421,69,30.88,spoiled,1
+Soup,419,68,30.82,spoiled,1
+Soup,424,71,31.13,spoiled,1
+Soup,416,74,31.37,spoiled,1
+Soup,425,72,30.99,spoiled,1
+Soup,416,68,30.95,spoiled,1
+Soup,420,67,31.31,spoiled,1
+Soup,416,68,31.25,spoiled,1
+Soup,420,66,31.29,spoiled,1
+Soup,422,70,31.51,spoiled,1
+Soup,421,72,31.11,spoiled,1
+Soup,424,70,31.14,spoiled,1
+Soup,422,75,31.36,spoiled,1
+Soup,421,75,31.43,spoiled,1
+Soup,421,71,31.41,spoiled,1
+Soup,425,72,31.87,spoiled,1
+Soup,421,67,31.49,spoiled,1
+Soup,426,69,31.49,spoiled,1
+Soup,428,74,31.63,spoiled,1
+Soup,419,68,31.8,spoiled,1
+Soup,428,74,31.58,spoiled,1
+Soup,431,73,31.7,spoiled,1
+Soup,426,72,31.91,spoiled,1
+Soup,428,66,31.96,spoiled,1
+Soup,429,69,31.87,spoiled,1
+Soup,426,72,32.24,spoiled,1
+Soup,427,67,32.21,spoiled,1
+Soup,423,69,31.74,spoiled,1
+Soup,428,72,31.73,spoiled,1
+Soup,429,68,32.14,spoiled,1
+Soup,430,67,32.27,spoiled,1
+Soup,432,65,32.06,spoiled,1
+Soup,427,69,32.06,spoiled,1
+Soup,428,72,32.05,spoiled,1
+Soup,435,67,32.03,spoiled,1
+Soup,430,70,32.42,spoiled,1
+Soup,431,69,32.23,spoiled,1
+Soup,431,68,32.37,spoiled,1
+Soup,429,73,32.09,spoiled,1
+Soup,436,75,32.55,spoiled,1
+Soup,430,73,32.52,spoiled,1
+Soup,429,68,32.27,spoiled,1
+Soup,431,76,32.55,spoiled,1
+Soup,427,73,32.55,spoiled,1
+Soup,431,69,32.52,spoiled,1
+Soup,431,68,32.19,spoiled,1
+Soup,436,73,32.56,spoiled,1
+Soup,432,71,32.74,spoiled,1
+Soup,437,67,32.65,spoiled,1
+Soup,439,70,32.74,spoiled,1
+Soup,438,69,33.03,spoiled,1
+Soup,435,68,32.83,spoiled,1
+Soup,437,73,32.57,spoiled,1
+Soup,432,72,32.89,spoiled,1
+Soup,436,73,32.97,spoiled,1
+Soup,435,72,32.87,spoiled,1
+Soup,440,67,33.14,spoiled,1
+Soup,446,68,32.85,spoiled,1
+Soup,440,74,33.09,spoiled,1
+Soup,433,70,32.92,spoiled,1
+Soup,438,66,33.14,spoiled,1
+Soup,440,71,33.32,spoiled,1
+Soup,440,72,33.23,spoiled,1
+Soup,438,72,33.26,spoiled,1
+Soup,441,67,33.33,spoiled,1
+Soup,437,76,33.38,spoiled,1
+Soup,438,65,33.51,spoiled,1
+Soup,444,70,33.55,spoiled,1
+Soup,439,75,33.69,spoiled,1
+Soup,444,72,33.54,spoiled,1
+Soup,439,73,33.31,spoiled,1
+Soup,448,67,33.72,spoiled,1
+Soup,441,71,33.83,spoiled,1
+Soup,443,70,34.04,spoiled,1
+Soup,445,67,33.92,spoiled,1
+Soup,443,73,33.67,spoiled,1
+Soup,445,68,33.81,spoiled,1
+Soup,447,68,33.78,spoiled,1
+Soup,448,71,33.79,spoiled,1
+Soup,448,70,33.87,spoiled,1
+Soup,446,71,34.12,spoiled,1
+Soup,446,69,33.73,spoiled,1
+Soup,454,74,33.85,spoiled,1
+Soup,450,67,34.22,spoiled,1
+Soup,445,69,34.3,spoiled,1
+Soup,448,71,34.02,spoiled,1
+Soup,447,67,34.4,spoiled,1
+Soup,448,67,34.34,spoiled,1
+Soup,445,70,34.19,spoiled,1
+Soup,448,73,33.9,spoiled,1
+Soup,455,73,34.05,spoiled,1
+Soup,452,70,34.24,spoiled,1
+Soup,443,68,34.49,spoiled,1
+Soup,455,71,34.53,spoiled,1
+Soup,455,72,34.38,spoiled,1
+Soup,451,71,34.45,spoiled,1
+Soup,454,74,34.52,spoiled,1
+Soup,450,67,34.53,spoiled,1
+Soup,451,68,34.63,spoiled,1
+Soup,458,73,34.63,spoiled,1
+Soup,453,66,34.42,spoiled,1
+Soup,448,68,34.68,spoiled,1
+Soup,454,68,34.75,spoiled,1
+Soup,454,65,34.94,spoiled,1
+Soup,459,69,34.7,spoiled,1
+Soup,455,72,34.89,spoiled,1
+Soup,454,70,34.98,spoiled,1
+Soup,459,72,34.91,spoiled,1
+Soup,457,74,34.71,spoiled,1
+Soup,455,69,35.16,spoiled,1
+Soup,461,78,35.16,spoiled,1
+Soup,458,69,35.12,spoiled,1
+Soup,458,69,35.13,spoiled,1
+Soup,459,68,34.89,spoiled,1
+Soup,455,72,35.31,spoiled,1
+Soup,457,69,35.46,spoiled,1
+Soup,459,70,35.11,spoiled,1
+Soup,459,69,35.51,spoiled,1
+Soup,464,69,35.52,spoiled,1
+Soup,461,70,35.21,spoiled,1
+Soup,463,69,35.36,spoiled,1
+Soup,461,69,35.25,spoiled,1
+Soup,465,73,35.49,spoiled,1
+Soup,463,69,35.6,spoiled,1
+Soup,462,71,35.37,spoiled,1
+Soup,462,67,35.67,spoiled,1
+Soup,460,69,35.74,spoiled,1
+Soup,465,66,35.78,spoiled,1
+Soup,463,76,35.79,spoiled,1
+Soup,462,74,35.57,spoiled,1
+Soup,468,72,35.78,spoiled,1
+Soup,461,76,35.89,spoiled,1
+Soup,464,72,36.09,spoiled,1
+Soup,469,69,35.91,spoiled,1
+Soup,467,71,36.01,spoiled,1
+Soup,466,74,35.84,spoiled,1
+Soup,467,67,35.85,spoiled,1
+Soup,467,66,35.87,spoiled,1
+Soup,463,71,36.03,spoiled,1
+Soup,467,68,36.44,spoiled,1
+Soup,473,63,36.11,spoiled,1
+Soup,466,66,36.26,spoiled,1
+Soup,468,69,36.33,spoiled,1
+Soup,467,70,36.12,spoiled,1
+Soup,469,70,36.25,spoiled,1
+Soup,468,76,36.45,spoiled,1
+Soup,472,69,36.46,spoiled,1
+Soup,471,71,36.13,spoiled,1
+Soup,473,65,36.56,spoiled,1
+Soup,468,70,36.42,spoiled,1
+Soup,471,71,36.46,spoiled,1
+Soup,471,66,36.64,spoiled,1
+Soup,474,67,36.85,spoiled,1
+Soup,470,71,36.63,spoiled,1
+Soup,476,68,36.87,spoiled,1
+Soup,477,70,36.51,spoiled,1
+Soup,471,72,36.79,spoiled,1
+Soup,473,76,36.72,spoiled,1
+Soup,473,69,36.88,spoiled,1
+Soup,483,75,36.83,spoiled,1
+Soup,474,64,36.72,spoiled,1
+Soup,481,70,36.82,spoiled,1
+Soup,472,69,36.74,spoiled,1
+Soup,473,68,36.83,spoiled,1
+Soup,475,72,37.14,spoiled,1
+Soup,474,69,37.07,spoiled,1
+Soup,477,64,37.18,spoiled,1
+Soup,476,65,37.45,spoiled,1
+Soup,476,72,37.17,spoiled,1
+Soup,482,65,37.35,spoiled,1
+Soup,482,72,37.29,spoiled,1
+Soup,482,70,37.74,spoiled,1
+Soup,481,69,36.91,spoiled,1
+Soup,480,70,37.29,spoiled,1
+Soup,479,72,37.54,spoiled,1
+Soup,478,66,37.36,spoiled,1
+Soup,482,70,37.6,spoiled,1
+Soup,478,67,37.54,spoiled,1
+Soup,479,70,37.72,spoiled,1
+Soup,485,72,37.46,spoiled,1
+Soup,488,70,37.69,spoiled,1
+Soup,484,72,37.77,spoiled,1
+Soup,486,68,37.76,spoiled,1
+Soup,483,70,37.8,spoiled,1
+Soup,480,69,37.99,spoiled,1
+Soup,486,69,37.6,spoiled,1
+Soup,486,68,37.91,spoiled,1
+Soup,485,69,37.74,spoiled,1
+Soup,485,67,38.08,spoiled,1
+Soup,489,65,37.87,spoiled,1
+Salad,299,78,17.85,not spoiled,0
+Salad,303,78,17.94,not spoiled,0
+Salad,298,78,17.95,not spoiled,0
+Salad,302,76,18.17,not spoiled,0
+Salad,300,77,18.04,not spoiled,0
+Salad,301,78,18.16,not spoiled,0
+Salad,305,82,18.2,not spoiled,0
+Salad,301,79,18.32,not spoiled,0
+Salad,305,79,18.19,not spoiled,0
+Salad,298,84,18.48,not spoiled,0
+Salad,299,84,18.7,not spoiled,0
+Salad,297,79,18.59,not spoiled,0
+Salad,301,78,18.85,not spoiled,0
+Salad,310,77,18.87,not spoiled,0
+Salad,305,82,18.84,not spoiled,0
+Salad,303,79,18.79,not spoiled,0
+Salad,308,79,18.83,not spoiled,0
+Salad,309,78,18.99,not spoiled,0
+Salad,303,78,18.87,not spoiled,0
+Salad,315,81,18.7,not spoiled,0
+Salad,308,76,19.11,not spoiled,0
+Salad,309,83,18.92,not spoiled,0
+Salad,310,78,18.99,not spoiled,0
+Salad,310,80,19.19,not spoiled,0
+Salad,307,76,19.23,not spoiled,0
+Salad,316,80,19.08,not spoiled,0
+Salad,309,79,19.37,not spoiled,0
+Salad,313,80,19.54,not spoiled,0
+Salad,309,84,19.28,not spoiled,0
+Salad,309,81,19.69,not spoiled,0
+Salad,317,78,19.32,not spoiled,0
+Salad,311,78,19.92,not spoiled,0
+Salad,312,82,19.59,not spoiled,0
+Salad,313,84,19.73,not spoiled,0
+Salad,320,81,19.47,not spoiled,0
+Salad,320,82,19.8,not spoiled,0
+Salad,317,82,19.9,not spoiled,0
+Salad,322,84,19.9,not spoiled,0
+Salad,311,74,19.88,not spoiled,0
+Salad,317,82,19.88,not spoiled,0
+Salad,315,83,20.24,not spoiled,0
+Salad,310,76,20.13,not spoiled,0
+Salad,317,77,20.4,not spoiled,0
+Salad,315,77,20.15,not spoiled,0
+Salad,321,78,20.21,not spoiled,0
+Salad,316,79,20.45,not spoiled,0
+Salad,316,81,20.14,not spoiled,0
+Salad,322,83,20.25,not spoiled,0
+Salad,318,83,20.65,not spoiled,0
+Salad,322,77,20.36,not spoiled,0
+Salad,320,77,20.31,not spoiled,0
+Salad,320,84,20.92,not spoiled,0
+Salad,319,82,20.48,not spoiled,0
+Salad,321,80,20.77,not spoiled,0
+Salad,320,81,20.8,not spoiled,0
+Salad,318,80,20.42,not spoiled,0
+Salad,321,82,20.86,not spoiled,0
+Salad,325,79,21.02,not spoiled,0
+Salad,323,81,21.05,not spoiled,0
+Salad,324,75,21.19,not spoiled,0
+Salad,322,78,21.05,not spoiled,0
+Salad,317,78,21.26,not spoiled,0
+Salad,319,79,21.1,not spoiled,0
+Salad,323,77,21.05,not spoiled,0
+Salad,320,78,21.12,not spoiled,0
+Salad,323,75,21.14,not spoiled,0
+Salad,323,82,21.57,not spoiled,0
+Salad,323,80,21.24,not spoiled,0
+Salad,330,75,21.56,not spoiled,0
+Salad,326,77,21.53,not spoiled,0
+Salad,329,81,21.61,not spoiled,0
+Salad,327,78,21.88,not spoiled,0
+Salad,331,78,21.66,not spoiled,0
+Salad,330,80,21.87,not spoiled,0
+Salad,326,81,21.83,not spoiled,0
+Salad,334,76,21.86,not spoiled,0
+Salad,327,82,22.28,not spoiled,0
+Salad,329,78,21.77,not spoiled,0
+Salad,330,80,22.23,not spoiled,0
+Salad,331,80,22.18,not spoiled,0
+Salad,332,78,22.07,not spoiled,0
+Salad,328,77,22.43,not spoiled,0
+Salad,333,79,21.96,not spoiled,0
+Salad,333,85,22.21,not spoiled,0
+Salad,331,76,22.16,not spoiled,0
+Salad,331,85,22.46,not spoiled,0
+Salad,330,79,22.28,not spoiled,0
+Salad,334,80,22.56,not spoiled,0
+Salad,331,77,22.52,not spoiled,0
+Salad,334,78,22.53,not spoiled,0
+Salad,333,78,22.71,not spoiled,0
+Salad,330,77,22.67,not spoiled,0
+Salad,332,79,22.6,not spoiled,0
+Salad,336,79,23.23,not spoiled,0
+Salad,334,86,22.79,not spoiled,0
+Salad,334,77,22.58,not spoiled,0
+Salad,334,80,22.84,not spoiled,0
+Salad,334,81,22.83,not spoiled,0
+Salad,342,77,23.19,not spoiled,0
+Salad,334,82,23.17,not spoiled,0
+Salad,342,79,23.23,not spoiled,0
+Salad,337,73,23.17,not spoiled,0
+Salad,336,82,23.23,not spoiled,0
+Salad,340,77,23.27,not spoiled,0
+Salad,339,77,23.37,not spoiled,0
+Salad,339,82,23.56,not spoiled,0
+Salad,340,79,23.53,not spoiled,0
+Salad,340,83,23.61,not spoiled,0
+Salad,340,84,23.66,not spoiled,0
+Salad,343,78,23.77,not spoiled,0
+Salad,337,82,23.73,not spoiled,0
+Salad,339,78,23.8,not spoiled,0
+Salad,339,87,23.97,not spoiled,0
+Salad,339,78,23.75,not spoiled,0
+Salad,343,83,23.77,not spoiled,0
+Salad,344,83,23.77,not spoiled,0
+Salad,337,81,24.03,not spoiled,0
+Salad,342,78,23.77,not spoiled,0
+Salad,343,80,24.17,not spoiled,0
+Salad,344,74,24.14,not spoiled,0
+Salad,341,81,24.38,not spoiled,0
+Salad,344,81,24.16,not spoiled,0
+Salad,343,80,24.28,not spoiled,0
+Salad,345,71,24.53,not spoiled,0
+Salad,341,76,24.62,not spoiled,0
+Salad,346,78,24.36,not spoiled,0
+Salad,345,81,24.54,not spoiled,0
+Salad,347,81,24.61,not spoiled,0
+Salad,349,79,24.68,not spoiled,0
+Salad,348,82,24.63,not spoiled,0
+Salad,351,77,24.92,not spoiled,0
+Salad,348,82,24.49,not spoiled,0
+Salad,351,81,24.76,not spoiled,0
+Salad,353,81,24.95,not spoiled,0
+Salad,351,79,25.0,not spoiled,0
+Salad,350,85,25.19,not spoiled,0
+Salad,352,81,25.21,not spoiled,0
+Salad,352,77,25.04,not spoiled,0
+Salad,355,81,25.33,not spoiled,0
+Salad,354,82,25.08,not spoiled,0
+Salad,355,78,25.38,not spoiled,0
+Salad,353,83,25.56,not spoiled,0
+Salad,354,81,25.53,not spoiled,0
+Salad,354,73,25.41,not spoiled,0
+Salad,350,81,25.4,not spoiled,0
+Salad,357,79,25.27,not spoiled,0
+Salad,349,82,25.6,not spoiled,0
+Salad,357,83,25.44,not spoiled,0
+Salad,356,81,25.54,not spoiled,0
+Salad,355,85,25.53,not spoiled,0
+Salad,357,79,25.69,not spoiled,0
+Salad,358,82,25.81,not spoiled,0
+Salad,353,82,25.9,not spoiled,0
+Salad,361,80,25.82,spoiled,1
+Salad,358,82,26.13,not spoiled,0
+Salad,365,78,25.99,spoiled,1
+Salad,361,79,25.95,spoiled,1
+Salad,359,76,26.15,not spoiled,0
+Salad,357,81,26.47,not spoiled,0
+Salad,359,81,26.27,not spoiled,0
+Salad,360,84,26.22,not spoiled,0
+Salad,364,82,26.1,spoiled,1
+Salad,364,79,26.35,spoiled,1
+Salad,362,76,26.47,spoiled,1
+Salad,367,81,26.42,spoiled,1
+Salad,356,83,26.28,not spoiled,0
+Salad,363,82,26.46,spoiled,1
+Salad,366,83,26.86,spoiled,1
+Salad,364,79,26.9,spoiled,1
+Salad,359,79,26.61,not spoiled,0
+Salad,368,78,26.89,spoiled,1
+Salad,366,80,26.67,spoiled,1
+Salad,365,80,27.11,spoiled,1
+Salad,365,81,26.99,spoiled,1
+Salad,371,80,27.14,spoiled,1
+Salad,367,80,26.79,spoiled,1
+Salad,365,78,27.21,spoiled,1
+Salad,364,83,27.15,spoiled,1
+Salad,369,80,27.33,spoiled,1
+Salad,370,79,27.4,spoiled,1
+Salad,367,78,27.32,spoiled,1
+Salad,366,76,27.27,spoiled,1
+Salad,372,84,27.53,spoiled,1
+Salad,366,82,27.46,spoiled,1
+Salad,375,75,27.39,spoiled,1
+Salad,367,82,27.43,spoiled,1
+Salad,366,83,27.4,spoiled,1
+Salad,366,80,27.6,spoiled,1
+Salad,367,85,27.89,spoiled,1
+Salad,370,81,27.8,spoiled,1
+Salad,370,76,27.75,spoiled,1
+Salad,374,81,28.0,spoiled,1
+Salad,374,81,27.81,spoiled,1
+Salad,371,78,28.0,spoiled,1
+Salad,382,82,28.01,spoiled,1
+Salad,372,75,28.2,spoiled,1
+Salad,373,83,27.9,spoiled,1
+Salad,370,77,28.06,spoiled,1
+Salad,374,77,28.0,spoiled,1
+Salad,375,80,28.25,spoiled,1
+Salad,371,81,28.53,spoiled,1
+Salad,374,80,28.32,spoiled,1
+Salad,376,78,28.37,spoiled,1
+Salad,374,78,28.63,spoiled,1
+Salad,374,77,28.71,spoiled,1
+Salad,379,79,28.59,spoiled,1
+Salad,373,83,28.76,spoiled,1
+Salad,374,80,28.55,spoiled,1
+Salad,378,83,28.97,spoiled,1
+Salad,381,84,29.13,spoiled,1
+Salad,379,78,28.94,spoiled,1
+Salad,378,79,28.6,spoiled,1
+Salad,378,87,28.88,spoiled,1
+Salad,383,84,29.11,spoiled,1
+Salad,382,75,29.01,spoiled,1
+Salad,380,81,29.31,spoiled,1
+Salad,380,80,29.26,spoiled,1
+Salad,381,82,29.12,spoiled,1
+Salad,379,78,29.28,spoiled,1
+Salad,381,77,29.19,spoiled,1
+Salad,381,78,29.35,spoiled,1
+Salad,382,78,29.35,spoiled,1
+Salad,381,82,29.66,spoiled,1
+Salad,385,76,29.85,spoiled,1
+Salad,386,78,29.37,spoiled,1
+Salad,383,75,29.35,spoiled,1
+Salad,382,83,29.65,spoiled,1
+Salad,387,84,29.51,spoiled,1
+Salad,386,79,29.8,spoiled,1
+Salad,384,79,29.96,spoiled,1
+Salad,390,81,30.12,spoiled,1
+Salad,385,84,29.98,spoiled,1
+Salad,381,81,29.97,spoiled,1
+Salad,385,78,29.75,spoiled,1
+Salad,392,75,30.11,spoiled,1
+Salad,387,77,30.17,spoiled,1
+Salad,387,80,30.3,spoiled,1
+Salad,389,78,30.15,spoiled,1
+Salad,392,81,30.25,spoiled,1
+Salad,389,78,30.14,spoiled,1
+Salad,391,77,30.07,spoiled,1
+Salad,389,76,30.3,spoiled,1
+Salad,392,85,30.28,spoiled,1
+Salad,391,83,30.62,spoiled,1
+Salad,390,85,30.54,spoiled,1
+Salad,392,82,30.59,spoiled,1
+Salad,390,79,30.58,spoiled,1
+Salad,388,84,30.29,spoiled,1
+Salad,392,80,31.05,spoiled,1
+Salad,389,81,30.73,spoiled,1
+Salad,395,80,30.87,spoiled,1
+Salad,394,71,30.76,spoiled,1
+Salad,398,85,31.18,spoiled,1
+Salad,393,81,31.11,spoiled,1
+Salad,395,81,31.01,spoiled,1
+Salad,391,80,31.13,spoiled,1
+Salad,392,80,31.49,spoiled,1
+Salad,391,78,31.28,spoiled,1
+Salad,400,82,31.32,spoiled,1
+Salad,395,76,31.26,spoiled,1
+Salad,401,81,31.16,spoiled,1
+Salad,389,82,31.48,spoiled,1
+Salad,402,79,31.6,spoiled,1
+Salad,398,81,31.77,spoiled,1
+Salad,400,77,31.32,spoiled,1
+Salad,396,77,31.54,spoiled,1
+Salad,401,81,31.67,spoiled,1
+Salad,399,82,31.81,spoiled,1
+Salad,396,74,31.84,spoiled,1
+Salad,397,82,31.9,spoiled,1
+Salad,397,78,32.03,spoiled,1
+Salad,402,79,31.88,spoiled,1
+Salad,400,76,32.21,spoiled,1
+Salad,397,77,32.19,spoiled,1
+Salad,403,83,32.12,spoiled,1
+Salad,396,80,32.46,spoiled,1
+Salad,407,79,32.51,spoiled,1
+Salad,409,80,32.47,spoiled,1
+Salad,400,81,31.93,spoiled,1
+Salad,407,81,32.67,spoiled,1
+Salad,406,80,32.6,spoiled,1
+Salad,403,83,32.84,spoiled,1
+Salad,404,83,32.77,spoiled,1
+Salad,408,81,32.87,spoiled,1
+Salad,406,80,32.82,spoiled,1
+Salad,399,82,32.94,spoiled,1
+Salad,413,81,33.09,spoiled,1
+Salad,408,83,32.88,spoiled,1
+Salad,407,83,32.66,spoiled,1
+Salad,406,77,32.9,spoiled,1
+Salad,408,77,33.06,spoiled,1
+Salad,412,78,33.06,spoiled,1
+Salad,410,83,32.92,spoiled,1
+Salad,410,75,32.91,spoiled,1
+Salad,406,81,33.1,spoiled,1
+Salad,409,81,33.38,spoiled,1
+Salad,411,83,33.55,spoiled,1
+Salad,413,81,33.5,spoiled,1
+Salad,410,76,33.57,spoiled,1
+Salad,414,77,33.45,spoiled,1
+Salad,409,76,33.26,spoiled,1
+Salad,413,78,33.5,spoiled,1
+Salad,412,79,33.58,spoiled,1
+Salad,409,77,33.6,spoiled,1
+Salad,413,84,33.73,spoiled,1
+Salad,412,76,33.84,spoiled,1
+Salad,418,84,33.96,spoiled,1
+Salad,413,84,33.84,spoiled,1
+Salad,416,83,33.65,spoiled,1
+Salad,412,78,33.91,spoiled,1
+Salad,416,81,34.04,spoiled,1
+Salad,415,76,34.27,spoiled,1
+Salad,414,83,34.05,spoiled,1
+Salad,425,80,34.27,spoiled,1
+Salad,416,79,34.28,spoiled,1
+Salad,417,76,34.3,spoiled,1
+Salad,421,73,34.48,spoiled,1
+Salad,416,77,34.3,spoiled,1
+Salad,420,83,34.36,spoiled,1
+Salad,421,79,34.5,spoiled,1
+Salad,420,79,34.46,spoiled,1
+Salad,427,82,34.68,spoiled,1
+Salad,418,85,34.55,spoiled,1
+Salad,425,84,34.74,spoiled,1
+Salad,422,77,34.74,spoiled,1
+Salad,424,74,34.84,spoiled,1
+Salad,423,87,34.79,spoiled,1
+Salad,428,87,34.86,spoiled,1
+Salad,421,81,34.98,spoiled,1
+Salad,424,76,35.05,spoiled,1
+Salad,427,83,35.07,spoiled,1
+Salad,422,80,35.38,spoiled,1
+Salad,427,80,35.02,spoiled,1
+Salad,424,83,35.21,spoiled,1
+Salad,421,81,35.04,spoiled,1
+Salad,421,76,35.38,spoiled,1
+Salad,425,79,35.21,spoiled,1
+Salad,429,82,35.39,spoiled,1
+Salad,420,82,35.43,spoiled,1
+Salad,427,81,35.58,spoiled,1
+Salad,430,83,35.5,spoiled,1
+Salad,423,79,35.55,spoiled,1
+Salad,426,81,35.91,spoiled,1
+Salad,430,70,35.78,spoiled,1
+Salad,431,79,35.71,spoiled,1
+Salad,434,82,35.81,spoiled,1
+Salad,427,79,36.14,spoiled,1
+Salad,427,79,35.91,spoiled,1
+Salad,435,77,35.9,spoiled,1
+Fruits,303,85,17.89,not spoiled,0
+Fruits,297,77,18.13,not spoiled,0
+Fruits,303,73,18.43,not spoiled,0
+Fruits,295,78,18.27,not spoiled,0
+Fruits,301,79,18.32,not spoiled,0
+Fruits,305,79,18.45,not spoiled,0
+Fruits,301,81,18.39,not spoiled,0
+Fruits,298,77,18.48,not spoiled,0
+Fruits,303,76,18.36,not spoiled,0
+Fruits,301,78,18.64,not spoiled,0
+Fruits,306,78,18.58,not spoiled,0
+Fruits,301,86,18.35,not spoiled,0
+Fruits,302,85,18.66,not spoiled,0
+Fruits,299,75,18.35,not spoiled,0
+Fruits,306,74,18.83,not spoiled,0
+Fruits,305,80,18.74,not spoiled,0
+Fruits,302,86,19.11,not spoiled,0
+Fruits,307,82,18.95,not spoiled,0
+Fruits,310,80,19.07,not spoiled,0
+Fruits,306,79,18.83,not spoiled,0
+Fruits,308,83,19.14,not spoiled,0
+Fruits,308,81,18.99,not spoiled,0
+Fruits,304,85,19.3,not spoiled,0
+Fruits,315,75,19.02,not spoiled,0
+Fruits,307,81,19.26,not spoiled,0
+Fruits,311,78,19.12,not spoiled,0
+Fruits,312,81,19.36,not spoiled,0
+Fruits,309,81,19.7,not spoiled,0
+Fruits,312,82,19.56,not spoiled,0
+Fruits,311,83,19.5,not spoiled,0
+Fruits,307,84,19.18,not spoiled,0
+Fruits,310,86,19.52,not spoiled,0
+Fruits,310,80,19.73,not spoiled,0
+Fruits,311,78,19.63,not spoiled,0
+Fruits,308,76,19.97,not spoiled,0
+Fruits,316,81,19.82,not spoiled,0
+Fruits,318,83,20.02,not spoiled,0
+Fruits,316,76,19.94,not spoiled,0
+Fruits,318,83,19.92,not spoiled,0
+Fruits,313,80,19.95,not spoiled,0
+Fruits,313,76,19.92,not spoiled,0
+Fruits,313,77,20.29,not spoiled,0
+Fruits,317,77,20.11,not spoiled,0
+Fruits,316,77,20.3,not spoiled,0
+Fruits,316,82,20.2,not spoiled,0
+Fruits,320,83,20.17,not spoiled,0
+Fruits,318,85,20.46,not spoiled,0
+Fruits,315,78,20.32,not spoiled,0
+Fruits,315,81,20.42,not spoiled,0
+Fruits,320,78,20.35,not spoiled,0
+Fruits,321,80,20.51,not spoiled,0
+Fruits,320,76,20.64,not spoiled,0
+Fruits,325,77,20.65,not spoiled,0
+Fruits,324,82,20.86,not spoiled,0
+Fruits,321,76,20.81,not spoiled,0
+Fruits,317,82,21.31,not spoiled,0
+Fruits,316,78,20.96,not spoiled,0
+Fruits,319,74,20.69,not spoiled,0
+Fruits,323,72,20.97,not spoiled,0
+Fruits,327,84,21.03,not spoiled,0
+Fruits,323,74,21.01,not spoiled,0
+Fruits,326,80,21.17,not spoiled,0
+Fruits,322,81,21.11,not spoiled,0
+Fruits,325,76,21.31,not spoiled,0
+Fruits,326,78,21.02,not spoiled,0
+Fruits,318,81,21.53,not spoiled,0
+Fruits,323,81,21.18,not spoiled,0
+Fruits,327,79,21.43,not spoiled,0
+Fruits,325,81,21.41,not spoiled,0
+Fruits,321,80,21.61,not spoiled,0
+Fruits,318,77,21.59,not spoiled,0
+Fruits,325,84,21.71,not spoiled,0
+Fruits,326,81,21.89,not spoiled,0
+Fruits,324,74,21.89,not spoiled,0
+Fruits,327,82,21.83,not spoiled,0
+Fruits,329,78,21.95,not spoiled,0
+Fruits,330,79,22.23,not spoiled,0
+Fruits,321,80,22.1,not spoiled,0
+Fruits,324,78,21.99,not spoiled,0
+Fruits,328,85,22.28,not spoiled,0
+Fruits,331,76,22.2,not spoiled,0
+Fruits,331,80,22.05,not spoiled,0
+Fruits,331,81,22.21,not spoiled,0
+Fruits,329,80,22.07,not spoiled,0
+Fruits,329,79,22.0,not spoiled,0
+Fruits,329,79,22.25,not spoiled,0
+Fruits,333,78,22.47,not spoiled,0
+Fruits,329,78,22.52,not spoiled,0
+Fruits,334,83,22.34,not spoiled,0
+Fruits,333,79,22.25,not spoiled,0
+Fruits,332,86,22.88,not spoiled,0
+Fruits,331,82,22.72,not spoiled,0
+Fruits,329,72,22.99,not spoiled,0
+Fruits,332,83,23.04,not spoiled,0
+Fruits,333,80,22.97,not spoiled,0
+Fruits,327,76,22.92,not spoiled,0
+Fruits,334,84,22.91,not spoiled,0
+Fruits,338,79,23.13,not spoiled,0
+Fruits,337,78,23.04,not spoiled,0
+Fruits,334,81,23.03,not spoiled,0
+Fruits,336,83,22.86,not spoiled,0
+Fruits,335,80,23.21,not spoiled,0
+Fruits,337,80,23.44,not spoiled,0
+Fruits,342,78,23.52,not spoiled,0
+Fruits,341,83,23.39,not spoiled,0
+Fruits,340,80,23.3,not spoiled,0
+Fruits,337,79,23.62,not spoiled,0
+Fruits,341,79,23.53,not spoiled,0
+Fruits,334,83,23.53,not spoiled,0
+Fruits,339,79,23.42,not spoiled,0
+Fruits,342,83,24.01,not spoiled,0
+Fruits,342,79,23.85,not spoiled,0
+Fruits,343,82,23.92,not spoiled,0
+Fruits,342,81,23.72,not spoiled,0
+Fruits,341,77,23.91,not spoiled,0
+Fruits,343,80,23.94,not spoiled,0
+Fruits,339,73,24.12,not spoiled,0
+Fruits,340,78,24.26,not spoiled,0
+Fruits,343,75,23.89,not spoiled,0
+Fruits,344,86,23.99,not spoiled,0
+Fruits,338,75,24.3,not spoiled,0
+Fruits,345,88,24.18,not spoiled,0
+Fruits,347,82,24.43,not spoiled,0
+Fruits,344,78,24.31,not spoiled,0
+Fruits,352,82,24.23,not spoiled,0
+Fruits,343,78,24.2,not spoiled,0
+Fruits,345,76,24.59,not spoiled,0
+Fruits,345,80,24.65,not spoiled,0
+Fruits,346,82,24.77,not spoiled,0
+Fruits,346,84,24.72,not spoiled,0
+Fruits,343,81,24.16,not spoiled,0
+Fruits,346,78,24.85,not spoiled,0
+Fruits,348,84,24.61,not spoiled,0
+Fruits,352,83,24.6,not spoiled,0
+Fruits,355,81,24.63,not spoiled,0
+Fruits,353,84,24.67,not spoiled,0
+Fruits,347,87,25.08,not spoiled,0
+Fruits,348,78,24.98,not spoiled,0
+Fruits,350,77,24.91,not spoiled,0
+Fruits,356,78,25.19,not spoiled,0
+Fruits,350,76,25.08,not spoiled,0
+Fruits,347,82,25.44,not spoiled,0
+Fruits,350,75,25.56,not spoiled,0
+Fruits,354,84,25.36,not spoiled,0
+Fruits,354,78,25.65,not spoiled,0
+Fruits,352,84,25.71,not spoiled,0
+Fruits,355,72,25.56,not spoiled,0
+Fruits,346,79,25.86,not spoiled,0
+Fruits,354,76,25.56,not spoiled,0
+Fruits,357,84,25.41,not spoiled,0
+Fruits,352,85,25.53,not spoiled,0
+Fruits,352,73,25.71,not spoiled,0
+Fruits,349,83,25.94,not spoiled,0
+Fruits,360,83,25.74,not spoiled,0
+Fruits,354,81,25.86,not spoiled,0
+Fruits,357,82,25.83,not spoiled,0
+Fruits,358,82,25.97,not spoiled,0
+Fruits,361,83,26.32,spoiled,1
+Fruits,357,77,26.23,not spoiled,0
+Fruits,356,84,26.14,not spoiled,0
+Fruits,359,81,26.46,not spoiled,0
+Fruits,362,80,26.33,spoiled,1
+Fruits,358,82,26.4,not spoiled,0
+Fruits,356,76,26.6,not spoiled,0
+Fruits,355,75,26.43,not spoiled,0
+Fruits,356,80,26.67,not spoiled,0
+Fruits,363,85,26.71,spoiled,1
+Fruits,360,76,26.62,not spoiled,0
+Fruits,359,81,26.48,not spoiled,0
+Fruits,359,78,26.74,not spoiled,0
+Fruits,362,77,26.96,spoiled,1
+Fruits,361,82,26.97,spoiled,1
+Fruits,362,82,27.15,spoiled,1
+Fruits,367,78,26.87,spoiled,1
+Fruits,368,84,27.12,spoiled,1
+Fruits,359,81,26.9,not spoiled,0
+Fruits,365,79,27.13,spoiled,1
+Fruits,362,81,27.32,spoiled,1
+Fruits,364,86,27.34,spoiled,1
+Fruits,366,82,27.27,spoiled,1
+Fruits,365,78,27.27,spoiled,1
+Fruits,366,80,27.21,spoiled,1
+Fruits,368,80,27.38,spoiled,1
+Fruits,367,82,27.27,spoiled,1
+Fruits,365,81,27.47,spoiled,1
+Fruits,365,86,27.3,spoiled,1
+Fruits,363,79,27.42,spoiled,1
+Fruits,365,75,27.8,spoiled,1
+Fruits,374,81,27.84,spoiled,1
+Fruits,366,79,27.73,spoiled,1
+Fruits,365,75,27.84,spoiled,1
+Fruits,370,78,27.91,spoiled,1
+Fruits,369,79,28.0,spoiled,1
+Fruits,369,83,28.04,spoiled,1
+Fruits,375,76,27.83,spoiled,1
+Fruits,372,81,27.72,spoiled,1
+Fruits,369,87,27.99,spoiled,1
+Fruits,370,79,28.17,spoiled,1
+Fruits,370,79,28.39,spoiled,1
+Fruits,375,82,28.33,spoiled,1
+Fruits,372,82,28.42,spoiled,1
+Fruits,367,84,28.26,spoiled,1
+Fruits,373,79,28.44,spoiled,1
+Fruits,369,82,28.51,spoiled,1
+Fruits,381,82,28.44,spoiled,1
+Fruits,371,79,28.44,spoiled,1
+Fruits,374,80,28.62,spoiled,1
+Fruits,376,80,28.81,spoiled,1
+Fruits,375,76,28.62,spoiled,1
+Fruits,375,79,28.78,spoiled,1
+Fruits,377,84,29.07,spoiled,1
+Fruits,381,83,28.84,spoiled,1
+Fruits,379,78,28.97,spoiled,1
+Fruits,382,80,29.0,spoiled,1
+Fruits,374,83,29.04,spoiled,1
+Fruits,379,81,29.37,spoiled,1
+Fruits,379,82,29.22,spoiled,1
+Fruits,380,82,28.99,spoiled,1
+Fruits,383,81,29.51,spoiled,1
+Fruits,379,80,29.37,spoiled,1
+Fruits,379,76,29.32,spoiled,1
+Fruits,382,82,29.63,spoiled,1
+Fruits,375,79,29.37,spoiled,1
+Fruits,380,75,29.79,spoiled,1
+Fruits,381,78,29.6,spoiled,1
+Fruits,379,83,29.79,spoiled,1
+Fruits,385,74,30.15,spoiled,1
+Fruits,379,77,29.77,spoiled,1
+Fruits,382,80,29.78,spoiled,1
+Fruits,384,84,29.68,spoiled,1
+Fruits,387,83,29.88,spoiled,1
+Fruits,384,85,29.79,spoiled,1
+Fruits,387,81,29.97,spoiled,1
+Fruits,387,79,30.49,spoiled,1
+Fruits,385,83,30.12,spoiled,1
+Fruits,382,77,30.07,spoiled,1
+Fruits,381,77,30.18,spoiled,1
+Fruits,386,77,30.2,spoiled,1
+Fruits,385,83,30.47,spoiled,1
+Fruits,389,77,30.35,spoiled,1
+Fruits,389,83,30.66,spoiled,1
+Fruits,387,80,30.42,spoiled,1
+Fruits,384,83,30.48,spoiled,1
+Fruits,390,77,30.43,spoiled,1
+Fruits,385,78,30.56,spoiled,1
+Fruits,387,81,30.41,spoiled,1
+Fruits,386,79,30.4,spoiled,1
+Fruits,389,73,30.87,spoiled,1
+Fruits,393,76,30.57,spoiled,1
+Fruits,390,77,30.94,spoiled,1
+Fruits,389,77,30.86,spoiled,1
+Fruits,386,82,31.12,spoiled,1
+Fruits,393,81,30.78,spoiled,1
+Fruits,389,80,31.18,spoiled,1
+Fruits,392,86,31.19,spoiled,1
+Fruits,391,84,31.24,spoiled,1
+Fruits,395,82,31.41,spoiled,1
+Fruits,393,76,31.3,spoiled,1
+Fruits,393,80,30.98,spoiled,1
+Fruits,395,81,31.46,spoiled,1
+Fruits,401,79,31.5,spoiled,1
+Fruits,397,85,31.46,spoiled,1
+Fruits,395,80,31.43,spoiled,1
+Fruits,395,76,31.55,spoiled,1
+Fruits,394,77,31.87,spoiled,1
+Fruits,393,87,31.57,spoiled,1
+Fruits,395,79,31.5,spoiled,1
+Fruits,394,74,31.59,spoiled,1
+Fruits,399,78,31.86,spoiled,1
+Fruits,394,75,32.16,spoiled,1
+Fruits,402,83,32.3,spoiled,1
+Fruits,400,74,32.11,spoiled,1
+Fruits,399,76,31.92,spoiled,1
+Fruits,399,80,31.99,spoiled,1
+Fruits,398,83,32.3,spoiled,1
+Fruits,400,80,32.42,spoiled,1
+Fruits,403,76,32.18,spoiled,1
+Fruits,398,81,32.54,spoiled,1
+Fruits,396,79,32.34,spoiled,1
+Fruits,403,83,32.54,spoiled,1
+Fruits,402,83,32.65,spoiled,1
+Fruits,398,78,32.31,spoiled,1
+Fruits,400,82,32.65,spoiled,1
+Fruits,400,81,32.85,spoiled,1
+Fruits,401,84,32.61,spoiled,1
+Fruits,402,82,32.58,spoiled,1
+Fruits,403,82,32.87,spoiled,1
+Fruits,402,84,32.86,spoiled,1
+Fruits,402,80,32.85,spoiled,1
+Fruits,404,78,32.95,spoiled,1
+Fruits,406,81,32.75,spoiled,1
+Fruits,405,79,33.11,spoiled,1
+Fruits,409,82,33.34,spoiled,1
+Fruits,408,80,33.05,spoiled,1
+Fruits,402,81,33.08,spoiled,1
+Fruits,409,76,33.28,spoiled,1
+Fruits,409,82,33.74,spoiled,1
+Fruits,406,76,33.53,spoiled,1
+Fruits,404,83,33.4,spoiled,1
+Fruits,408,83,33.47,spoiled,1
+Fruits,409,81,33.7,spoiled,1
+Fruits,406,81,33.43,spoiled,1
+Fruits,405,79,33.71,spoiled,1
+Fruits,410,78,33.5,spoiled,1
+Fruits,409,80,33.86,spoiled,1
+Fruits,409,86,33.73,spoiled,1
+Fruits,411,81,33.86,spoiled,1
+Fruits,408,76,33.83,spoiled,1
+Fruits,410,75,34.04,spoiled,1
+Fruits,414,76,33.96,spoiled,1
+Fruits,411,79,34.36,spoiled,1
+Fruits,408,84,34.3,spoiled,1
+Fruits,412,77,33.94,spoiled,1
+Fruits,410,84,34.22,spoiled,1
+Fruits,415,81,34.35,spoiled,1
+Fruits,415,81,34.22,spoiled,1
+Fruits,410,81,34.53,spoiled,1
+Fruits,417,82,34.56,spoiled,1
+Fruits,412,79,34.44,spoiled,1
+Fruits,420,73,34.65,spoiled,1
+Fruits,416,78,34.19,spoiled,1
+Fruits,413,77,34.81,spoiled,1
+Fruits,413,81,34.79,spoiled,1
+Fruits,418,81,34.54,spoiled,1
+Fruits,416,79,34.8,spoiled,1
+Fruits,418,85,34.51,spoiled,1
+Fruits,423,78,34.75,spoiled,1
+Fruits,416,73,35.08,spoiled,1
+Fruits,419,80,34.96,spoiled,1
+Fruits,424,84,35.01,spoiled,1
+Fruits,420,81,35.08,spoiled,1
+Fruits,415,79,35.11,spoiled,1
+Fruits,422,81,35.32,spoiled,1
+Fruits,417,86,35.13,spoiled,1
+Fruits,425,77,35.34,spoiled,1
+Fruits,419,80,35.16,spoiled,1
+Fruits,431,82,35.49,spoiled,1
+Fruits,427,81,35.38,spoiled,1
+Fruits,420,79,35.48,spoiled,1
+Fruits,423,79,35.48,spoiled,1
+Fruits,426,79,35.55,spoiled,1
+Fruits,426,82,35.49,spoiled,1
+Fruits,425,81,35.74,spoiled,1
+Fruits,428,86,35.82,spoiled,1
+Fruits,424,75,35.59,spoiled,1
+Fruits,424,85,35.76,spoiled,1
+Fruits,424,79,35.9,spoiled,1
+Fruits,428,80,35.86,spoiled,1
+Fruits,427,83,35.97,spoiled,1
+Bread,337,72,20.04,not spoiled,0
+Bread,338,73,20.17,not spoiled,0
+Bread,335,77,19.8,not spoiled,0
+Bread,338,78,20.2,not spoiled,0
+Bread,345,71,20.24,not spoiled,0
+Bread,343,78,20.51,not spoiled,0
+Bread,339,78,20.08,not spoiled,0
+Bread,340,72,20.6,not spoiled,0
+Bread,346,80,20.43,not spoiled,0
+Bread,347,71,20.54,not spoiled,0
+Bread,344,73,20.77,not spoiled,0
+Bread,347,76,20.65,not spoiled,0
+Bread,342,72,20.68,not spoiled,0
+Bread,345,76,20.71,not spoiled,0
+Bread,340,76,20.65,not spoiled,0
+Bread,344,74,20.77,not spoiled,0
+Bread,346,77,20.72,not spoiled,0
+Bread,341,74,20.87,not spoiled,0
+Bread,348,76,20.58,not spoiled,0
+Bread,349,78,21.05,not spoiled,0
+Bread,350,77,21.02,not spoiled,0
+Bread,354,77,21.04,not spoiled,0
+Bread,349,72,21.17,not spoiled,0
+Bread,348,77,20.97,not spoiled,0
+Bread,343,72,21.53,not spoiled,0
+Bread,350,71,21.28,not spoiled,0
+Bread,350,75,21.32,not spoiled,0
+Bread,345,72,21.25,not spoiled,0
+Bread,349,77,21.45,not spoiled,0
+Bread,350,77,21.71,not spoiled,0
+Bread,352,69,21.71,not spoiled,0
+Bread,353,73,21.73,not spoiled,0
+Bread,349,71,21.74,not spoiled,0
+Bread,352,74,21.65,not spoiled,0
+Bread,353,76,21.54,not spoiled,0
+Bread,351,74,21.78,not spoiled,0
+Bread,351,73,21.83,not spoiled,0
+Bread,355,79,22.07,not spoiled,0
+Bread,352,68,22.01,not spoiled,0
+Bread,350,79,22.26,not spoiled,0
+Bread,358,73,22.25,not spoiled,0
+Bread,351,75,22.05,not spoiled,0
+Bread,354,73,21.9,not spoiled,0
+Bread,356,80,22.43,not spoiled,0
+Bread,356,71,22.48,not spoiled,0
+Bread,356,75,22.12,not spoiled,0
+Bread,347,77,22.61,not spoiled,0
+Bread,354,70,22.49,not spoiled,0
+Bread,357,72,22.51,not spoiled,0
+Bread,356,75,22.78,not spoiled,0
+Bread,358,72,22.79,not spoiled,0
+Bread,360,73,22.74,not spoiled,0
+Bread,359,74,22.76,not spoiled,0
+Bread,356,77,22.83,not spoiled,0
+Bread,357,74,22.73,not spoiled,0
+Bread,364,78,22.84,not spoiled,0
+Bread,358,72,22.76,not spoiled,0
+Bread,359,71,22.9,not spoiled,0
+Bread,361,81,22.95,not spoiled,0
+Bread,364,73,22.96,not spoiled,0
+Bread,358,71,23.12,not spoiled,0
+Bread,359,70,23.11,not spoiled,0
+Bread,356,78,23.28,not spoiled,0
+Bread,360,74,23.02,not spoiled,0
+Bread,363,74,23.29,not spoiled,0
+Bread,361,75,23.38,not spoiled,0
+Bread,368,78,23.37,not spoiled,0
+Bread,363,74,23.44,not spoiled,0
+Bread,363,82,23.28,not spoiled,0
+Bread,362,75,23.62,not spoiled,0
+Bread,360,78,23.72,not spoiled,0
+Bread,364,77,23.75,not spoiled,0
+Bread,366,75,23.88,not spoiled,0
+Bread,364,73,23.81,not spoiled,0
+Bread,366,76,23.9,not spoiled,0
+Bread,363,77,23.9,not spoiled,0
+Bread,362,73,24.03,not spoiled,0
+Bread,366,75,23.75,not spoiled,0
+Bread,367,79,23.9,not spoiled,0
+Bread,366,81,24.32,not spoiled,0
+Bread,368,78,23.77,not spoiled,0
+Bread,370,81,24.17,not spoiled,0
+Bread,370,73,24.42,not spoiled,0
+Bread,371,77,24.28,not spoiled,0
+Bread,372,79,24.28,not spoiled,0
+Bread,370,72,24.42,not spoiled,0
+Bread,370,74,24.4,not spoiled,0
+Bread,375,80,24.5,not spoiled,0
+Bread,372,72,24.45,not spoiled,0
+Bread,368,71,24.77,not spoiled,0
+Bread,365,80,24.87,not spoiled,0
+Bread,370,79,24.69,not spoiled,0
+Bread,373,76,24.55,not spoiled,0
+Bread,374,75,24.73,not spoiled,0
+Bread,368,74,24.83,not spoiled,0
+Bread,374,76,24.99,not spoiled,0
+Bread,376,80,24.81,not spoiled,0
+Bread,375,76,24.9,not spoiled,0
+Bread,374,82,25.15,not spoiled,0
+Bread,373,72,25.26,not spoiled,0
+Bread,373,75,25.08,not spoiled,0
+Bread,377,74,25.02,not spoiled,0
+Bread,376,72,25.77,not spoiled,0
+Bread,374,75,25.45,not spoiled,0
+Bread,383,76,25.34,not spoiled,0
+Bread,371,77,25.56,not spoiled,0
+Bread,375,82,25.46,not spoiled,0
+Bread,374,76,25.66,not spoiled,0
+Bread,378,78,25.61,not spoiled,0
+Bread,371,75,25.65,not spoiled,0
+Bread,381,80,25.67,not spoiled,0
+Bread,381,82,25.52,not spoiled,0
+Bread,379,77,26.08,not spoiled,0
+Bread,377,72,25.7,not spoiled,0
+Bread,381,73,25.69,not spoiled,0
+Bread,380,76,25.92,not spoiled,0
+Bread,382,76,25.86,not spoiled,0
+Bread,379,77,26.04,not spoiled,0
+Bread,379,76,26.21,not spoiled,0
+Bread,384,75,26.3,not spoiled,0
+Bread,383,73,26.33,not spoiled,0
+Bread,381,76,26.21,not spoiled,0
+Bread,382,81,26.32,not spoiled,0
+Bread,382,78,26.42,not spoiled,0
+Bread,383,77,26.15,not spoiled,0
+Bread,386,78,26.55,not spoiled,0
+Bread,382,74,26.3,not spoiled,0
+Bread,381,73,26.88,not spoiled,0
+Bread,384,73,26.56,not spoiled,0
+Bread,382,75,26.64,not spoiled,0
+Bread,381,74,26.61,not spoiled,0
+Bread,387,79,26.68,not spoiled,0
+Bread,384,74,27.17,not spoiled,0
+Bread,380,73,27.02,not spoiled,0
+Bread,388,81,26.7,not spoiled,0
+Bread,384,74,27.21,not spoiled,0
+Bread,388,75,27.21,not spoiled,0
+Bread,390,76,27.04,not spoiled,0
+Bread,387,72,27.18,not spoiled,0
+Bread,381,79,27.19,not spoiled,0
+Bread,382,77,27.54,not spoiled,0
+Bread,386,80,27.17,not spoiled,0
+Bread,388,73,27.37,not spoiled,0
+Bread,392,75,27.33,not spoiled,0
+Bread,390,75,27.23,not spoiled,0
+Bread,397,76,27.83,not spoiled,0
+Bread,385,71,27.37,not spoiled,0
+Bread,390,75,27.64,not spoiled,0
+Bread,389,71,27.39,not spoiled,0
+Bread,391,76,27.65,not spoiled,0
+Bread,396,69,27.82,not spoiled,0
+Bread,397,69,27.69,not spoiled,0
+Bread,392,77,27.95,not spoiled,0
+Bread,394,73,27.87,not spoiled,0
+Bread,393,72,28.14,not spoiled,0
+Bread,389,79,28.22,not spoiled,0
+Bread,393,76,27.98,not spoiled,0
+Bread,392,78,28.13,not spoiled,0
+Bread,393,75,28.2,not spoiled,0
+Bread,391,83,28.32,not spoiled,0
+Bread,395,73,28.28,not spoiled,0
+Bread,396,80,28.36,not spoiled,0
+Bread,397,75,28.34,not spoiled,0
+Bread,396,70,28.45,not spoiled,0
+Bread,401,76,28.68,not spoiled,0
+Bread,403,76,28.63,not spoiled,0
+Bread,395,72,28.69,not spoiled,0
+Bread,400,72,28.75,not spoiled,0
+Bread,403,75,28.67,not spoiled,0
+Bread,400,76,28.79,not spoiled,0
+Bread,400,68,28.63,not spoiled,0
+Bread,393,78,29.04,not spoiled,0
+Bread,397,74,28.48,not spoiled,0
+Bread,397,71,28.94,not spoiled,0
+Bread,403,78,29.17,not spoiled,0
+Bread,397,75,28.85,not spoiled,0
+Bread,399,79,29.16,not spoiled,0
+Bread,403,76,29.05,not spoiled,0
+Bread,398,75,29.15,not spoiled,0
+Bread,402,75,29.4,not spoiled,0
+Bread,402,76,29.34,not spoiled,0
+Bread,404,74,29.06,not spoiled,0
+Bread,404,72,29.27,not spoiled,0
+Bread,404,77,29.61,not spoiled,0
+Bread,403,75,29.58,not spoiled,0
+Bread,398,75,29.83,not spoiled,0
+Bread,404,78,29.87,not spoiled,0
+Bread,404,75,29.62,not spoiled,0
+Bread,406,75,30.1,spoiled,1
+Bread,403,73,29.78,not spoiled,0
+Bread,405,76,29.68,not spoiled,0
+Bread,405,76,29.78,not spoiled,0
+Bread,403,78,29.59,not spoiled,0
+Bread,402,73,30.22,spoiled,1
+Bread,407,74,30.27,spoiled,1
+Bread,409,77,29.93,not spoiled,0
+Bread,405,76,30.1,spoiled,1
+Bread,406,72,30.2,spoiled,1
+Bread,410,79,30.1,spoiled,1
+Bread,410,70,30.03,spoiled,1
+Bread,409,77,30.31,spoiled,1
+Bread,409,71,30.35,spoiled,1
+Bread,410,81,30.39,spoiled,1
+Bread,411,70,30.53,spoiled,1
+Bread,406,78,30.77,spoiled,1
+Bread,415,75,30.56,spoiled,1
+Bread,411,74,30.68,spoiled,1
+Bread,412,76,30.82,spoiled,1
+Bread,408,77,30.84,spoiled,1
+Bread,410,72,30.72,spoiled,1
+Bread,412,73,30.88,spoiled,1
+Bread,406,77,31.0,spoiled,1
+Bread,409,70,30.8,spoiled,1
+Bread,410,73,31.21,spoiled,1
+Bread,409,84,31.28,spoiled,1
+Bread,413,72,31.01,spoiled,1
+Bread,413,78,31.2,spoiled,1
+Bread,418,73,31.32,spoiled,1
+Bread,411,77,31.19,spoiled,1
+Bread,415,77,31.4,spoiled,1
+Bread,412,78,31.4,spoiled,1
+Bread,410,74,31.21,spoiled,1
+Bread,417,81,31.55,spoiled,1
+Bread,418,73,31.37,spoiled,1
+Bread,418,76,31.73,spoiled,1
+Bread,412,76,31.54,spoiled,1
+Bread,417,72,31.67,spoiled,1
+Bread,419,74,31.95,spoiled,1
+Bread,420,75,31.87,spoiled,1
+Bread,420,74,31.68,spoiled,1
+Bread,421,82,31.74,spoiled,1
+Bread,422,72,31.86,spoiled,1
+Bread,419,79,32.06,spoiled,1
+Bread,421,78,32.11,spoiled,1
+Bread,422,75,31.98,spoiled,1
+Bread,421,72,31.98,spoiled,1
+Bread,424,73,32.25,spoiled,1
+Bread,423,73,32.23,spoiled,1
+Bread,419,70,32.63,spoiled,1
+Bread,417,72,32.37,spoiled,1
+Bread,421,71,32.69,spoiled,1
+Bread,418,79,32.29,spoiled,1
+Bread,422,77,32.28,spoiled,1
+Bread,422,77,32.4,spoiled,1
+Bread,427,77,32.8,spoiled,1
+Bread,425,76,32.94,spoiled,1
+Bread,426,79,32.61,spoiled,1
+Bread,422,73,32.71,spoiled,1
+Bread,429,75,32.65,spoiled,1
+Bread,427,77,32.61,spoiled,1
+Bread,426,71,33.04,spoiled,1
+Bread,420,84,33.02,spoiled,1
+Bread,429,75,33.04,spoiled,1
+Bread,431,75,32.88,spoiled,1
+Bread,426,79,33.38,spoiled,1
+Bread,427,78,33.11,spoiled,1
+Bread,425,75,33.32,spoiled,1
+Bread,422,75,33.07,spoiled,1
+Bread,426,70,33.32,spoiled,1
+Bread,433,73,33.44,spoiled,1
+Bread,431,77,33.5,spoiled,1
+Bread,426,76,33.52,spoiled,1
+Bread,427,79,33.63,spoiled,1
+Bread,436,75,33.43,spoiled,1
+Bread,427,71,33.68,spoiled,1
+Bread,428,78,33.72,spoiled,1
+Bread,429,79,33.79,spoiled,1
+Bread,427,78,33.82,spoiled,1
+Bread,429,75,33.67,spoiled,1
+Bread,430,78,33.72,spoiled,1
+Bread,429,85,33.63,spoiled,1
+Bread,436,75,34.14,spoiled,1
+Bread,429,71,34.19,spoiled,1
+Bread,432,73,34.25,spoiled,1
+Bread,430,77,34.22,spoiled,1
+Bread,433,70,33.9,spoiled,1
+Bread,431,76,34.12,spoiled,1
+Bread,434,76,34.35,spoiled,1
+Bread,435,80,34.4,spoiled,1
+Bread,439,79,34.4,spoiled,1
+Bread,433,78,34.54,spoiled,1
+Bread,440,69,34.54,not spoiled,0
+Bread,433,78,34.6,spoiled,1
+Bread,435,77,34.54,spoiled,1
+Bread,442,76,34.84,spoiled,1
+Bread,445,70,34.68,spoiled,1
+Bread,442,73,34.59,spoiled,1
+Bread,437,71,34.73,spoiled,1
+Bread,439,69,34.84,not spoiled,0
+Bread,440,75,35.1,spoiled,1
+Bread,439,73,34.99,spoiled,1
+Bread,436,83,35.02,spoiled,1
+Bread,440,74,34.92,spoiled,1
+Bread,438,79,35.27,spoiled,1
+Bread,437,70,35.11,spoiled,1
+Bread,439,73,35.24,spoiled,1
+Bread,441,75,35.53,spoiled,1
+Bread,444,72,35.44,spoiled,1
+Bread,440,74,35.17,spoiled,1
+Bread,441,74,35.2,spoiled,1
+Bread,444,74,35.51,spoiled,1
+Bread,442,81,35.39,spoiled,1
+Bread,444,76,35.72,spoiled,1
+Bread,443,76,35.68,spoiled,1
+Bread,444,77,35.75,spoiled,1
+Bread,440,77,35.67,spoiled,1
+Bread,444,75,36.09,spoiled,1
+Bread,448,74,36.31,spoiled,1
+Bread,445,76,35.89,spoiled,1
+Bread,442,78,36.04,spoiled,1
+Bread,450,78,36.05,spoiled,1
+Bread,448,74,36.05,spoiled,1
+Bread,448,77,36.01,spoiled,1
+Bread,448,74,36.03,spoiled,1
+Bread,443,75,36.07,spoiled,1
+Bread,449,74,36.35,spoiled,1
+Bread,451,74,36.27,spoiled,1
+Bread,446,79,36.01,spoiled,1
+Bread,442,75,36.52,spoiled,1
+Bread,449,75,36.49,spoiled,1
+Bread,449,71,36.75,spoiled,1
+Bread,444,74,36.66,spoiled,1
+Bread,451,74,36.43,spoiled,1
+Bread,451,73,36.37,spoiled,1
+Bread,446,75,36.65,spoiled,1
+Bread,456,74,36.72,spoiled,1
+Bread,453,75,37.0,spoiled,1
+Bread,445,75,36.91,spoiled,1
+Bread,454,72,37.14,spoiled,1
+Bread,454,74,36.82,spoiled,1
+Bread,456,75,37.21,spoiled,1
+Bread,450,79,37.23,spoiled,1
+Bread,455,76,36.87,spoiled,1
+Bread,452,73,37.42,spoiled,1
+Bread,452,76,37.29,spoiled,1
+Bread,451,80,37.39,spoiled,1
+Bread,448,78,37.25,spoiled,1
+Bread,456,77,37.62,spoiled,1
+Bread,454,77,37.3,spoiled,1
+Bread,447,79,37.66,spoiled,1
+Bread,456,78,37.71,spoiled,1
+Bread,459,77,37.49,spoiled,1
+Bread,452,78,37.99,spoiled,1
+Bread,454,72,37.78,spoiled,1
+Bread,458,70,37.89,spoiled,1
+Bread,449,75,37.62,spoiled,1
+Bread,456,75,38.21,spoiled,1
+Bread,459,73,37.76,spoiled,1
+Bread,456,77,38.15,spoiled,1
+Sweets/Desserts,343,78,19.81,not spoiled,0
+Sweets/Desserts,337,76,19.86,not spoiled,0
+Sweets/Desserts,340,72,19.86,not spoiled,0
+Sweets/Desserts,339,73,20.06,not spoiled,0
+Sweets/Desserts,336,76,20.37,not spoiled,0
+Sweets/Desserts,345,77,20.61,not spoiled,0
+Sweets/Desserts,340,75,20.32,not spoiled,0
+Sweets/Desserts,346,72,20.48,not spoiled,0
+Sweets/Desserts,346,74,20.27,not spoiled,0
+Sweets/Desserts,345,82,20.15,not spoiled,0
+Sweets/Desserts,346,71,20.79,not spoiled,0
+Sweets/Desserts,342,76,20.48,not spoiled,0
+Sweets/Desserts,350,81,20.73,not spoiled,0
+Sweets/Desserts,345,74,20.7,not spoiled,0
+Sweets/Desserts,346,81,20.87,not spoiled,0
+Sweets/Desserts,344,73,20.92,not spoiled,0
+Sweets/Desserts,343,69,20.87,not spoiled,0
+Sweets/Desserts,348,73,20.94,not spoiled,0
+Sweets/Desserts,348,73,21.11,not spoiled,0
+Sweets/Desserts,345,70,20.92,not spoiled,0
+Sweets/Desserts,343,74,21.27,not spoiled,0
+Sweets/Desserts,344,78,20.98,not spoiled,0
+Sweets/Desserts,352,73,21.15,not spoiled,0
+Sweets/Desserts,347,74,21.28,not spoiled,0
+Sweets/Desserts,348,79,21.0,not spoiled,0
+Sweets/Desserts,354,73,21.5,not spoiled,0
+Sweets/Desserts,347,77,21.42,not spoiled,0
+Sweets/Desserts,348,70,21.89,not spoiled,0
+Sweets/Desserts,348,72,21.76,not spoiled,0
+Sweets/Desserts,356,74,21.5,not spoiled,0
+Sweets/Desserts,358,79,21.82,not spoiled,0
+Sweets/Desserts,354,72,21.73,not spoiled,0
+Sweets/Desserts,355,72,21.69,not spoiled,0
+Sweets/Desserts,351,76,21.46,not spoiled,0
+Sweets/Desserts,359,76,21.55,not spoiled,0
+Sweets/Desserts,354,72,21.81,not spoiled,0
+Sweets/Desserts,356,73,21.79,not spoiled,0
+Sweets/Desserts,354,78,21.95,not spoiled,0
+Sweets/Desserts,354,71,22.17,not spoiled,0
+Sweets/Desserts,360,76,22.15,not spoiled,0
+Sweets/Desserts,357,73,21.96,not spoiled,0
+Sweets/Desserts,360,79,22.26,not spoiled,0
+Sweets/Desserts,357,77,22.04,not spoiled,0
+Sweets/Desserts,354,78,22.05,not spoiled,0
+Sweets/Desserts,355,73,22.33,not spoiled,0
+Sweets/Desserts,358,77,22.21,not spoiled,0
+Sweets/Desserts,356,77,22.28,not spoiled,0
+Sweets/Desserts,355,77,22.58,not spoiled,0
+Sweets/Desserts,362,74,22.58,not spoiled,0
+Sweets/Desserts,357,75,22.48,not spoiled,0
+Sweets/Desserts,360,69,22.34,not spoiled,0
+Sweets/Desserts,361,80,22.53,not spoiled,0
+Sweets/Desserts,358,73,22.98,not spoiled,0
+Sweets/Desserts,365,74,22.89,not spoiled,0
+Sweets/Desserts,357,71,23.01,not spoiled,0
+Sweets/Desserts,362,77,22.88,not spoiled,0
+Sweets/Desserts,362,77,22.84,not spoiled,0
+Sweets/Desserts,362,74,23.08,not spoiled,0
+Sweets/Desserts,358,68,23.19,not spoiled,0
+Sweets/Desserts,365,73,22.98,not spoiled,0
+Sweets/Desserts,365,76,23.0,not spoiled,0
+Sweets/Desserts,362,76,22.93,not spoiled,0
+Sweets/Desserts,366,75,23.1,not spoiled,0
+Sweets/Desserts,365,74,23.36,not spoiled,0
+Sweets/Desserts,361,70,23.22,not spoiled,0
+Sweets/Desserts,363,78,23.5,not spoiled,0
+Sweets/Desserts,369,71,23.71,not spoiled,0
+Sweets/Desserts,367,74,23.47,not spoiled,0
+Sweets/Desserts,365,72,23.51,not spoiled,0
+Sweets/Desserts,364,78,23.65,not spoiled,0
+Sweets/Desserts,365,77,23.53,not spoiled,0
+Sweets/Desserts,366,74,23.58,not spoiled,0
+Sweets/Desserts,365,77,23.63,not spoiled,0
+Sweets/Desserts,363,71,23.6,not spoiled,0
+Sweets/Desserts,372,75,23.96,not spoiled,0
+Sweets/Desserts,372,72,23.8,not spoiled,0
+Sweets/Desserts,366,78,24.1,not spoiled,0
+Sweets/Desserts,370,76,24.06,not spoiled,0
+Sweets/Desserts,367,77,24.03,not spoiled,0
+Sweets/Desserts,370,73,24.21,not spoiled,0
+Sweets/Desserts,370,77,24.0,not spoiled,0
+Sweets/Desserts,370,72,24.07,not spoiled,0
+Sweets/Desserts,378,72,24.35,not spoiled,0
+Sweets/Desserts,371,74,23.96,not spoiled,0
+Sweets/Desserts,370,72,24.35,not spoiled,0
+Sweets/Desserts,371,77,24.49,not spoiled,0
+Sweets/Desserts,376,74,24.64,not spoiled,0
+Sweets/Desserts,369,72,24.73,not spoiled,0
+Sweets/Desserts,372,71,24.53,not spoiled,0
+Sweets/Desserts,379,77,24.72,not spoiled,0
+Sweets/Desserts,375,67,24.53,not spoiled,0
+Sweets/Desserts,376,72,24.64,not spoiled,0
+Sweets/Desserts,382,79,24.96,not spoiled,0
+Sweets/Desserts,377,74,24.8,not spoiled,0
+Sweets/Desserts,374,77,24.89,not spoiled,0
+Sweets/Desserts,376,76,24.76,not spoiled,0
+Sweets/Desserts,374,74,25.03,not spoiled,0
+Sweets/Desserts,381,70,25.13,not spoiled,0
+Sweets/Desserts,380,71,25.18,not spoiled,0
+Sweets/Desserts,382,71,24.94,not spoiled,0
+Sweets/Desserts,382,76,25.32,not spoiled,0
+Sweets/Desserts,378,77,25.07,not spoiled,0
+Sweets/Desserts,377,72,25.27,not spoiled,0
+Sweets/Desserts,380,75,25.08,not spoiled,0
+Sweets/Desserts,378,75,25.35,not spoiled,0
+Sweets/Desserts,381,75,25.28,not spoiled,0
+Sweets/Desserts,384,73,25.42,not spoiled,0
+Sweets/Desserts,381,80,25.54,not spoiled,0
+Sweets/Desserts,382,77,25.71,not spoiled,0
+Sweets/Desserts,382,75,25.76,not spoiled,0
+Sweets/Desserts,385,73,25.34,not spoiled,0
+Sweets/Desserts,381,72,25.84,not spoiled,0
+Sweets/Desserts,377,76,25.82,not spoiled,0
+Sweets/Desserts,385,74,25.76,not spoiled,0
+Sweets/Desserts,387,75,25.76,not spoiled,0
+Sweets/Desserts,386,69,25.94,not spoiled,0
+Sweets/Desserts,383,73,26.03,not spoiled,0
+Sweets/Desserts,382,75,26.11,not spoiled,0
+Sweets/Desserts,387,78,26.07,not spoiled,0
+Sweets/Desserts,386,72,25.78,not spoiled,0
+Sweets/Desserts,386,71,26.13,not spoiled,0
+Sweets/Desserts,392,76,26.08,not spoiled,0
+Sweets/Desserts,384,75,26.62,not spoiled,0
+Sweets/Desserts,393,70,26.37,not spoiled,0
+Sweets/Desserts,388,70,26.52,not spoiled,0
+Sweets/Desserts,383,73,26.56,not spoiled,0
+Sweets/Desserts,388,75,26.56,not spoiled,0
+Sweets/Desserts,392,79,26.51,not spoiled,0
+Sweets/Desserts,388,72,26.54,not spoiled,0
+Sweets/Desserts,385,77,26.37,not spoiled,0
+Sweets/Desserts,390,69,26.75,not spoiled,0
+Sweets/Desserts,388,76,26.82,not spoiled,0
+Sweets/Desserts,392,80,26.82,not spoiled,0
+Sweets/Desserts,394,75,26.9,not spoiled,0
+Sweets/Desserts,389,73,26.75,not spoiled,0
+Sweets/Desserts,390,79,26.94,not spoiled,0
+Sweets/Desserts,395,76,26.94,not spoiled,0
+Sweets/Desserts,390,75,27.19,not spoiled,0
+Sweets/Desserts,390,72,27.14,not spoiled,0
+Sweets/Desserts,390,76,27.09,not spoiled,0
+Sweets/Desserts,395,73,27.22,not spoiled,0
+Sweets/Desserts,395,76,27.14,not spoiled,0
+Sweets/Desserts,393,75,27.3,not spoiled,0
+Sweets/Desserts,395,78,27.48,not spoiled,0
+Sweets/Desserts,400,73,27.25,not spoiled,0
+Sweets/Desserts,393,75,27.49,not spoiled,0
+Sweets/Desserts,390,77,27.44,not spoiled,0
+Sweets/Desserts,398,74,27.4,not spoiled,0
+Sweets/Desserts,397,75,27.93,not spoiled,0
+Sweets/Desserts,395,74,27.89,not spoiled,0
+Sweets/Desserts,400,75,27.67,not spoiled,0
+Sweets/Desserts,401,77,27.77,spoiled,1
+Sweets/Desserts,392,81,27.56,not spoiled,0
+Sweets/Desserts,397,70,27.67,not spoiled,0
+Sweets/Desserts,406,71,27.8,spoiled,1
+Sweets/Desserts,402,75,28.01,spoiled,1
+Sweets/Desserts,402,75,28.05,spoiled,1
+Sweets/Desserts,404,74,28.17,spoiled,1
+Sweets/Desserts,401,73,28.27,spoiled,1
+Sweets/Desserts,404,71,28.27,spoiled,1
+Sweets/Desserts,404,73,28.11,spoiled,1
+Sweets/Desserts,404,77,28.38,spoiled,1
+Sweets/Desserts,402,75,28.47,spoiled,1
+Sweets/Desserts,403,77,28.37,spoiled,1
+Sweets/Desserts,402,71,28.21,spoiled,1
+Sweets/Desserts,404,79,28.71,spoiled,1
+Sweets/Desserts,401,73,28.6,spoiled,1
+Sweets/Desserts,402,76,28.22,spoiled,1
+Sweets/Desserts,404,75,29.0,spoiled,1
+Sweets/Desserts,402,73,28.67,spoiled,1
+Sweets/Desserts,404,76,29.16,spoiled,1
+Sweets/Desserts,405,77,28.9,spoiled,1
+Sweets/Desserts,408,83,28.87,spoiled,1
+Sweets/Desserts,410,77,28.98,spoiled,1
+Sweets/Desserts,406,77,28.89,spoiled,1
+Sweets/Desserts,412,78,29.06,spoiled,1
+Sweets/Desserts,411,77,29.41,spoiled,1
+Sweets/Desserts,410,75,29.02,spoiled,1
+Sweets/Desserts,409,76,29.29,spoiled,1
+Sweets/Desserts,410,78,29.15,spoiled,1
+Sweets/Desserts,413,79,29.29,spoiled,1
+Sweets/Desserts,414,70,29.66,spoiled,1
+Sweets/Desserts,414,69,29.49,spoiled,1
+Sweets/Desserts,411,79,29.58,spoiled,1
+Sweets/Desserts,413,73,29.53,spoiled,1
+Sweets/Desserts,415,70,29.97,spoiled,1
+Sweets/Desserts,410,70,29.48,spoiled,1
+Sweets/Desserts,411,80,29.44,spoiled,1
+Sweets/Desserts,413,78,29.98,spoiled,1
+Sweets/Desserts,416,73,29.72,spoiled,1
+Sweets/Desserts,416,73,29.89,spoiled,1
+Sweets/Desserts,413,75,30.14,spoiled,1
+Sweets/Desserts,410,78,29.99,spoiled,1
+Sweets/Desserts,415,74,30.32,spoiled,1
+Sweets/Desserts,412,73,30.05,spoiled,1
+Sweets/Desserts,411,78,29.98,spoiled,1
+Sweets/Desserts,412,75,29.78,spoiled,1
+Sweets/Desserts,417,74,30.23,spoiled,1
+Sweets/Desserts,420,77,29.91,spoiled,1
+Sweets/Desserts,417,69,30.34,spoiled,1
+Sweets/Desserts,418,76,30.56,spoiled,1
+Sweets/Desserts,421,76,30.39,spoiled,1
+Sweets/Desserts,413,71,30.48,spoiled,1
+Sweets/Desserts,420,69,30.64,spoiled,1
+Sweets/Desserts,419,73,30.65,spoiled,1
+Sweets/Desserts,421,76,30.78,spoiled,1
+Sweets/Desserts,418,76,30.65,spoiled,1
+Sweets/Desserts,417,80,30.37,spoiled,1
+Sweets/Desserts,421,76,30.94,spoiled,1
+Sweets/Desserts,426,71,30.77,spoiled,1
+Sweets/Desserts,424,74,30.73,spoiled,1
+Sweets/Desserts,420,71,30.96,spoiled,1
+Sweets/Desserts,418,74,30.99,spoiled,1
+Sweets/Desserts,417,79,30.9,spoiled,1
+Sweets/Desserts,427,76,30.88,spoiled,1
+Sweets/Desserts,420,73,31.19,spoiled,1
+Sweets/Desserts,422,77,31.04,spoiled,1
+Sweets/Desserts,428,73,31.24,spoiled,1
+Sweets/Desserts,419,67,31.33,spoiled,1
+Sweets/Desserts,429,71,31.47,spoiled,1
+Sweets/Desserts,424,76,31.7,spoiled,1
+Sweets/Desserts,422,77,31.47,spoiled,1
+Sweets/Desserts,425,80,31.42,spoiled,1
+Sweets/Desserts,424,76,31.78,spoiled,1
+Sweets/Desserts,428,79,31.74,spoiled,1
+Sweets/Desserts,425,77,31.66,spoiled,1
+Sweets/Desserts,421,78,31.73,spoiled,1
+Sweets/Desserts,427,78,31.75,spoiled,1
+Sweets/Desserts,424,76,31.82,spoiled,1
+Sweets/Desserts,429,78,31.83,spoiled,1
+Sweets/Desserts,425,73,31.75,spoiled,1
+Sweets/Desserts,428,68,31.95,spoiled,1
+Sweets/Desserts,430,77,32.26,spoiled,1
+Sweets/Desserts,429,76,31.93,spoiled,1
+Sweets/Desserts,431,72,32.06,spoiled,1
+Sweets/Desserts,433,71,32.02,spoiled,1
+Sweets/Desserts,428,75,32.38,spoiled,1
+Sweets/Desserts,431,77,32.38,spoiled,1
+Sweets/Desserts,422,77,32.12,spoiled,1
+Sweets/Desserts,433,72,32.06,spoiled,1
+Sweets/Desserts,432,73,32.54,spoiled,1
+Sweets/Desserts,430,77,32.26,spoiled,1
+Sweets/Desserts,434,75,32.64,spoiled,1
+Sweets/Desserts,437,78,32.47,spoiled,1
+Sweets/Desserts,433,74,32.72,spoiled,1
+Sweets/Desserts,432,77,32.74,spoiled,1
+Sweets/Desserts,435,75,32.64,spoiled,1
+Sweets/Desserts,431,73,32.64,spoiled,1
+Sweets/Desserts,434,78,32.91,spoiled,1
+Sweets/Desserts,440,72,32.78,spoiled,1
+Sweets/Desserts,437,75,33.1,spoiled,1
+Sweets/Desserts,431,76,32.86,spoiled,1
+Sweets/Desserts,432,75,33.09,spoiled,1
+Sweets/Desserts,438,78,33.03,spoiled,1
+Sweets/Desserts,441,77,33.14,spoiled,1
+Sweets/Desserts,434,76,33.08,spoiled,1
+Sweets/Desserts,440,75,33.21,spoiled,1
+Sweets/Desserts,443,81,32.91,spoiled,1
+Sweets/Desserts,445,79,33.22,spoiled,1
+Sweets/Desserts,441,78,33.31,spoiled,1
+Sweets/Desserts,442,77,33.44,spoiled,1
+Sweets/Desserts,434,73,33.69,spoiled,1
+Sweets/Desserts,447,75,33.45,spoiled,1
+Sweets/Desserts,440,77,33.82,spoiled,1
+Sweets/Desserts,439,78,33.53,spoiled,1
+Sweets/Desserts,442,78,33.54,spoiled,1
+Sweets/Desserts,447,77,33.48,spoiled,1
+Sweets/Desserts,450,81,33.9,spoiled,1
+Sweets/Desserts,444,75,33.87,spoiled,1
+Sweets/Desserts,447,78,34.0,spoiled,1
+Sweets/Desserts,444,78,33.99,spoiled,1
+Sweets/Desserts,441,76,34.02,spoiled,1
+Sweets/Desserts,449,76,34.11,spoiled,1
+Sweets/Desserts,443,76,34.44,spoiled,1
+Sweets/Desserts,450,73,34.1,spoiled,1
+Sweets/Desserts,450,76,34.53,spoiled,1
+Sweets/Desserts,448,77,34.4,spoiled,1
+Sweets/Desserts,452,76,34.38,spoiled,1
+Sweets/Desserts,454,69,34.46,spoiled,1
+Sweets/Desserts,447,70,33.95,spoiled,1
+Sweets/Desserts,446,73,34.44,spoiled,1
+Sweets/Desserts,443,75,34.43,spoiled,1
+Sweets/Desserts,456,73,34.9,spoiled,1
+Sweets/Desserts,448,77,34.59,spoiled,1
+Sweets/Desserts,453,79,34.69,spoiled,1
+Sweets/Desserts,448,79,34.73,spoiled,1
+Sweets/Desserts,455,76,34.6,spoiled,1
+Sweets/Desserts,449,78,34.76,spoiled,1
+Sweets/Desserts,448,73,35.02,spoiled,1
+Sweets/Desserts,451,75,34.63,spoiled,1
+Sweets/Desserts,450,71,35.05,spoiled,1
+Sweets/Desserts,454,79,34.92,spoiled,1
+Sweets/Desserts,453,81,35.3,spoiled,1
+Sweets/Desserts,455,74,35.21,spoiled,1
+Sweets/Desserts,453,68,34.98,spoiled,1
+Sweets/Desserts,452,72,35.2,spoiled,1
+Sweets/Desserts,452,73,35.38,spoiled,1
+Sweets/Desserts,461,71,35.32,spoiled,1
+Sweets/Desserts,456,72,35.44,spoiled,1
+Sweets/Desserts,449,76,35.46,spoiled,1
+Sweets/Desserts,454,77,35.65,spoiled,1
+Sweets/Desserts,456,69,35.63,spoiled,1
+Sweets/Desserts,462,73,35.61,spoiled,1
+Sweets/Desserts,460,75,35.68,spoiled,1
+Sweets/Desserts,455,72,35.56,spoiled,1
+Sweets/Desserts,465,76,36.0,spoiled,1
+Sweets/Desserts,458,75,36.27,spoiled,1
+Sweets/Desserts,462,74,35.83,spoiled,1
+Sweets/Desserts,455,72,35.94,spoiled,1
+Sweets/Desserts,452,76,36.14,spoiled,1
+Sweets/Desserts,455,73,36.19,spoiled,1
+Sweets/Desserts,450,70,36.11,spoiled,1
+Sweets/Desserts,467,75,35.99,spoiled,1
+Sweets/Desserts,461,71,36.46,spoiled,1
+Sweets/Desserts,458,70,36.34,spoiled,1
+Sweets/Desserts,463,75,36.33,spoiled,1
+Sweets/Desserts,463,75,36.24,spoiled,1
+Sweets/Desserts,464,72,36.41,spoiled,1
+Sweets/Desserts,466,76,36.18,spoiled,1
+Sweets/Desserts,462,76,36.61,spoiled,1
+Sweets/Desserts,461,76,36.7,spoiled,1
+Sweets/Desserts,466,76,36.64,spoiled,1
+Sweets/Desserts,467,70,36.51,spoiled,1
+Sweets/Desserts,465,79,36.77,spoiled,1
+Sweets/Desserts,472,77,36.88,spoiled,1
+Sweets/Desserts,464,72,36.7,spoiled,1
+Sweets/Desserts,463,75,37.0,spoiled,1
+Sweets/Desserts,467,76,36.99,spoiled,1
+Sweets/Desserts,465,75,36.92,spoiled,1
+Sweets/Desserts,468,80,36.93,spoiled,1
+Sweets/Desserts,465,69,37.04,spoiled,1
+Sweets/Desserts,467,71,36.98,spoiled,1
+Sweets/Desserts,474,68,37.21,spoiled,1
+Sweets/Desserts,467,75,37.31,spoiled,1
+Sweets/Desserts,466,77,37.45,spoiled,1
+Sweets/Desserts,473,76,37.37,spoiled,1
+Sweets/Desserts,467,74,37.44,spoiled,1
+Sweets/Desserts,468,76,37.39,spoiled,1
+Sweets/Desserts,472,74,37.35,spoiled,1
+Sweets/Desserts,474,77,37.47,spoiled,1
+Sweets/Desserts,475,78,37.8,spoiled,1
+Sweets/Desserts,469,72,37.73,spoiled,1
+Sweets/Desserts,474,74,37.75,spoiled,1
+Sweets/Desserts,471,75,37.47,spoiled,1
+Sweets/Desserts,471,79,37.84,spoiled,1
+Sweets/Desserts,477,73,37.65,spoiled,1
+Sweets/Desserts,472,78,37.71,spoiled,1
+Sweets/Desserts,475,71,37.78,spoiled,1
+Sweets/Desserts,475,79,37.88,spoiled,1
+Other,318,61,21.84,not spoiled,0
+Other,317,60,22.19,not spoiled,0
+Other,312,62,22.16,not spoiled,0
+Other,327,66,21.82,not spoiled,0
+Other,319,65,22.2,not spoiled,0
+Other,325,63,22.09,not spoiled,0
+Other,319,66,22.41,not spoiled,0
+Other,323,68,22.06,not spoiled,0
+Other,324,66,22.27,not spoiled,0
+Other,320,65,22.42,not spoiled,0
+Other,327,68,22.41,not spoiled,0
+Other,324,62,22.56,not spoiled,0
+Other,326,64,22.25,not spoiled,0
+Other,329,64,22.77,not spoiled,0
+Other,327,61,22.64,not spoiled,0
+Other,325,64,22.81,not spoiled,0
+Other,332,59,22.77,not spoiled,0
+Other,326,71,22.68,not spoiled,0
+Other,327,62,22.53,not spoiled,0
+Other,327,70,22.68,not spoiled,0
+Other,324,65,23.04,not spoiled,0
+Other,324,67,23.05,not spoiled,0
+Other,327,64,22.79,not spoiled,0
+Other,326,66,22.5,not spoiled,0
+Other,328,67,22.93,not spoiled,0
+Other,332,67,22.96,not spoiled,0
+Other,329,67,23.01,not spoiled,0
+Other,331,64,23.17,not spoiled,0
+Other,329,64,23.26,not spoiled,0
+Other,339,60,23.32,not spoiled,0
+Other,336,67,23.27,not spoiled,0
+Other,331,68,22.98,not spoiled,0
+Other,333,70,23.24,not spoiled,0
+Other,328,66,23.67,not spoiled,0
+Other,332,63,23.42,not spoiled,0
+Other,331,60,23.46,not spoiled,0
+Other,336,68,23.5,not spoiled,0
+Other,331,60,23.55,not spoiled,0
+Other,339,64,23.17,not spoiled,0
+Other,334,64,23.53,not spoiled,0
+Other,332,65,23.6,not spoiled,0
+Other,335,65,23.84,not spoiled,0
+Other,338,65,23.7,not spoiled,0
+Other,338,58,23.48,not spoiled,0
+Other,337,65,23.83,not spoiled,0
+Other,340,58,23.69,not spoiled,0
+Other,340,67,23.67,not spoiled,0
+Other,340,63,23.77,not spoiled,0
+Other,337,59,24.01,not spoiled,0
+Other,338,63,24.16,not spoiled,0
+Other,338,63,24.08,not spoiled,0
+Other,338,69,24.15,not spoiled,0
+Other,340,66,24.16,not spoiled,0
+Other,340,66,24.15,not spoiled,0
+Other,345,69,24.28,not spoiled,0
+Other,339,65,23.85,not spoiled,0
+Other,338,67,24.27,not spoiled,0
+Other,343,67,24.14,not spoiled,0
+Other,342,61,24.51,not spoiled,0
+Other,340,69,24.35,not spoiled,0
+Other,345,61,24.42,not spoiled,0
+Other,342,68,24.23,not spoiled,0
+Other,348,60,24.65,not spoiled,0
+Other,341,67,24.63,not spoiled,0
+Other,342,71,24.66,not spoiled,0
+Other,345,64,24.49,not spoiled,0
+Other,349,64,24.54,not spoiled,0
+Other,343,67,24.73,not spoiled,0
+Other,347,64,24.63,not spoiled,0
+Other,342,70,24.84,not spoiled,0
+Other,349,66,24.49,not spoiled,0
+Other,345,64,24.78,not spoiled,0
+Other,349,63,25.17,not spoiled,0
+Other,349,62,25.0,not spoiled,0
+Other,342,63,25.0,not spoiled,0
+Other,349,64,25.32,not spoiled,0
+Other,347,64,24.71,not spoiled,0
+Other,350,63,24.98,not spoiled,0
+Other,347,71,25.08,not spoiled,0
+Other,348,62,25.31,not spoiled,0
+Other,354,65,25.35,not spoiled,0
+Other,354,67,25.13,not spoiled,0
+Other,348,67,25.45,not spoiled,0
+Other,357,65,25.28,not spoiled,0
+Other,344,64,25.56,not spoiled,0
+Other,353,66,25.26,not spoiled,0
+Other,348,66,25.44,not spoiled,0
+Other,354,64,25.43,not spoiled,0
+Other,352,60,25.7,not spoiled,0
+Other,350,64,25.5,not spoiled,0
+Other,352,62,25.61,not spoiled,0
+Other,352,63,25.74,not spoiled,0
+Other,355,65,25.78,not spoiled,0
+Other,358,66,25.87,not spoiled,0
+Other,361,70,25.81,not spoiled,0
+Other,355,63,25.76,not spoiled,0
+Other,357,67,25.81,not spoiled,0
+Other,360,66,25.91,not spoiled,0
+Other,355,69,25.98,not spoiled,0
+Other,355,67,25.96,not spoiled,0
+Other,363,62,26.03,not spoiled,0
+Other,357,60,25.84,not spoiled,0
+Other,359,66,26.2,not spoiled,0
+Other,354,63,26.17,not spoiled,0
+Other,357,62,26.33,not spoiled,0
+Other,365,61,26.22,not spoiled,0
+Other,361,65,26.0,not spoiled,0
+Other,360,70,26.25,not spoiled,0
+Other,365,64,26.31,not spoiled,0
+Other,356,67,26.5,not spoiled,0
+Other,360,65,26.11,not spoiled,0
+Other,368,61,26.47,not spoiled,0
+Other,362,67,26.58,not spoiled,0
+Other,362,62,26.45,not spoiled,0
+Other,366,65,26.6,not spoiled,0
+Other,367,64,26.53,not spoiled,0
+Other,360,68,26.56,not spoiled,0
+Other,365,62,26.65,not spoiled,0
+Other,370,66,26.64,not spoiled,0
+Other,363,62,26.89,not spoiled,0
+Other,364,63,26.72,not spoiled,0
+Other,365,54,26.73,not spoiled,0
+Other,368,71,27.17,not spoiled,0
+Other,362,67,27.09,not spoiled,0
+Other,357,63,26.71,not spoiled,0
+Other,368,62,26.91,not spoiled,0
+Other,371,64,27.11,not spoiled,0
+Other,367,67,27.16,not spoiled,0
+Other,366,59,26.93,not spoiled,0
+Other,368,65,27.36,not spoiled,0
+Other,374,70,27.35,not spoiled,0
+Other,367,62,27.34,not spoiled,0
+Other,371,65,27.51,not spoiled,0
+Other,366,72,27.42,not spoiled,0
+Other,367,67,27.46,not spoiled,0
+Other,373,65,27.66,not spoiled,0
+Other,376,67,27.64,not spoiled,0
+Other,374,64,27.39,not spoiled,0
+Other,366,69,27.65,not spoiled,0
+Other,371,64,27.49,not spoiled,0
+Other,373,59,27.71,not spoiled,0
+Other,373,64,27.74,not spoiled,0
+Other,367,62,27.51,not spoiled,0
+Other,370,64,27.73,not spoiled,0
+Other,372,64,27.83,not spoiled,0
+Other,374,69,27.77,not spoiled,0
+Other,369,67,27.92,not spoiled,0
+Other,377,66,28.03,not spoiled,0
+Other,375,65,27.95,not spoiled,0
+Other,373,62,28.03,not spoiled,0
+Other,377,58,28.24,not spoiled,0
+Other,372,65,28.15,not spoiled,0
+Other,377,67,28.15,not spoiled,0
+Other,372,65,28.01,not spoiled,0
+Other,373,63,28.3,not spoiled,0
+Other,377,66,28.29,not spoiled,0
+Other,376,65,28.47,not spoiled,0
+Other,380,70,28.32,not spoiled,0
+Other,379,69,28.08,not spoiled,0
+Other,386,68,28.14,spoiled,1
+Other,379,67,28.55,not spoiled,0
+Other,370,61,28.39,not spoiled,0
+Other,375,67,28.58,not spoiled,0
+Other,378,66,28.57,not spoiled,0
+Other,392,67,28.57,spoiled,1
+Other,382,66,28.62,spoiled,1
+Other,386,66,28.55,spoiled,1
+Other,386,73,28.72,spoiled,1
+Other,379,65,28.67,not spoiled,0
+Other,378,68,28.74,not spoiled,0
+Other,386,64,28.79,spoiled,1
+Other,377,67,28.85,not spoiled,0
+Other,387,68,29.06,spoiled,1
+Other,385,66,28.94,spoiled,1
+Other,387,70,29.15,spoiled,1
+Other,387,62,29.27,spoiled,1
+Other,387,64,29.21,spoiled,1
+Other,387,66,29.2,spoiled,1
+Other,388,68,29.21,spoiled,1
+Other,387,66,29.33,spoiled,1
+Other,383,69,29.25,spoiled,1
+Other,387,63,29.43,spoiled,1
+Other,395,62,29.41,spoiled,1
+Other,390,66,29.31,spoiled,1
+Other,392,65,29.54,spoiled,1
+Other,386,67,29.46,spoiled,1
+Other,387,65,29.47,spoiled,1
+Other,386,64,29.45,spoiled,1
+Other,386,65,29.59,spoiled,1
+Other,386,65,29.75,spoiled,1
+Other,392,64,29.78,spoiled,1
+Other,391,64,29.74,spoiled,1
+Other,395,64,29.81,spoiled,1
+Other,391,68,29.96,spoiled,1
+Other,386,66,29.78,spoiled,1
+Other,394,72,29.68,spoiled,1
+Other,387,65,30.08,spoiled,1
+Other,394,63,29.85,spoiled,1
+Other,392,73,29.86,spoiled,1
+Other,395,66,29.74,spoiled,1
+Other,391,68,30.13,spoiled,1
+Other,398,67,29.84,spoiled,1
+Other,396,67,30.01,spoiled,1
+Other,395,67,30.25,spoiled,1
+Other,391,62,30.32,spoiled,1
+Other,402,66,30.15,spoiled,1
+Other,395,61,30.27,spoiled,1
+Other,398,64,30.2,spoiled,1
+Other,395,63,30.29,spoiled,1
+Other,410,66,30.45,spoiled,1
+Other,399,66,30.37,spoiled,1
+Other,397,66,30.45,spoiled,1
+Other,401,66,30.31,spoiled,1
+Other,402,63,30.74,spoiled,1
+Other,401,64,30.69,spoiled,1
+Other,400,68,30.77,spoiled,1
+Other,402,68,30.88,spoiled,1
+Other,401,62,30.61,spoiled,1
+Other,402,60,30.72,spoiled,1
+Other,400,63,30.53,spoiled,1
+Other,398,68,31.32,spoiled,1
+Other,405,69,30.87,spoiled,1
+Other,405,62,31.09,spoiled,1
+Other,407,66,30.79,spoiled,1
+Other,404,71,31.16,spoiled,1
+Other,404,66,31.33,spoiled,1
+Other,400,69,31.08,spoiled,1
+Other,405,68,30.98,spoiled,1
+Other,407,62,31.15,spoiled,1
+Other,400,64,30.88,spoiled,1
+Other,409,65,31.25,spoiled,1
+Other,404,65,31.42,spoiled,1
+Other,406,68,31.33,spoiled,1
+Other,409,66,31.33,spoiled,1
+Other,408,56,31.49,spoiled,1
+Other,412,61,31.54,spoiled,1
+Other,410,58,31.25,spoiled,1
+Other,408,66,31.55,spoiled,1
+Other,400,66,31.94,spoiled,1
+Other,413,66,31.41,spoiled,1
+Other,406,62,31.64,spoiled,1
+Other,413,67,31.99,spoiled,1
+Other,412,67,31.9,spoiled,1
+Other,410,61,31.7,spoiled,1
+Other,414,61,31.85,spoiled,1
+Other,413,65,31.86,spoiled,1
+Other,413,70,31.78,spoiled,1
+Other,407,70,31.93,spoiled,1
+Other,413,67,31.94,spoiled,1
+Other,410,63,32.03,spoiled,1
+Other,410,68,31.95,spoiled,1
+Other,413,64,31.91,spoiled,1
+Other,419,63,32.13,spoiled,1
+Other,416,59,32.44,spoiled,1
+Other,417,65,32.23,spoiled,1
+Other,418,63,32.21,spoiled,1
+Other,413,65,32.41,spoiled,1
+Other,412,58,32.32,spoiled,1
+Other,411,66,32.66,spoiled,1
+Other,418,58,32.42,spoiled,1
+Other,420,68,32.56,spoiled,1
+Other,421,67,32.39,spoiled,1
+Other,416,64,32.62,spoiled,1
+Other,423,67,32.62,spoiled,1
+Other,425,62,32.61,spoiled,1
+Other,421,65,32.59,spoiled,1
+Other,424,67,32.61,spoiled,1
+Other,423,56,32.78,spoiled,1
+Other,420,64,32.88,spoiled,1
+Other,419,65,32.8,spoiled,1
+Other,416,64,32.91,spoiled,1
+Other,420,69,32.9,spoiled,1
+Other,421,62,32.96,spoiled,1
+Other,422,63,32.95,spoiled,1
+Other,422,59,33.03,spoiled,1
+Other,416,70,33.47,spoiled,1
+Other,426,64,33.15,spoiled,1
+Other,427,64,33.24,spoiled,1
+Other,425,65,33.25,spoiled,1
+Other,421,67,33.18,spoiled,1
+Other,426,66,33.46,spoiled,1
+Other,425,73,33.26,spoiled,1
+Other,427,66,33.5,spoiled,1
+Other,431,64,33.33,spoiled,1
+Other,426,63,33.28,spoiled,1
+Other,427,64,33.52,spoiled,1
+Other,425,60,33.34,spoiled,1
+Other,430,65,33.63,spoiled,1
+Other,430,67,33.41,spoiled,1
+Other,429,63,33.58,spoiled,1
+Other,426,63,33.45,spoiled,1
+Other,427,70,34.13,spoiled,1
+Other,424,61,33.5,spoiled,1
+Other,428,59,33.79,spoiled,1
+Other,432,62,34.0,spoiled,1
+Other,432,60,34.02,spoiled,1
+Other,431,66,34.04,spoiled,1
+Other,436,64,33.9,spoiled,1
+Other,433,64,34.19,spoiled,1
+Other,430,68,34.17,spoiled,1
+Other,430,63,34.1,spoiled,1
+Other,432,67,34.15,spoiled,1
+Other,432,70,34.1,spoiled,1
+Other,436,64,34.05,spoiled,1
+Other,435,67,34.42,spoiled,1
+Other,433,64,34.47,spoiled,1
+Other,434,68,34.18,spoiled,1
+Other,437,60,34.33,spoiled,1
+Other,438,60,34.37,spoiled,1
+Other,430,64,34.43,spoiled,1
+Other,436,62,34.48,spoiled,1
+Other,437,63,34.65,spoiled,1
+Other,439,64,34.44,spoiled,1
+Other,438,67,34.47,spoiled,1
+Other,439,64,34.82,spoiled,1
+Other,437,63,34.6,spoiled,1
+Other,436,64,34.52,spoiled,1
+Other,441,63,34.68,spoiled,1
+Other,442,62,34.74,spoiled,1
+Other,442,60,35.07,spoiled,1
+Other,442,65,35.01,spoiled,1
+Other,437,63,35.09,spoiled,1
+Other,439,68,35.08,spoiled,1
+Other,444,61,35.14,spoiled,1
+Other,443,63,34.93,spoiled,1
+Other,442,70,35.04,spoiled,1
+Other,441,62,34.97,spoiled,1
+Other,446,64,35.12,spoiled,1
+Other,438,61,35.3,spoiled,1
+Other,444,61,35.26,spoiled,1
+Other,444,70,35.47,spoiled,1
+Other,440,66,35.14,spoiled,1
+Other,449,65,35.43,spoiled,1
+Other,437,60,35.21,spoiled,1
+Other,446,66,35.45,spoiled,1
+Other,447,68,35.59,spoiled,1
+Other,443,68,35.49,spoiled,1
+Other,447,67,35.64,spoiled,1
+Other,446,62,35.45,spoiled,1
+Other,450,66,35.39,spoiled,1
+Other,458,67,35.76,spoiled,1
+Other,449,60,35.98,spoiled,1
+Other,450,62,35.61,spoiled,1
+Other,446,68,35.98,spoiled,1
+Other,450,68,35.85,spoiled,1
+Other,448,60,35.68,spoiled,1
+Other,452,67,35.75,spoiled,1
+Other,446,65,35.96,spoiled,1
+Other,447,67,35.94,spoiled,1
